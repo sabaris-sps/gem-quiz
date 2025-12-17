@@ -4572,7 +4572,7 @@
       "Both A and B",
       "Neither A nor B"
     ],
-    "answer": "Neither A nor B",
+    "answer": "Both A and B",
     "hint": "Solubility trend.",
     "solution": "Solubility of carbonates decreases down the group (Ca > Sr > Ba). So Ca is more soluble than both.",
     "page_ref": 52
