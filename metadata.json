@@ -1,0 +1,5 @@
+{
+  "name": "Salt Analysis Quiz",
+  "description": "An interactive, Gemini-themed quiz application for Salt Analysis Theory with progress tracking and Firebase integration support. Made with Gemini!",
+  "requestFramePermissions": []
+}

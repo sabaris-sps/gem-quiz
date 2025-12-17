@@ -1,0 +1,7002 @@
+[
+  {
+    "qno": 1,
+    "question_text": "The first step in qualitative inorganic salt analysis is:",
+    "options": [
+      "Wet test for cation",
+      "Dry test for anion",
+      "Preliminary examination",
+      "Group precipitation"
+    ],
+    "answer": "Preliminary examination",
+    "hint": "Before adding any chemical reagents, simple observations like colour and appearance are made.",
+    "solution": "Qualitative analysis always starts with preliminary examinations (colour, smell, appearance) which provide initial clues about the salt.",
+    "page_ref": 6
+  },
+  {
+    "qno": 2,
+    "question_text": "Which of the following observations is part of preliminary examination?",
+    "options": [
+      "Colour of solution",
+      "Colour of salt",
+      "Group reagent reaction",
+      "Confirmatory test"
+    ],
+    "answer": "Colour of salt",
+    "hint": "This step involves physical observation of the solid salt.",
+    "solution": "Observing the colour of the solid salt is a key part of the preliminary examination to predict possible cations.",
+    "page_ref": 6
+  },
+  {
+    "qno": 3,
+    "question_text": "A blue-coloured salt most commonly indicates the presence of:",
+    "options": [
+      "Fe2+",
+      "Cu2+",
+      "Ni2+",
+      "Co2+"
+    ],
+    "answer": "Cu2+",
+    "hint": "Think of the colour of copper sulphate crystals.",
+    "solution": "Cu2+ salts, particularly hydrated ones like copper sulphate, are characteristically blue.",
+    "page_ref": 7
+  },
+  {
+    "qno": 4,
+    "question_text": "A green-coloured salt may indicate the presence of:",
+    "options": [
+      "Cu2+",
+      "Fe2+",
+      "Zn2+",
+      "Al3+"
+    ],
+    "answer": "Fe2+",
+    "hint": "Ferrous sulphate is a common example of this colour salt.",
+    "solution": "Fe2+ (ferrous) salts are typically light green. Ni2+ and Cr3+ can also be green.",
+    "page_ref": 7
+  },
+  {
+    "qno": 5,
+    "question_text": "A yellow-coloured salt often suggests the presence of:",
+    "options": [
+      "Pb2+",
+      "Fe3+",
+      "Ni2+",
+      "Zn2+"
+    ],
+    "answer": "Fe3+",
+    "hint": "Ferric chloride is a common example.",
+    "solution": "Fe3+ (ferric) salts are often yellow or yellowish-brown.",
+    "page_ref": 8
+  },
+  {
+    "qno": 6,
+    "question_text": "A white colour of salt generally indicates:",
+    "options": [
+      "Coloured cation",
+      "Transition metal ion",
+      "Colourless ion",
+      "Presence of sulphide"
+    ],
+    "answer": "Colourless ion",
+    "hint": "Colored salts usually contain transition metals with unpaired d-electrons.",
+    "solution": "White salts usually indicate the absence of coloured transition metal ions; the cations present are 'colourless'.",
+    "page_ref": 7
+  },
+  {
+    "qno": 7,
+    "question_text": "Which ion commonly forms colourless salts?",
+    "options": [
+      "Cu2+",
+      "Ni2+",
+      "Zn2+",
+      "Fe3+"
+    ],
+    "answer": "Zn2+",
+    "hint": "This ion has a completely filled d-orbital (d10 configuration).",
+    "solution": "Zn2+ has no unpaired electrons in its d-orbitals, so its salts are typically white (colourless in solution).",
+    "page_ref": 7
+  },
+  {
+    "qno": 8,
+    "question_text": "A pink crystalline salt is most likely to contain:",
+    "options": [
+      "Co2+",
+      "Ni2+",
+      "Mn2+",
+      "Zn2+"
+    ],
+    "answer": "Co2+",
+    "hint": "Hydrated cobalt salts show this colour.",
+    "solution": "Hydrated Co2+ salts are characteristically pink/purple. Mn2+ is a very pale pink (flesh/buff).",
+    "page_ref": 7
+  },
+  {
+    "qno": 9,
+    "question_text": "The green colour of hydrated ferrous salts is due to:",
+    "options": [
+      "Anion",
+      "Hydration",
+      "Fe2+ ion",
+      "Impurities"
+    ],
+    "answer": "Fe2+ ion",
+    "hint": "The cation determines the colour in transition metal salts.",
+    "solution": "The green colour is a property of the hydrated Fe2+ ion itself due to d-d electron transitions.",
+    "page_ref": 7
+  },
+  {
+    "qno": 10,
+    "question_text": "The blue colour of copper sulphate crystals is due to:",
+    "options": [
+      "SO4 2-",
+      "Water of crystallisation",
+      "Cu2+ ion",
+      "Impurities"
+    ],
+    "answer": "Cu2+ ion",
+    "hint": "Anhydrous copper sulphate is white.",
+    "solution": "The blue colour is due to the Cu2+ ion, specifically when it is coordinated with water molecules (hydration).",
+    "page_ref": 7
+  },
+  {
+    "qno": 11,
+    "question_text": "Which type of salts are generally soluble in water?",
+    "options": [
+      "Carbonates",
+      "Nitrates",
+      "Sulphides",
+      "Phosphates"
+    ],
+    "answer": "Nitrates",
+    "hint": "A general solubility rule states that all salts of this anion are soluble.",
+    "solution": "All nitrates are soluble in water.",
+    "page_ref": 22
+  },
+  {
+    "qno": 12,
+    "question_text": "Insolubility of a salt in water suggests the possible presence of:",
+    "options": [
+      "Alkali metal ion",
+      "Nitrate ion",
+      "Carbonate or sulphide",
+      "Ammonium ion"
+    ],
+    "answer": "Carbonate or sulphide",
+    "hint": "Salts of Group 1 and Ammonium are soluble.",
+    "solution": "Most carbonates and sulphides (except those of alkali metals and ammonium) are insoluble in water.",
+    "page_ref": 21
+  },
+  {
+    "qno": 13,
+    "question_text": "If a salt dissolves completely in water, it is most likely to contain:",
+    "options": [
+      "Pb2+",
+      "Ag+",
+      "Na+",
+      "Ca2+"
+    ],
+    "answer": "Na+",
+    "hint": "Alkali metal salts are highly soluble.",
+    "solution": "Salts of Sodium (Na+) are almost always soluble in water.",
+    "page_ref": 23
+  },
+  {
+    "qno": 14,
+    "question_text": "Which ion almost always forms water-soluble salts?",
+    "options": [
+      "Ba2+",
+      "Pb2+",
+      "Na+",
+      "Ca2+"
+    ],
+    "answer": "Na+",
+    "hint": "Group 1 metal cations form soluble salts.",
+    "solution": "Sodium (Na+) is an alkali metal, and its salts are universally soluble in water.",
+    "page_ref": 23
+  },
+  {
+    "qno": 15,
+    "question_text": "Insolubility in water but solubility in dilute acid suggests presence of:",
+    "options": [
+      "Nitrate",
+      "Chloride",
+      "Carbonate",
+      "Sulphate"
+    ],
+    "answer": "Carbonate",
+    "hint": "This anion reacts with acid to release a gas, driving the dissolution.",
+    "solution": "Insoluble carbonates react with dilute acids to form soluble salts, water, and CO2 gas.",
+    "page_ref": 23
+  },
+  {
+    "qno": 16,
+    "question_text": "Heating a salt in a dry test tube is used to detect:",
+    "options": [
+      "Cation only",
+      "Anion only",
+      "Volatile substances and water",
+      "Group separation"
+    ],
+    "answer": "Volatile substances and water",
+    "hint": "Heat causes decomposition and evaporation.",
+    "solution": "The action of heat test helps detect water of crystallization (droplets) and volatile gases from decomposing anions.",
+    "page_ref": 9
+  },
+  {
+    "qno": 17,
+    "question_text": "Water droplets on the test tube walls indicate:",
+    "options": [
+      "Hygroscopic nature",
+      "Water of crystallisation",
+      "Sublimation",
+      "Decomposition"
+    ],
+    "answer": "Water of crystallisation",
+    "hint": "Hydrated salts lose this water upon heating.",
+    "solution": "The presence of water droplets on the cooler parts of the tube during heating indicates the salt was hydrated.",
+    "page_ref": 9
+  },
+  {
+    "qno": 18,
+    "question_text": "Blue copper sulphate turns white on heating due to loss of:",
+    "options": [
+      "Cu2+",
+      "SO4 2-",
+      "Water of crystallisation",
+      "Oxygen"
+    ],
+    "answer": "Water of crystallisation",
+    "hint": "The blue color is associated with the hydrated complex.",
+    "solution": "Heating removes the water ligands (water of crystallisation), leaving behind anhydrous CuSO4 which is white.",
+    "page_ref": 10
+  },
+  {
+    "qno": 19,
+    "question_text": "Reappearance of blue colour on adding water confirms presence of:",
+    "options": [
+      "Cu2+",
+      "Fe2+",
+      "Hydrated salt",
+      "Sulphate ion"
+    ],
+    "answer": "Cu2+",
+    "hint": "This metal ion forms a blue complex with water.",
+    "solution": "If a white residue turns blue upon adding water, it confirms the presence of Copper (Cu2+) as it re-hydrates.",
+    "page_ref": 7
+  },
+  {
+    "qno": 20,
+    "question_text": "A gas with smell of rotten eggs on heating indicates:",
+    "options": [
+      "CO2",
+      "SO2",
+      "H2S",
+      "NH3"
+    ],
+    "answer": "H2S",
+    "hint": "This gas is produced from sulphides.",
+    "solution": "Hydrogen sulphide (H2S) has a characteristic smell of rotten eggs.",
+    "page_ref": 18
+  },
+  {
+    "qno": 21,
+    "question_text": "A gas turning moist red litmus blue indicates:",
+    "options": [
+      "H2S",
+      "NH3",
+      "SO2",
+      "CO2"
+    ],
+    "answer": "NH3",
+    "hint": "This is a basic gas.",
+    "solution": "Ammonia (NH3) is the only common basic gas in qualitative analysis, turning red litmus paper blue.",
+    "page_ref": 32
+  },
+  {
+    "qno": 22,
+    "question_text": "A colourless, odourless gas that turns limewater milky is:",
+    "options": [
+      "SO2",
+      "NH3",
+      "CO2",
+      "NO2"
+    ],
+    "answer": "CO2",
+    "hint": "This gas is evolved from carbonates.",
+    "solution": "Carbon dioxide (CO2) reacts with lime water (calcium hydroxide) to form a white precipitate of calcium carbonate (milkiness).",
+    "page_ref": 17
+  },
+  {
+    "qno": 23,
+    "question_text": "Brown fumes evolved on heating usually indicate presence of:",
+    "options": [
+      "Nitrite or nitrate",
+      "Sulphide",
+      "Carbonate",
+      "Chloride"
+    ],
+    "answer": "Nitrite or nitrate",
+    "hint": "The brown gas is nitrogen dioxide.",
+    "solution": "Heating nitrates or nitrites often evolves reddish-brown NO2 gas.",
+    "page_ref": 18
+  },
+  {
+    "qno": 24,
+    "question_text": "Heating ammonium salts with NaOH gives a gas that:",
+    "options": [
+      "Is acidic",
+      "Turns red litmus blue",
+      "Turns limewater milky",
+      "Is colourless and odourless"
+    ],
+    "answer": "Turns red litmus blue",
+    "hint": "The gas evolved is Ammonia.",
+    "solution": "Ammonium salts react with strong bases to release Ammonia gas, which is basic and turns red litmus blue.",
+    "page_ref": 32
+  },
+  {
+    "qno": 25,
+    "question_text": "Sublimation on heating is characteristic of:",
+    "options": [
+      "NH4Cl",
+      "NaCl",
+      "KNO3",
+      "CaCO3"
+    ],
+    "answer": "NH4Cl",
+    "hint": "Ammonium salts are known to sublime.",
+    "solution": "Ammonium chloride (NH4Cl) sublimes (turns from solid to gas) directly upon heating.",
+    "page_ref": 9
+  },
+  {
+    "qno": 26,
+    "question_text": "Flame test is mainly useful for detecting:",
+    "options": [
+      "Anions",
+      "Transition metals",
+      "Alkali and alkaline earth metals",
+      "Heavy metals"
+    ],
+    "answer": "Alkali and alkaline earth metals",
+    "hint": "These metals have low ionization energies allowing easy electron excitation.",
+    "solution": "Flame tests are characteristic for Group 1 (Alkali) and Group 2 (Alkaline earth) metals like Na, K, Ca, Sr, Ba.",
+    "page_ref": 11
+  },
+  {
+    "qno": 27,
+    "question_text": "Sodium imparts which colour to flame?",
+    "options": [
+      "Brick red",
+      "Crimson",
+      "Golden yellow",
+      "Apple green"
+    ],
+    "answer": "Golden yellow",
+    "hint": "Think of the colour of street lamps.",
+    "solution": "Sodium gives a persistent golden yellow colour to the Bunsen flame.",
+    "page_ref": 11
+  },
+  {
+    "qno": 28,
+    "question_text": "Potassium gives which flame colour?",
+    "options": [
+      "Yellow",
+      "Violet",
+      "Green",
+      "Blue"
+    ],
+    "answer": "Violet",
+    "hint": "Also described as lilac.",
+    "solution": "Potassium salts impart a violet (or lilac) colour to the flame.",
+    "page_ref": 11
+  },
+  {
+    "qno": 29,
+    "question_text": "Calcium gives which flame colour?",
+    "options": [
+      "Crimson",
+      "Brick red",
+      "Green",
+      "Violet"
+    ],
+    "answer": "Brick red",
+    "hint": "It is a reddish-orange shade.",
+    "solution": "Calcium salts give a brick red colour to the flame.",
+    "page_ref": 11
+  },
+  {
+    "qno": 30,
+    "question_text": "Barium imparts which flame colour?",
+    "options": [
+      "Crimson",
+      "Brick red",
+      "Apple green",
+      "Violet"
+    ],
+    "answer": "Apple green",
+    "hint": "It is a light green colour.",
+    "solution": "Barium salts impart a characteristic apple green colour to the flame.",
+    "page_ref": 11
+  },
+  {
+    "qno": 31,
+    "question_text": "Copper gives which flame colour?",
+    "options": [
+      "Yellow",
+      "Blue-green",
+      "Crimson",
+      "Brick red"
+    ],
+    "answer": "Blue-green",
+    "hint": "Copper salts typically impart a bluish-green colour.",
+    "solution": "Copper gives a characteristic bluish-green flame due to electron excitation.",
+    "page_ref": 11
+  },
+  {
+    "qno": 32,
+    "question_text": "Flame test colour is due to:",
+    "options": [
+      "Ionisation energy",
+      "Atomic mass",
+      "Excited electrons",
+      "Anion present"
+    ],
+    "answer": "Excited electrons",
+    "hint": "The colour arises when electrons fall back to the ground state.",
+    "solution": "Flame colours are caused by the emission of radiation in the visible region when excited electrons return to lower energy levels.",
+    "page_ref": 11
+  },
+  {
+    "qno": 33,
+    "question_text": "Sodium flame colour can mask other colours because it is:",
+    "options": [
+      "Weak",
+      "Intense",
+      "Invisible",
+      "Short-lived"
+    ],
+    "answer": "Intense",
+    "hint": "The yellow emission is very strong and persistent.",
+    "solution": "The golden yellow flame of sodium is very intense and can easily mask the lighter colours of other metals like potassium.",
+    "page_ref": 11
+  },
+  {
+    "qno": 34,
+    "question_text": "To observe potassium flame clearly, which glass is used?",
+    "options": [
+      "Blue glass",
+      "Green glass",
+      "Red glass",
+      "Yellow glass"
+    ],
+    "answer": "Blue glass",
+    "hint": "This glass filters out the intense yellow light of sodium.",
+    "solution": "Blue (cobalt) glass absorbs the yellow light from sodium, allowing the violet flame of potassium to be seen.",
+    "page_ref": 11
+  },
+  {
+    "qno": 35,
+    "question_text": "Flame test is unreliable for:",
+    "options": [
+      "Na+",
+      "K+",
+      "Mg2+",
+      "Ca2+"
+    ],
+    "answer": "Mg2+",
+    "hint": "This ion has a high ionization energy and does not impart colour to the Bunsen flame.",
+    "solution": "Be and Mg atoms are smaller and have high ionization energies; the Bunsen flame energy is insufficient to excite their electrons, so they do not show flame colours.",
+    "page_ref": 11
+  },
+  {
+    "qno": 36,
+    "question_text": "In systematic qualitative analysis, anion detection is done:",
+    "options": [
+      "After cation analysis",
+      "Before cation analysis",
+      "Simultaneously",
+      "At the end"
+    ],
+    "answer": "Before cation analysis",
+    "hint": "Anions can interfere with cation group reagents.",
+    "solution": "Anion analysis is done first because certain anions (like phosphates, fluorides) can interfere with cation analysis in alkaline medium.",
+    "page_ref": 5
+  },
+  {
+    "qno": 37,
+    "question_text": "The first reagent used for dry test of anions is usually:",
+    "options": [
+      "AgNO3",
+      "Dilute acid",
+      "BaCl2",
+      "NH4OH"
+    ],
+    "answer": "Dilute acid",
+    "hint": "It detects Class A subgroup I anions.",
+    "solution": "Dilute H2SO4 or HCl is the first reagent to detect anions that evolve volatile products (carbonate, sulphide, sulphite, nitrite).",
+    "page_ref": 15
+  },
+  {
+    "qno": 38,
+    "question_text": "Effervescence with dilute acid indicates presence of:",
+    "options": [
+      "Sulphate",
+      "Nitrate",
+      "Carbonate",
+      "Chloride"
+    ],
+    "answer": "Carbonate",
+    "hint": "The gas evolved turns lime water milky.",
+    "solution": "Brisk effervescence with dilute acid is characteristic of Carbonates (CO3 2-) evolving CO2 gas.",
+    "page_ref": 16
+  },
+  {
+    "qno": 39,
+    "question_text": "The gas evolved from carbonates turns limewater:",
+    "options": [
+      "Blue",
+      "Milky",
+      "Green",
+      "Colourless"
+    ],
+    "answer": "Milky",
+    "hint": "Formation of insoluble calcium carbonate causes this.",
+    "solution": "CO2 gas reacts with Ca(OH)2 (limewater) to form insoluble white CaCO3, turning the solution milky.",
+    "page_ref": 17
+  },
+  {
+    "qno": 40,
+    "question_text": "Sulphide ions on treatment with dilute acid evolve gas having smell of:",
+    "options": [
+      "Burning sulphur",
+      "Rotten eggs",
+      "Ammonia",
+      "Chlorine"
+    ],
+    "answer": "Rotten eggs",
+    "hint": "The gas is H2S.",
+    "solution": "Sulphides react with dilute acid to release H2S gas, which has a characteristic smell of rotten eggs.",
+    "page_ref": 18
+  },
+  {
+    "qno": 41,
+    "question_text": "Sulphite ions on acidification produce a gas that:",
+    "options": [
+      "Turns limewater milky",
+      "Smells like rotten eggs",
+      "Turns acidified KMnO4 colourless",
+      "Turns red litmus blue"
+    ],
+    "answer": "Turns acidified KMnO4 colourless",
+    "hint": "The gas is SO2, which is a reducing agent.",
+    "solution": "Sulphites release SO2 gas, which turns acidified potassium dichromate green and decolourises acidified KMnO4.",
+    "page_ref": 18
+  },
+  {
+    "qno": 42,
+    "question_text": "A gas that decolourises acidified KMnO4 is most likely:",
+    "options": [
+      "CO2",
+      "SO2",
+      "NH3",
+      "NO2"
+    ],
+    "answer": "SO2",
+    "hint": "It smells like burning sulphur.",
+    "solution": "SO2 is a reducing agent that reduces purple MnO4- to colourless Mn2+.",
+    "page_ref": 18
+  },
+  {
+    "qno": 43,
+    "question_text": "Nitrate ions do not react with:",
+    "options": [
+      "Dilute acids",
+      "Conc. acids",
+      "Alkali",
+      "Reducing agents"
+    ],
+    "answer": "Dilute acids",
+    "hint": "Nitrates belong to Class A Subgroup 2.",
+    "solution": "Nitrates (NO3-) do not give any volatile product with dilute acids; they require concentrated H2SO4.",
+    "page_ref": 16
+  },
+  {
+    "qno": 44,
+    "question_text": "Chloride ions give which gas with conc. H2SO4?",
+    "options": [
+      "SO2",
+      "HCl",
+      "NO2",
+      "CO2"
+    ],
+    "answer": "HCl",
+    "hint": "It forms white fumes with ammonia.",
+    "solution": "Chlorides react with concentrated H2SO4 to evolve pungent HCl gas.",
+    "page_ref": 16
+  },
+  {
+    "qno": 45,
+    "question_text": "White fumes with glass rod dipped in NH4OH indicate:",
+    "options": [
+      "CO2",
+      "NH3",
+      "HCl",
+      "SO2"
+    ],
+    "answer": "HCl",
+    "hint": "The reaction produces solid ammonium chloride.",
+    "solution": "HCl gas reacts with NH3 (from NH4OH) to form dense white fumes of NH4Cl.",
+    "page_ref": 19
+  },
+  {
+    "qno": 46,
+    "question_text": "Preliminary examination helps in:",
+    "options": [
+      "Confirming ion",
+      "Eliminating possibilities",
+      "Group separation",
+      "Quantitative estimation"
+    ],
+    "answer": "Eliminating possibilities",
+    "hint": "It narrows down the list of potential ions.",
+    "solution": "Preliminary tests (colour, smell, heating) give clues to narrow down the possibilities but do not confirm them.",
+    "page_ref": 6
+  },
+  {
+    "qno": 47,
+    "question_text": "Colour of salt mainly depends on:",
+    "options": [
+      "Anion",
+      "Cation",
+      "Impurities",
+      "Hydration only"
+    ],
+    "answer": "Cation",
+    "hint": "Transition metal ions are often responsible for colour.",
+    "solution": "While some anions are coloured (like permanganate), the colour of common salts is mainly due to the cation (especially transition metals) or hydration.",
+    "page_ref": 7
+  },
+  {
+    "qno": 48,
+    "question_text": "Water-soluble salts are best tested using:",
+    "options": [
+      "Dry tests only",
+      "Wet tests only",
+      "Flame test only",
+      "Group analysis"
+    ],
+    "answer": "Wet tests only",
+    "hint": "Reactions in solution are faster and more specific.",
+    "solution": "Class B anions and Cations are identified by their reactions in aqueous solution (wet tests).",
+    "page_ref": 15
+  },
+  {
+    "qno": 49,
+    "question_text": "Heating test mainly helps in detecting:",
+    "options": [
+      "Alkali metals",
+      "Volatile components",
+      "Insoluble ions",
+      "Complex ions"
+    ],
+    "answer": "Volatile components",
+    "hint": "Gases and sublimable solids are observed.",
+    "solution": "Action of heat detects volatile substances (gases like NO2, NH3) and sublimates (NH4Cl, I2).",
+    "page_ref": 9
+  },
+  {
+    "qno": 50,
+    "question_text": "Flame test should be done using:",
+    "options": [
+      "Iron wire",
+      "Copper wire",
+      "Platinum or nichrome wire",
+      "Glass rod"
+    ],
+    "answer": "Platinum or nichrome wire",
+    "hint": "The wire must be unreactive and not impart its own colour.",
+    "solution": "Platinum or nichrome wires are used because they have high melting points and do not impart any colour to the flame.",
+    "page_ref": 12
+  },
+  {
+    "qno": 51,
+    "question_text": "When a salt reacts with dilute HCl producing brisk effervescence, the anion most likely present is:",
+    "options": [
+      "SO4 2-",
+      "CO3 2-",
+      "NO3 -",
+      "Cl -"
+    ],
+    "answer": "CO3 2-",
+    "hint": "Effervescence usually indicates evolution of CO2.",
+    "solution": "Carbonates react with dilute acids to evolve CO2 gas with brisk effervescence.",
+    "page_ref": 16
+  },
+  {
+    "qno": 52,
+    "question_text": "The gas evolved from carbonates turns limewater milky due to formation of:",
+    "options": [
+      "CaO",
+      "Ca(HCO3)2",
+      "CaCO3",
+      "CaSO4"
+    ],
+    "answer": "CaCO3",
+    "hint": "It is an insoluble calcium salt.",
+    "solution": "CO2 reacts with Ca(OH)2 to form white precipitate of Calcium Carbonate (CaCO3).",
+    "page_ref": 23
+  },
+  {
+    "qno": 53,
+    "question_text": "If effervescence slows down on continued acid addition, the anion involved is:",
+    "options": [
+      "Sulphide",
+      "Sulphite",
+      "Carbonate",
+      "Nitrate"
+    ],
+    "answer": "Carbonate",
+    "hint": "This is a characteristic of reaction completion.",
+    "solution": "As the carbonate is consumed, the evolution of CO2 (effervescence) slows down and stops.",
+    "page_ref": 23
+  },
+  {
+    "qno": 54,
+    "question_text": "Which anion gives CO2 on treatment with dilute acid?",
+    "options": [
+      "SO3 2-",
+      "CO3 2-",
+      "NO2 -",
+      "Cl -"
+    ],
+    "answer": "CO3 2-",
+    "hint": "Carbonates decompose to release carbon dioxide.",
+    "solution": "Carbonate ions (CO3 2-) react with H+ to form H2O and CO2.",
+    "page_ref": 16
+  },
+  {
+    "qno": 55,
+    "question_text": "Which gas is colourless, odourless, and extinguishes a burning splint?",
+    "options": [
+      "SO2",
+      "H2S",
+      "CO2",
+      "NH3"
+    ],
+    "answer": "CO2",
+    "hint": "It is a non-supporter of combustion and evolved from carbonates.",
+    "solution": "CO2 is colourless, odourless, and heavier than air, which helps it extinguish fire.",
+    "page_ref": 17
+  },
+  {
+    "qno": 56,
+    "question_text": "Sulphide ions react with dilute acids to give gas smelling like:",
+    "options": [
+      "Burning sulphur",
+      "Rotten eggs",
+      "Ammonia",
+      "Chlorine"
+    ],
+    "answer": "Rotten eggs",
+    "hint": "Characteristic smell of H2S.",
+    "solution": "Sulphides release Hydrogen Sulphide (H2S) which smells of rotten eggs.",
+    "page_ref": 18
+  },
+  {
+    "qno": 57,
+    "question_text": "The gas evolved from sulphide ions blackens lead acetate paper due to formation of:",
+    "options": [
+      "PbSO4",
+      "PbCO3",
+      "PbS",
+      "PbCl2"
+    ],
+    "answer": "PbS",
+    "hint": "Lead sulphide is a black precipitate.",
+    "solution": "H2S reacts with lead acetate to form black lead sulphide (PbS).",
+    "page_ref": 24
+  },
+  {
+    "qno": 58,
+    "question_text": "Which anion produces SO2 on acidification?",
+    "options": [
+      "CO3 2-",
+      "SO3 2-",
+      "S 2-",
+      "NO3 -"
+    ],
+    "answer": "SO3 2-",
+    "hint": "Sulphites decompose to give sulphur dioxide.",
+    "solution": "Sulphite ions (SO3 2-) react with acid to release SO2 gas.",
+    "page_ref": 16
+  },
+  {
+    "qno": 59,
+    "question_text": "SO2 can be identified by its ability to:",
+    "options": [
+      "Turn limewater milky",
+      "Turn red litmus blue",
+      "Decolourise acidified KMnO4",
+      "Blacken lead acetate paper"
+    ],
+    "answer": "Decolourise acidified KMnO4",
+    "hint": "It acts as a reducing agent.",
+    "solution": "SO2 is a reducing agent and reduces purple KMnO4 to colourless Mn2+.",
+    "page_ref": 18
+  },
+  {
+    "qno": 60,
+    "question_text": "The smell of burning sulphur is characteristic of:",
+    "options": [
+      "CO2",
+      "SO2",
+      "H2S",
+      "NH3"
+    ],
+    "answer": "SO2",
+    "hint": "This gas is produced when sulphur burns in air.",
+    "solution": "SO2 gas has a pungent, suffocating smell described as burning sulphur.",
+    "page_ref": 17
+  },
+  {
+    "qno": 61,
+    "question_text": "Nitrite ions on treatment with dilute acid evolve:",
+    "options": [
+      "NO2",
+      "NO",
+      "N2O",
+      "NH3"
+    ],
+    "answer": "NO2",
+    "hint": "Reddish-brown fumes are observed.",
+    "solution": "Nitrites (NO2-) form HNO2 which decomposes to give reddish-brown NO2 gas.",
+    "page_ref": 16
+  },
+  {
+    "qno": 62,
+    "question_text": "Brown fumes observed immediately on acidification indicate presence of:",
+    "options": [
+      "NO3 -",
+      "NO2 -",
+      "SO3 2-",
+      "CO3 2-"
+    ],
+    "answer": "NO2 -",
+    "hint": "Nitrates require heating with conc acid/copper to give brown fumes.",
+    "solution": "Nitrites (NO2-) give brown NO2 fumes with dilute acid even without heating.",
+    "page_ref": 25
+  },
+  {
+    "qno": 63,
+    "question_text": "Which anion gives brown fumes without heating?",
+    "options": [
+      "Nitrate",
+      "Nitrite",
+      "Chloride",
+      "Sulphate"
+    ],
+    "answer": "Nitrite",
+    "hint": "Nitrites are unstable in acidic solution.",
+    "solution": "Nitrites react with dilute acids to evolve brown NO2 gas instantly.",
+    "page_ref": 25
+  },
+  {
+    "qno": 64,
+    "question_text": "Nitrate ions do not react with dilute acids because they are:",
+    "options": [
+      "Oxidising",
+      "Reducing",
+      "Stable",
+      "Volatile"
+    ],
+    "answer": "Stable",
+    "hint": "They require a stronger dehydrating agent to decompose.",
+    "solution": "Nitrates are stable towards dilute acids and require concentrated H2SO4 for decomposition.",
+    "page_ref": 16
+  },
+  {
+    "qno": 65,
+    "question_text": "Which test is a specific confirmatory test for nitrate ion?",
+    "options": [
+      "Brown ring test",
+      "Lead acetate test",
+      "Limewater test",
+      "Flame test"
+    ],
+    "answer": "Brown ring test",
+    "hint": "It involves the formation of a brown complex at the junction of liquids.",
+    "solution": "The Brown Ring Test (using FeSO4 and conc H2SO4) confirms Nitrate ions.",
+    "page_ref": 30
+  },
+  {
+    "qno": 66,
+    "question_text": "Concentrated H2SO4 is used mainly to detect:",
+    "options": [
+      "Cations",
+      "Volatile anions",
+      "Alkali metals",
+      "Carbonates"
+    ],
+    "answer": "Volatile anions",
+    "hint": "It detects Class A Subgroup 2 anions.",
+    "solution": "Conc H2SO4 decomposes anions like Cl-, Br-, I-, NO3- to release characteristic volatile vapours.",
+    "page_ref": 15
+  },
+  {
+    "qno": 67,
+    "question_text": "Chloride ions give which gas with conc. H2SO4?",
+    "options": [
+      "Cl2",
+      "HCl",
+      "SO2",
+      "NO2"
+    ],
+    "answer": "HCl",
+    "hint": "A colourless pungent gas.",
+    "solution": "Chlorides react with conc H2SO4 to form Hydrogen Chloride (HCl) gas.",
+    "page_ref": 26
+  },
+  {
+    "qno": 68,
+    "question_text": "The gas evolved from chloride ion gives dense white fumes with:",
+    "options": [
+      "Moist air",
+      "NH3",
+      "H2O",
+      "Limewater"
+    ],
+    "answer": "NH3",
+    "hint": "Formation of ammonium chloride.",
+    "solution": "HCl gas reacts with Ammonia (NH3) to form dense white fumes of NH4Cl.",
+    "page_ref": 26
+  },
+  {
+    "qno": 69,
+    "question_text": "Bromide ions with conc. H2SO4 produce:",
+    "options": [
+      "HBr only",
+      "Br2 vapours",
+      "No reaction",
+      "CO2"
+    ],
+    "answer": "Br2 vapours",
+    "hint": "HBr is a reducing agent and gets oxidised.",
+    "solution": "Bromides initially form HBr, but conc H2SO4 oxidises HBr to reddish-brown Bromine (Br2) vapours.",
+    "page_ref": 27
+  },
+  {
+    "qno": 70,
+    "question_text": "Reddish-brown vapours observed indicate formation of:",
+    "options": [
+      "Cl2",
+      "Br2",
+      "I2",
+      "NO2"
+    ],
+    "answer": "Br2",
+    "hint": "In the context of halide testing.",
+    "solution": "Br2 vapours are reddish-brown. (NO2 is also brown, but context of halides implies Br2).",
+    "page_ref": 27
+  },
+  {
+    "qno": 71,
+    "question_text": "Iodide ions on treatment with conc. H2SO4 give vapours of:",
+    "options": [
+      "Cl2",
+      "Br2",
+      "I2",
+      "SO2"
+    ],
+    "answer": "I2",
+    "hint": "Violet vapours.",
+    "solution": "Iodides are strong reducing agents; they reduce H2SO4 and are themselves oxidised to violet Iodine (I2) vapours.",
+    "page_ref": 28
+  },
+  {
+    "qno": 72,
+    "question_text": "The violet vapours formed are due to:",
+    "options": [
+      "NO2",
+      "I2",
+      "SO2",
+      "HCl"
+    ],
+    "answer": "I2",
+    "hint": "Elemental iodine sublimes to violet vapour.",
+    "solution": "Iodine (I2) is violet in the vapour phase.",
+    "page_ref": 28
+  },
+  {
+    "qno": 73,
+    "question_text": "Iodide ions act as:",
+    "options": [
+      "Oxidising agents",
+      "Neutral agents",
+      "Reducing agents",
+      "Catalysts"
+    ],
+    "answer": "Reducing agents",
+    "hint": "They readily lose electrons to form Iodine.",
+    "solution": "I- is a strong reducing agent, reducing H2SO4 to SO2 or H2S.",
+    "page_ref": 28
+  },
+  {
+    "qno": 74,
+    "question_text": "Which product confirms iodide during conc. acid test?",
+    "options": [
+      "White fumes",
+      "Yellow precipitate",
+      "Violet vapours",
+      "Colourless gas"
+    ],
+    "answer": "Violet vapours",
+    "hint": "The color of iodine gas.",
+    "solution": "The evolution of violet vapours of Iodine is the preliminary confirmation for Iodide.",
+    "page_ref": 28
+  },
+  {
+    "qno": 75,
+    "question_text": "Excess oxidation during iodide test may produce:",
+    "options": [
+      "HBr",
+      "HCl",
+      "H2S",
+      "H2SO4 reduction products"
+    ],
+    "answer": "H2SO4 reduction products",
+    "hint": "Iodide reduces sulphuric acid deeply.",
+    "solution": "Iodide can reduce H2SO4 all the way to H2S, SO2, and S.",
+    "page_ref": 28
+  },
+  {
+    "qno": 76,
+    "question_text": "Sulphate ions do not give any gas with:",
+    "options": [
+      "Dilute HCl",
+      "Concentrated H2SO4",
+      "Both A and B",
+      "BaCl2"
+    ],
+    "answer": "Both A and B",
+    "hint": "Sulphates are Class B anions.",
+    "solution": "Sulphate is a stable anion and does not evolve gas with dilute or concentrated acids.",
+    "page_ref": 29
+  },
+  {
+    "qno": 77,
+    "question_text": "Sulphate ion is first suspected when:",
+    "options": [
+      "No reaction with dilute acid",
+      "Brisk effervescence",
+      "Rotten egg smell",
+      "Brown fumes"
+    ],
+    "answer": "No reaction with dilute acid",
+    "hint": "Also no reaction with conc acid usually.",
+    "solution": "If a salt does not react with dilute or concentrated acids (no gas), it is suspected to contain sulphate (or phosphate).",
+    "page_ref": 15
+  },
+  {
+    "qno": 78,
+    "question_text": "Sulphate ions are confirmed using:",
+    "options": [
+      "AgNO3",
+      "BaCl2",
+      "Lead acetate",
+      "NH4OH"
+    ],
+    "answer": "BaCl2",
+    "hint": "Forms an insoluble white precipitate.",
+    "solution": "Barium chloride (BaCl2) reacts with sulphate to form white insoluble Barium Sulphate (BaSO4).",
+    "page_ref": 29
+  },
+  {
+    "qno": 79,
+    "question_text": "The white precipitate formed with BaCl2 is:",
+    "options": [
+      "BaCO3",
+      "BaSO3",
+      "BaSO4",
+      "BaCl2"
+    ],
+    "answer": "BaSO4",
+    "hint": "Barium sulphate is highly insoluble.",
+    "solution": "Ba2+ + SO4 2- -> BaSO4 (white ppt).",
+    "page_ref": 29
+  },
+  {
+    "qno": 80,
+    "question_text": "Insolubility of the BaSO4 precipitate in conc. HCl confirms:",
+    "options": [
+      "Carbonate",
+      "Sulphite",
+      "Sulphate",
+      "Nitrate"
+    ],
+    "answer": "Sulphate",
+    "hint": "Other barium salts like carbonate and sulphite dissolve in acid.",
+    "solution": "BaSO4 is insoluble in mineral acids, distinguishing it from BaCO3 and BaSO3 which dissolve.",
+    "page_ref": 29
+  },
+  {
+    "qno": 81,
+    "question_text": "Phosphate ions do not produce gas with dilute acids because they are:",
+    "options": [
+      "Volatile",
+      "Stable",
+      "Insoluble",
+      "Reducing"
+    ],
+    "answer": "Stable",
+    "hint": "Like sulphates, they belong to Class B.",
+    "solution": "Phosphates are non-volatile and stable towards acid decomposition.",
+    "page_ref": 17
+  },
+  {
+    "qno": 82,
+    "question_text": "Phosphate ion is commonly confirmed using:",
+    "options": [
+      "BaCl2",
+      "AgNO3",
+      "Ammonium molybdate",
+      "Limewater"
+    ],
+    "answer": "Ammonium molybdate",
+    "hint": "This reagent gives a canary yellow precipitate.",
+    "solution": "The standard confirmatory test for phosphate uses ammonium molybdate in the presence of conc HNO3.",
+    "page_ref": 36
+  },
+  {
+    "qno": 83,
+    "question_text": "The yellow precipitate in phosphate test is due to formation of:",
+    "options": [
+      "Pb3(PO4)2",
+      "NH4)3PO4",
+      "Ammonium phosphomolybdate",
+      "Ba3(PO4)2"
+    ],
+    "answer": "Ammonium phosphomolybdate",
+    "hint": "A complex salt formed with molybdate.",
+    "solution": "Phosphate reacts to form Ammonium Phosphomolybdate, which is a canary yellow precipitate.",
+    "page_ref": 36
+  },
+  {
+    "qno": 84,
+    "question_text": "Which anion forms a yellow precipitate only on warming?",
+    "options": [
+      "SO4 2-",
+      "PO4 3-",
+      "Cl -",
+      "NO3 -"
+    ],
+    "answer": "PO4 3-",
+    "hint": "The molybdate test requires heating.",
+    "solution": "The formation of yellow ammonium phosphomolybdate is facilitated by warming.",
+    "page_ref": 36
+  },
+  {
+    "qno": 85,
+    "question_text": "The phosphate confirmatory test is performed in:",
+    "options": [
+      "Neutral medium",
+      "Basic medium",
+      "Acidic medium",
+      "Alkaline medium"
+    ],
+    "answer": "Acidic medium",
+    "hint": "Conc HNO3 is added.",
+    "solution": "The test is carried out in the presence of nitric acid.",
+    "page_ref": 36
+  },
+  {
+    "qno": 86,
+    "question_text": "In systematic anion analysis, reagents are added:",
+    "options": [
+      "Randomly",
+      "From weak to strong",
+      "From strong to weak",
+      "Only after cation analysis"
+    ],
+    "answer": "From weak to strong",
+    "hint": "Dilute acid first, then concentrated acid.",
+    "solution": "We start with dilute acid (for unstable anions) and then move to concentrated acid.",
+    "page_ref": 15
+  },
+  {
+    "qno": 87,
+    "question_text": "Gas evolution tests are always performed:",
+    "options": [
+      "At the end",
+      "Before wet tests",
+      "After confirmatory tests",
+      "Only with heating"
+    ],
+    "answer": "Before wet tests",
+    "hint": "They are part of the preliminary check with dry salt.",
+    "solution": "Gas evolution with acids is a preliminary test done on the solid salt before making solutions.",
+    "page_ref": 14
+  },
+  {
+    "qno": 88,
+    "question_text": "The absence of any gas with dilute acid eliminates:",
+    "options": [
+      "Sulphate",
+      "Nitrate",
+      "Carbonate",
+      "Phosphate"
+    ],
+    "answer": "Carbonate",
+    "hint": "Carbonates react vigorously with dilute acid.",
+    "solution": "If dilute acid gives no reaction, Group A1 anions (Carbonate, Sulphide, Sulphite, Nitrite) are absent.",
+    "page_ref": 16
+  },
+  {
+    "qno": 89,
+    "question_text": "Anion analysis helps prevent errors in:",
+    "options": [
+      "Flame test",
+      "Cation group analysis",
+      "Heating test",
+      "Preliminary exam"
+    ],
+    "answer": "Cation group analysis",
+    "hint": "Interfering radicals can cause precipitation in wrong groups.",
+    "solution": "Identifying interfering anions helps prevent errors during the precipitation of cations in alkaline groups.",
+    "page_ref": 5
+  },
+  {
+    "qno": 90,
+    "question_text": "Correct identification of anion is important before cation analysis because:",
+    "options": [
+      "Anions interfere with cation tests",
+      "Cations interfere with anion tests",
+      "Flame colour changes",
+      "Salts decompose"
+    ],
+    "answer": "Anions interfere with cation tests",
+    "hint": "Interfering radicals.",
+    "solution": "Certain anions form insoluble salts in alkaline medium, interfering with Group 3-5 cation analysis.",
+    "page_ref": 5
+  },
+  {
+    "qno": 91,
+    "question_text": "Rotten egg smell always indicates presence of:",
+    "options": [
+      "SO2",
+      "CO2",
+      "H2S",
+      "NO2"
+    ],
+    "answer": "H2S",
+    "hint": "Characteristic of sulphides.",
+    "solution": "H2S is the only common gas with the distinct smell of rotten eggs.",
+    "page_ref": 24
+  },
+  {
+    "qno": 92,
+    "question_text": "Limewater test is specific for:",
+    "options": [
+      "SO2",
+      "CO2",
+      "NH3",
+      "HCl"
+    ],
+    "answer": "CO2",
+    "hint": "Though SO2 also turns it milky, it is primarily used for Carbonate.",
+    "solution": "While SO2 also gives a milkiness, the test is standard for CO2 from carbonates. (SO2 is distinguished by smell and dichromate test).",
+    "page_ref": 23
+  },
+  {
+    "qno": 93,
+    "question_text": "White fumes with NH3 always indicate:",
+    "options": [
+      "CO2",
+      "H2S",
+      "HCl",
+      "NO2"
+    ],
+    "answer": "HCl",
+    "hint": "Formation of NH4Cl.",
+    "solution": "Hydrogen chloride gas reacts with ammonia to form white solid particles (fumes) of ammonium chloride.",
+    "page_ref": 26
+  },
+  {
+    "qno": 94,
+    "question_text": "Decolourisation of KMnO4 indicates presence of a:",
+    "options": [
+      "Oxidising agent",
+      "Neutral gas",
+      "Reducing agent",
+      "Inert gas"
+    ],
+    "answer": "Reducing agent",
+    "hint": "KMnO4 is a strong oxidising agent.",
+    "solution": "KMnO4 is reduced (and decolourised) by reducing agents like SO2, H2S, or Nitrite.",
+    "page_ref": 18
+  },
+  {
+    "qno": 95,
+    "question_text": "Sulphite ions differ from sulphate ions because sulphite:",
+    "options": [
+      "Gives precipitate with BaCl2",
+      "Gives gas with dilute acid",
+      "Is water insoluble",
+      "Is coloured"
+    ],
+    "answer": "Gives gas with dilute acid",
+    "hint": "Sulphate is stable to acids.",
+    "solution": "Sulphites release SO2 with dilute acid; Sulphates do not react.",
+    "page_ref": 16
+  },
+  {
+    "qno": 96,
+    "question_text": "Sulphate ions are best detected using:",
+    "options": [
+      "Dry test",
+      "Flame test",
+      "Wet test",
+      "Sublimation"
+    ],
+    "answer": "Wet test",
+    "hint": "Precipitation reaction.",
+    "solution": "Sulphate is detected by adding BaCl2 solution to the aqueous salt solution (wet test).",
+    "page_ref": 29
+  },
+  {
+    "qno": 97,
+    "question_text": "Confirmatory tests are done to:",
+    "options": [
+      "Guess the ion",
+      "Eliminate ions",
+      "Prove the presence of ion",
+      "Speed up analysis"
+    ],
+    "answer": "Prove the presence of ion",
+    "hint": "They provide specific evidence.",
+    "solution": "Confirmatory tests are specific reactions that definitively prove the identity of an ion suspected from preliminary tests.",
+    "page_ref": 4
+  },
+  {
+    "qno": 98,
+    "question_text": "Anion tests are generally carried out on:",
+    "options": [
+      "Solid salt",
+      "Aqueous extract",
+      "Organic solvent",
+      "Melted salt"
+    ],
+    "answer": "Aqueous extract",
+    "hint": "Soda extract is often used for insoluble salts.",
+    "solution": "Most wet tests for anions are done on the Soda Extract or Aqueous Solution of the salt.",
+    "page_ref": 21
+  },
+  {
+    "qno": 99,
+    "question_text": "Excess acid should be avoided during anion tests because it may:",
+    "options": [
+      "Stop reactions",
+      "Give false positives",
+      "Neutralise ions",
+      "Precipitate cations"
+    ],
+    "answer": "Give false positives",
+    "hint": "It may decompose reagents or other ions.",
+    "solution": "Excess acid can cause side reactions or decompose unstable reagents, leading to incorrect observations.",
+    "page_ref": 15
+  },
+  {
+    "qno": 100,
+    "question_text": "Systematic qualitative analysis relies most on:",
+    "options": [
+      "Memory of reactions",
+      "Observation",
+      "Speed",
+      "Guesswork"
+    ],
+    "answer": "Observation",
+    "hint": "Seeing colour changes and precipitates.",
+    "solution": "Careful observation of colours, precipitates, and gases is the foundation of qualitative analysis.",
+    "page_ref": 6
+  },
+  {
+    "qno": 101,
+    "question_text": "The only cation tested before group analysis is:",
+    "options": [
+      "Na+",
+      "K+",
+      "NH4+",
+      "Ca2+"
+    ],
+    "answer": "NH4+",
+    "hint": "This ion is volatile and added as a reagent in later groups.",
+    "solution": "Ammonium ion (NH4+) is tested independently (Zero Group) because ammonium salts are added as reagents (NH4Cl, NH4OH) in subsequent groups, which would interfere with its detection later.",
+    "page_ref": 32
+  },
+  {
+    "qno": 102,
+    "question_text": "Ammonium ion is tested using:",
+    "options": [
+      "NaOH solution",
+      "NH4OH solution",
+      "Dilute HCl",
+      "BaCl2 solution"
+    ],
+    "answer": "NaOH solution",
+    "hint": "A strong base is needed to liberate ammonia gas.",
+    "solution": "Ammonium salts react with strong alkalis like NaOH to release ammonia gas.",
+    "page_ref": 32
+  },
+  {
+    "qno": 103,
+    "question_text": "On heating ammonium salts with NaOH, the gas evolved is:",
+    "options": [
+      "CO2",
+      "NH3",
+      "H2S",
+      "SO2"
+    ],
+    "answer": "NH3",
+    "hint": "It has a pungent smell.",
+    "solution": "NH4+ + OH- -> NH3 (gas) + H2O.",
+    "page_ref": 32
+  },
+  {
+    "qno": 104,
+    "question_text": "The evolved gas is identified by its ability to:",
+    "options": [
+      "Turn limewater milky",
+      "Blacken lead acetate",
+      "Turn red litmus blue",
+      "Decolourise KMnO4"
+    ],
+    "answer": "Turn red litmus blue",
+    "hint": "The gas is basic in nature.",
+    "solution": "Ammonia (NH3) is a basic gas and turns moist red litmus paper blue.",
+    "page_ref": 32
+  },
+  {
+    "qno": 105,
+    "question_text": "The smell associated with ammonia gas is:",
+    "options": [
+      "Rotten eggs",
+      "Burning sulphur",
+      "Pungent",
+      "Fruity"
+    ],
+    "answer": "Pungent",
+    "hint": "It causes irritation in the nose.",
+    "solution": "Ammonia has a characteristic sharp, pungent odour.",
+    "page_ref": 32
+  },
+  {
+    "qno": 106,
+    "question_text": "Ammonium ion is called a basic radical because it:",
+    "options": [
+      "Is acidic",
+      "Behaves like a metal ion",
+      "Forms anions",
+      "Is volatile"
+    ],
+    "answer": "Behaves like a metal ion",
+    "hint": "It forms salts similar to alkali metals.",
+    "solution": "NH4+ is a cation derived from a base (NH4OH) and behaves chemically like alkali metal ions (K+, Na+).",
+    "page_ref": 3
+  },
+  {
+    "qno": 107,
+    "question_text": "NH4+ does not interfere with group analysis because it is:",
+    "options": [
+      "Insoluble",
+      "Precipitated early",
+      "Removed on heating",
+      "Coloured"
+    ],
+    "answer": "Removed on heating",
+    "hint": "Ammonium salts decompose.",
+    "solution": "Ammonium salts can be removed by sublimation or decomposition upon heating (e.g., with HNO3) if necessary, preventing interference.",
+    "page_ref": 9
+  },
+  {
+    "qno": 108,
+    "question_text": "Which reagent must be freshly prepared for NH4+ test?",
+    "options": [
+      "NaOH",
+      "NH4OH",
+      "HCl",
+      "BaCl2"
+    ],
+    "answer": "NaOH",
+    "hint": "NaOH absorbs CO2 from air.",
+    "solution": "Sodium hydroxide can absorb atmospheric CO2 to form carbonates, which might interfere, though typically this refers to Nessler's reagent or FeSO4 for other tests. In this context, NaOH is the standard reagent.",
+    "page_ref": 32
+  },
+  {
+    "qno": 109,
+    "question_text": "Which paper is used to confirm NH3 gas?",
+    "options": [
+      "Blue litmus",
+      "Red litmus",
+      "Filter paper",
+      "Starch paper"
+    ],
+    "answer": "Red litmus",
+    "hint": "To detect a base.",
+    "solution": "Moist red litmus paper turns blue in contact with basic ammonia gas.",
+    "page_ref": 32
+  },
+  {
+    "qno": 110,
+    "question_text": "NH4+ test is done on:",
+    "options": [
+      "Solid salt only",
+      "Aqueous solution only",
+      "Solid or solution",
+      "Soda extract"
+    ],
+    "answer": "Solid or solution",
+    "hint": "Usually done on the dry salt.",
+    "solution": "The test involves heating the solid salt (or its solution) with NaOH.",
+    "page_ref": 32
+  },
+  {
+    "qno": 111,
+    "question_text": "Cation analysis is carried out in the form of:",
+    "options": [
+      "Solid salt",
+      "Melted salt",
+      "Aqueous solution",
+      "Organic solution"
+    ],
+    "answer": "Aqueous solution",
+    "hint": "Ions must be free to react.",
+    "solution": "Cation analysis requires the salt to be dissolved in a solvent (Preparation of Original Solution) to allow precipitation reactions.",
+    "page_ref": 34
+  },
+  {
+    "qno": 112,
+    "question_text": "The solution used for group analysis is called:",
+    "options": [
+      "Original solution",
+      "Soda extract",
+      "Filtrate",
+      "Residue"
+    ],
+    "answer": "Original solution",
+    "hint": "It is made by dissolving the salt in water or acid.",
+    "solution": "The clear solution of the salt used for cation detection is termed the Original Solution (O.S.).",
+    "page_ref": 34
+  },
+  {
+    "qno": 113,
+    "question_text": "The first group reagent added in cation analysis is:",
+    "options": [
+      "H2S",
+      "Dilute HCl",
+      "NH4OH",
+      "BaCl2"
+    ],
+    "answer": "Dilute HCl",
+    "hint": "It precipitates chlorides.",
+    "solution": "Dilute Hydrochloric Acid (HCl) is the group reagent for Group I.",
+    "page_ref": 32
+  },
+  {
+    "qno": 114,
+    "question_text": "Group I cations are precipitated as:",
+    "options": [
+      "Sulphides",
+      "Hydroxides",
+      "Chlorides",
+      "Carbonates"
+    ],
+    "answer": "Chlorides",
+    "hint": "AgCl is an example.",
+    "solution": "Group I cations (Ag+, Pb2+, Hg2 2+) form insoluble chlorides.",
+    "page_ref": 32
+  },
+  {
+    "qno": 115,
+    "question_text": "Dilute HCl is used to precipitate:",
+    "options": [
+      "Group II cations",
+      "Group III cations",
+      "Group I cations",
+      "Group IV cations"
+    ],
+    "answer": "Group I cations",
+    "hint": "Lead, Silver, Mercury(I).",
+    "solution": "Dilute HCl precipitates Group I cations.",
+    "page_ref": 32
+  },
+  {
+    "qno": 116,
+    "question_text": "Which of the following belongs to Group I?",
+    "options": [
+      "Cu2+",
+      "Ag+",
+      "Fe3+",
+      "Zn2+"
+    ],
+    "answer": "Ag+",
+    "hint": "Silver.",
+    "solution": "Ag+ is a Group I cation.",
+    "page_ref": 32
+  },
+  {
+    "qno": 117,
+    "question_text": "Group I cations form precipitates that are:",
+    "options": [
+      "Coloured",
+      "Soluble in water",
+      "Insoluble chlorides",
+      "Insoluble sulphides"
+    ],
+    "answer": "Insoluble chlorides",
+    "hint": "Based on Ksp values.",
+    "solution": "Their solubility products are low enough to precipitate with dilute HCl.",
+    "page_ref": 33
+  },
+  {
+    "qno": 118,
+    "question_text": "The precipitate formed on adding dilute HCl is usually:",
+    "options": [
+      "Yellow",
+      "White",
+      "Black",
+      "Brown"
+    ],
+    "answer": "White",
+    "hint": "PbCl2, AgCl, Hg2Cl2 are all this colour.",
+    "solution": "All common Group I chlorides (AgCl, PbCl2, Hg2Cl2) are white precipitates.",
+    "page_ref": 32
+  },
+  {
+    "qno": 119,
+    "question_text": "Which of the following chlorides is soluble in hot water?",
+    "options": [
+      "AgCl",
+      "PbCl2",
+      "Hg2Cl2",
+      "CuCl2"
+    ],
+    "answer": "PbCl2",
+    "hint": "This property allows its separation from other Group I chlorides.",
+    "solution": "Lead(II) chloride (PbCl2) is soluble in hot water but crystallises out on cooling.",
+    "page_ref": 34
+  },
+  {
+    "qno": 120,
+    "question_text": "Hot water treatment helps to separate:",
+    "options": [
+      "Ag+",
+      "Hg2 2+",
+      "Pb2+",
+      "Cu2+"
+    ],
+    "answer": "Pb2+",
+    "hint": "It dissolves the chloride of this metal.",
+    "solution": "PbCl2 dissolves in hot water, separating Pb2+ from AgCl and Hg2Cl2.",
+    "page_ref": 34
+  },
+  {
+    "qno": 121,
+    "question_text": "Pb2+ is confirmed by formation of yellow precipitate with:",
+    "options": [
+      "KCl",
+      "KI",
+      "NaOH",
+      "NH4OH"
+    ],
+    "answer": "KI",
+    "hint": "Lead iodide.",
+    "solution": "Potassium Iodide (KI) reacts with Pb2+ to form a yellow precipitate of PbI2.",
+    "page_ref": 35
+  },
+  {
+    "qno": 122,
+    "question_text": "The yellow precipitate formed is:",
+    "options": [
+      "PbCl2",
+      "PbSO4",
+      "PbI2",
+      "PbS"
+    ],
+    "answer": "PbI2",
+    "hint": "Iodide of lead.",
+    "solution": "Pb2+ + 2I- -> PbI2 (yellow ppt).",
+    "page_ref": 35
+  },
+  {
+    "qno": 123,
+    "question_text": "PbI2 crystals appear golden yellow on:",
+    "options": [
+      "Cooling",
+      "Heating",
+      "Standing",
+      "Shaking"
+    ],
+    "answer": "Cooling",
+    "hint": "Recrystallisation phenomenon.",
+    "solution": "PbI2 dissolves in boiling water and recrystallises as 'golden spangles' on cooling.",
+    "page_ref": 35
+  },
+  {
+    "qno": 124,
+    "question_text": "Pb2+ can also be confirmed using:",
+    "options": [
+      "K2CrO4",
+      "BaCl2",
+      "AgNO3",
+      "NH4Cl"
+    ],
+    "answer": "K2CrO4",
+    "hint": "Chromate test.",
+    "solution": "Potassium chromate forms a yellow precipitate of Lead Chromate (PbCrO4).",
+    "page_ref": 35
+  },
+  {
+    "qno": 125,
+    "question_text": "The colour of PbCrO4 precipitate is:",
+    "options": [
+      "White",
+      "Yellow",
+      "Brown",
+      "Black"
+    ],
+    "answer": "Yellow",
+    "hint": "Chrome yellow.",
+    "solution": "PbCrO4 is a yellow insoluble solid.",
+    "page_ref": 35
+  },
+  {
+    "qno": 126,
+    "question_text": "AgCl dissolves in:",
+    "options": [
+      "Water",
+      "Dilute HCl",
+      "NH4OH",
+      "NaOH"
+    ],
+    "answer": "NH4OH",
+    "hint": "Formation of a complex.",
+    "solution": "Silver chloride dissolves in aqueous ammonia due to the formation of the complex ion [Ag(NH3)2]+.",
+    "page_ref": 36
+  },
+  {
+    "qno": 127,
+    "question_text": "Dissolution of AgCl in NH4OH is due to formation of:",
+    "options": [
+      "AgOH",
+      "Ag2O",
+      "Ammine complex",
+      "AgCl2 -"
+    ],
+    "answer": "Ammine complex",
+    "hint": "Diammine silver(I).",
+    "solution": "AgCl + 2NH3 -> [Ag(NH3)2]+ + Cl-.",
+    "page_ref": 36
+  },
+  {
+    "qno": 128,
+    "question_text": "Re-precipitation of AgCl occurs on adding:",
+    "options": [
+      "NaOH",
+      "NH4OH",
+      "HNO3",
+      "BaCl2"
+    ],
+    "answer": "HNO3",
+    "hint": "Neutralising the ammonia.",
+    "solution": "Nitric acid neutralises the ammonia in the complex, releasing Ag+ which recombines with Cl- to precipitate AgCl again.",
+    "page_ref": 36
+  },
+  {
+    "qno": 129,
+    "question_text": "Ag+ gives black precipitate with:",
+    "options": [
+      "SO4 2-",
+      "Cl-",
+      "S2-",
+      "CO3 2-"
+    ],
+    "answer": "S2-",
+    "hint": "Silver tarnish.",
+    "solution": "Silver sulphide (Ag2S) is black.",
+    "page_ref": 8
+  },
+  {
+    "qno": 130,
+    "question_text": "The black precipitate formed is:",
+    "options": [
+      "AgCl",
+      "Ag2S",
+      "Ag2CO3",
+      "AgNO3"
+    ],
+    "answer": "Ag2S",
+    "hint": "Silver sulphide.",
+    "solution": "Ag+ reacts with sulphide ions to form Ag2S.",
+    "page_ref": 8
+  },
+  {
+    "qno": 131,
+    "question_text": "Hg2Cl2 reacts with NH4OH to give:",
+    "options": [
+      "White precipitate",
+      "Black precipitate",
+      "No reaction",
+      "Yellow precipitate"
+    ],
+    "answer": "Black precipitate",
+    "hint": "Disproportionation of mercury.",
+    "solution": "Mercurous chloride turns black with ammonia due to the formation of finely divided metallic mercury (black) and mercuric amino chloride.",
+    "page_ref": 34
+  },
+  {
+    "qno": 132,
+    "question_text": "The black colour is due to formation of:",
+    "options": [
+      "HgCl2",
+      "HgO",
+      "Hg + HgNH2Cl",
+      "HgS"
+    ],
+    "answer": "Hg + HgNH2Cl",
+    "hint": "Mixture of metal and compound.",
+    "solution": "The black precipitate is a mixture of Hg (black) and Hg(NH2)Cl (white).",
+    "page_ref": 34
+  },
+  {
+    "qno": 133,
+    "question_text": "This reaction confirms presence of:",
+    "options": [
+      "Hg2+",
+      "Hg2 2+",
+      "Pb2+",
+      "Ag+"
+    ],
+    "answer": "Hg2 2+",
+    "hint": "Mercurous ion in Group I.",
+    "solution": "The blackening with ammonia confirms the presence of Hg2 2+ (Group I).",
+    "page_ref": 34
+  },
+  {
+    "qno": 134,
+    "question_text": "Hg2 2+ belongs to which group?",
+    "options": [
+      "Group I",
+      "Group II",
+      "Group III",
+      "Group IV"
+    ],
+    "answer": "Group I",
+    "hint": "Precipitates with dilute HCl.",
+    "solution": "Hg2 2+ is a Group I cation.",
+    "page_ref": 32
+  },
+  {
+    "qno": 135,
+    "question_text": "Hg2Cl2 is also known as:",
+    "options": [
+      "Calomel",
+      "Cinnabar",
+      "Vermilion",
+      "Galena"
+    ],
+    "answer": "Calomel",
+    "hint": "Common name for mercurous chloride.",
+    "solution": "Hg2Cl2 is traditionally called Calomel.",
+    "page_ref": 145
+  },
+  {
+    "qno": 136,
+    "question_text": "Group I precipitate is separated by treating with:",
+    "options": [
+      "NaOH",
+      "Hot water",
+      "H2S",
+      "NH4Cl"
+    ],
+    "answer": "Hot water",
+    "hint": "To remove lead.",
+    "solution": "Hot water is used to dissolve and remove PbCl2 from the Group I precipitate mixture.",
+    "page_ref": 34
+  },
+  {
+    "qno": 137,
+    "question_text": "The insoluble portion after hot water treatment contains:",
+    "options": [
+      "PbCl2",
+      "AgCl + Hg2Cl2",
+      "Only AgCl",
+      "Only Hg2Cl2"
+    ],
+    "answer": "AgCl + Hg2Cl2",
+    "hint": "These chlorides remain insoluble in hot water.",
+    "solution": "AgCl and Hg2Cl2 do not dissolve in hot water and remain as residue.",
+    "page_ref": 34
+  },
+  {
+    "qno": 138,
+    "question_text": "Group I analysis must be completed before proceeding to:",
+    "options": [
+      "Anion analysis",
+      "Group II",
+      "Flame test",
+      "Preliminary exam"
+    ],
+    "answer": "Group II",
+    "hint": "Sequential removal.",
+    "solution": "Group I cations must be removed because they also form sulphides which would contaminate Group II precipitates.",
+    "page_ref": 33
+  },
+  {
+    "qno": 139,
+    "question_text": "Group I cations are separated based on differences in:",
+    "options": [
+      "Colour",
+      "Solubility",
+      "Atomic mass",
+      "Valency"
+    ],
+    "answer": "Solubility",
+    "hint": "Specifically solubility of chlorides.",
+    "solution": "The separation relies on the low Ksp (solubility product) of their chlorides compared to other groups.",
+    "page_ref": 33
+  },
+  {
+    "qno": 140,
+    "question_text": "Dilute HCl is preferred over concentrated HCl because:",
+    "options": [
+      "It is cheaper",
+      "It avoids complex formation",
+      "It is safer",
+      "It reacts faster"
+    ],
+    "answer": "It avoids complex formation",
+    "hint": "PbCl2 and AgCl can dissolve in excess Cl-.",
+    "solution": "Concentrated HCl provides excess Cl- ions which can form soluble chloro-complexes (like [PbCl4]2-), preventing precipitation.",
+    "page_ref": 35
+  },
+  {
+    "qno": 141,
+    "question_text": "Group I chlorides are insoluble in:",
+    "options": [
+      "Water",
+      "Dilute acids",
+      "Dilute HCl",
+      "NH4OH"
+    ],
+    "answer": "Water",
+    "hint": "Otherwise they wouldn't precipitate.",
+    "solution": "Group I chlorides are characterized by their insolubility in cold water.",
+    "page_ref": 33
+  },
+  {
+    "qno": 142,
+    "question_text": "AgCl appears:",
+    "options": [
+      "Yellow",
+      "Black",
+      "White curdy",
+      "Brown"
+    ],
+    "answer": "White curdy",
+    "hint": "Appearance of silver chloride.",
+    "solution": "AgCl forms a characteristic white, curdy precipitate.",
+    "page_ref": 32
+  },
+  {
+    "qno": 143,
+    "question_text": "PbCl2 appears:",
+    "options": [
+      "White crystalline",
+      "Yellow",
+      "Black",
+      "Brown"
+    ],
+    "answer": "White crystalline",
+    "hint": "Distinction from curdy.",
+    "solution": "PbCl2 precipitate is typically white and crystalline.",
+    "page_ref": 32
+  },
+  {
+    "qno": 144,
+    "question_text": "Hg2Cl2 appears:",
+    "options": [
+      "White",
+      "Yellow",
+      "Black",
+      "Green"
+    ],
+    "answer": "White",
+    "hint": "Calomel colour.",
+    "solution": "Hg2Cl2 is a white solid.",
+    "page_ref": 32
+  },
+  {
+    "qno": 145,
+    "question_text": "Which Group I chloride is photosensitive?",
+    "options": [
+      "PbCl2",
+      "AgCl",
+      "Hg2Cl2",
+      "CuCl"
+    ],
+    "answer": "AgCl",
+    "hint": "Turns violet/grey in light.",
+    "solution": "AgCl decomposes upon exposure to light (photosensitive).",
+    "page_ref": 145
+  },
+  {
+    "qno": 146,
+    "question_text": "After removal of Group I, the filtrate is treated with:",
+    "options": [
+      "Dilute HCl again",
+      "H2S in acidic medium",
+      "NH4OH",
+      "Na2CO3"
+    ],
+    "answer": "H2S in acidic medium",
+    "hint": "Group II reagent.",
+    "solution": "The filtrate from Group I (already acidic) is treated with H2S gas for Group II analysis.",
+    "page_ref": 37
+  },
+  {
+    "qno": 147,
+    "question_text": "Group II cations are precipitated as:",
+    "options": [
+      "Chlorides",
+      "Hydroxides",
+      "Sulphides",
+      "Carbonates"
+    ],
+    "answer": "Sulphides",
+    "hint": "Using H2S gas.",
+    "solution": "Group II ions precipitate as insoluble sulphides in acidic medium.",
+    "page_ref": 32
+  },
+  {
+    "qno": 148,
+    "question_text": "The medium required for Group II precipitation is:",
+    "options": [
+      "Neutral",
+      "Alkaline",
+      "Acidic",
+      "Strongly basic"
+    ],
+    "answer": "Acidic",
+    "hint": "Presence of Dilute HCl.",
+    "solution": "The solution must be acidic (HCl) to control sulphide ion concentration.",
+    "page_ref": 32
+  },
+  {
+    "qno": 149,
+    "question_text": "H2S is passed in acidic medium to avoid precipitation of:",
+    "options": [
+      "Group I",
+      "Group III",
+      "Group IV",
+      "Group V"
+    ],
+    "answer": "Group IV",
+    "hint": "Higher group sulphides like ZnS.",
+    "solution": "Acid suppresses S2- concentration via common ion effect, allowing only Group II (low Ksp) sulphides to precipitate, while preventing Group IV (high Ksp) sulphides.",
+    "page_ref": 33
+  },
+  {
+    "qno": 150,
+    "question_text": "Failure to remove Group I before Group II leads to:",
+    "options": [
+      "No effect",
+      "Mixed precipitates",
+      "Colour change",
+      "Gas evolution"
+    ],
+    "answer": "Mixed precipitates",
+    "hint": "Group I ions also form sulphides.",
+    "solution": "Group I ions (Pb, Hg, Ag) form black sulphides which would contaminate the Group II precipitates.",
+    "page_ref": 33
+  },
+  {
+    "qno": 151,
+    "question_text": "NH4+ is tested first because it is:",
+    "options": [
+      "Insoluble",
+      "Volatile",
+      "Coloured",
+      "Heavy"
+    ],
+    "answer": "Volatile",
+    "hint": "And introduced in later reagents.",
+    "solution": "Ammonium is added as NH4Cl/NH4OH in Group III, so the original sample must be tested first.",
+    "page_ref": 32
+  },
+  {
+    "qno": 152,
+    "question_text": "Group reagents are added sequentially to:",
+    "options": [
+      "Speed analysis",
+      "Avoid interference",
+      "Increase yield",
+      "Reduce cost"
+    ],
+    "answer": "Avoid interference",
+    "hint": "Precipitate groups one by one.",
+    "solution": "Sequential addition separates ions based on solubility rules, preventing cross-contamination.",
+    "page_ref": 33
+  },
+  {
+    "qno": 153,
+    "question_text": "Group separation is based on difference in:",
+    "options": [
+      "Colour",
+      "Solubility product",
+      "Atomic number",
+      "Density"
+    ],
+    "answer": "Solubility product",
+    "hint": "Ksp values.",
+    "solution": "The scheme relies on the large differences in Ksp of chlorides, sulphides, hydroxides, and carbonates.",
+    "page_ref": 33
+  },
+  {
+    "qno": 154,
+    "question_text": "Confirmatory tests are always performed on:",
+    "options": [
+      "Original solution",
+      "Precipitate",
+      "Filtrate",
+      "Solid salt"
+    ],
+    "answer": "Precipitate",
+    "hint": "After dissolving it specifically.",
+    "solution": "The separated group precipitate is dissolved and tested to confirm individual ions.",
+    "page_ref": 34
+  },
+  {
+    "qno": 155,
+    "question_text": "Skipping group separation may result in:",
+    "options": [
+      "Correct result",
+      "Faster analysis",
+      "Wrong identification",
+      "Clear solution"
+    ],
+    "answer": "Wrong identification",
+    "hint": "Due to interference.",
+    "solution": "Without separation, reagents may react with multiple ions, leading to confusing or incorrect results.",
+    "page_ref": 33
+  },
+  {
+    "qno": 156,
+    "question_text": "Group I analysis mainly involves reactions of:",
+    "options": [
+      "Sulphides",
+      "Chlorides",
+      "Hydroxides",
+      "Carbonates"
+    ],
+    "answer": "Chlorides",
+    "hint": "Precipitation form.",
+    "solution": "It focuses on the insolubility of AgCl, PbCl2, Hg2Cl2.",
+    "page_ref": 33
+  },
+  {
+    "qno": 157,
+    "question_text": "Hot water separation works because PbCl2 has:",
+    "options": [
+      "Lower density",
+      "Higher solubility in hot water",
+      "Different colour",
+      "Different valency"
+    ],
+    "answer": "Higher solubility in hot water",
+    "hint": "Temperature dependence of solubility.",
+    "solution": "PbCl2 is much more soluble in hot water than AgCl or Hg2Cl2.",
+    "page_ref": 33
+  },
+  {
+    "qno": 158,
+    "question_text": "AgCl dissolves in NH4OH but Hg2Cl2 does not because:",
+    "options": [
+      "AgCl is coloured",
+      "Hg2Cl2 forms complex",
+      "Ag+ forms stable ammine complex",
+      "Hg2 2+ forms sulphide"
+    ],
+    "answer": "Ag+ forms stable ammine complex",
+    "hint": "Silver ammonia complex.",
+    "solution": "AgCl forms soluble [Ag(NH3)2]+, whereas Hg2Cl2 reacts to form an insoluble black mixture.",
+    "page_ref": 36
+  },
+  {
+    "qno": 159,
+    "question_text": "The blackening of Hg2Cl2 with NH4OH is a:",
+    "options": [
+      "Physical change",
+      "Oxidation",
+      "Disproportionation",
+      "Decomposition"
+    ],
+    "answer": "Disproportionation",
+    "hint": "Simultaneous oxidation and reduction.",
+    "solution": "Hg(I) converts to Hg(0) (black metal) and Hg(II) (amino chloride).",
+    "page_ref": 34
+  },
+  {
+    "qno": 160,
+    "question_text": "Hg2 2+ contains mercury in which oxidation state?",
+    "options": [
+      "0",
+      "+1",
+      "+2",
+      "+3"
+    ],
+    "answer": "+1",
+    "hint": "Mercurous.",
+    "solution": "Hg2 2+ is the dimer of Hg+, so the oxidation state is +1.",
+    "page_ref": 32
+  },
+  {
+    "qno": 161,
+    "question_text": "Group II cations are precipitated by passing:",
+    "options": [
+      "H2S in neutral medium",
+      "H2S in alkaline medium",
+      "H2S in acidic medium",
+      "(NH4)2S in acidic medium"
+    ],
+    "answer": "H2S in acidic medium",
+    "hint": "Low sulphide ion concentration required.",
+    "solution": "H2S in the presence of HCl provides the correct condition for Group II precipitation.",
+    "page_ref": 32
+  },
+  {
+    "qno": 162,
+    "question_text": "Group II cations precipitate as:",
+    "options": [
+      "Chlorides",
+      "Hydroxides",
+      "Carbonates",
+      "Sulphides"
+    ],
+    "answer": "Sulphides",
+    "hint": "Salts of H2S.",
+    "solution": "The precipitate consists of metal sulphides (MS).",
+    "page_ref": 32
+  },
+  {
+    "qno": 163,
+    "question_text": "Acidic medium is maintained during Group II analysis to prevent precipitation of:",
+    "options": [
+      "Group I cations",
+      "Group III cations",
+      "Group IV cations",
+      "Group V cations"
+    ],
+    "answer": "Group IV cations",
+    "hint": "Their sulphides require higher S2- concentration.",
+    "solution": "Group IV sulphides (ZnS, MnS etc.) have higher Ksp and won't precipitate in acidic medium.",
+    "page_ref": 33
+  },
+  {
+    "qno": 164,
+    "question_text": "The colour of Group II sulphide precipitates is generally:",
+    "options": [
+      "White",
+      "Yellow to black",
+      "Green",
+      "Blue"
+    ],
+    "answer": "Yellow to black",
+    "hint": "CuS is black, CdS is yellow.",
+    "solution": "Group II sulphides are mostly black (CuS, PbS, HgS) or yellow/orange (CdS, As2S3, Sb2S3).",
+    "page_ref": 37
+  },
+  {
+    "qno": 165,
+    "question_text": "Which reagent supplies sulphide ions slowly in acidic medium?",
+    "options": [
+      "Na2S",
+      "(NH4)2S",
+      "H2S",
+      "NaHS"
+    ],
+    "answer": "H2S",
+    "hint": "Weak acid gas.",
+    "solution": "H2S is a weak acid that dissociates slightly in acidic solution, providing a controlled supply of S2-.",
+    "page_ref": 33
+  },
+  {
+    "qno": 166,
+    "question_text": "Group II is subdivided into IIA and IIB based on:",
+    "options": [
+      "Solubility in water",
+      "Solubility of sulphides in ammonium sulphide",
+      "Colour of sulphides",
+      "Atomic number"
+    ],
+    "answer": "Solubility of sulphides in ammonium sulphide",
+    "hint": "Reaction with YAS.",
+    "solution": "Group IIA sulphides (Copper group) are insoluble in yellow ammonium sulphide, while IIB (Arsenic group) sulphides are soluble.",
+    "page_ref": 37
+  },
+  {
+    "qno": 167,
+    "question_text": "Group IIA sulphides are insoluble in:",
+    "options": [
+      "Water",
+      "Dilute acids",
+      "Yellow ammonium sulphide",
+      "Dilute HCl"
+    ],
+    "answer": "Yellow ammonium sulphide",
+    "hint": "They remain as precipitate.",
+    "solution": "The sulphides of Pb, Hg, Cu, Cd, Bi do not dissolve in yellow ammonium sulphide.",
+    "page_ref": 37
+  },
+  {
+    "qno": 168,
+    "question_text": "Group IIB sulphides are soluble in:",
+    "options": [
+      "Dilute HCl",
+      "Water",
+      "Yellow ammonium sulphide",
+      "NaOH"
+    ],
+    "answer": "Yellow ammonium sulphide",
+    "hint": "They form thio-complexes.",
+    "solution": "Sulphides of As, Sb, Sn dissolve in YAS forming soluble thio-salts.",
+    "page_ref": 37
+  },
+  {
+    "qno": 169,
+    "question_text": "Which of the following belongs to Group IIA?",
+    "options": [
+      "As3+",
+      "Sb3+",
+      "Bi3+",
+      "Sn4+"
+    ],
+    "answer": "Bi3+",
+    "hint": "Copper group element.",
+    "solution": "Bismuth (Bi3+) is in Group IIA.",
+    "page_ref": 37
+  },
+  {
+    "qno": 170,
+    "question_text": "Which of the following belongs to Group IIB?",
+    "options": [
+      "Cu2+",
+      "Cd2+",
+      "As3+",
+      "Pb2+"
+    ],
+    "answer": "As3+",
+    "hint": "Arsenic group element.",
+    "solution": "Arsenic (As3+) is in Group IIB.",
+    "page_ref": 37
+  },
+  {
+    "qno": 171,
+    "question_text": "Cu2+ gives a black precipitate with H2S due to formation of:",
+    "options": [
+      "CuSO4",
+      "CuS",
+      "Cu2S",
+      "CuO"
+    ],
+    "answer": "CuS",
+    "hint": "Copper(II) sulphide.",
+    "solution": "Cu2+ reacts with H2S to form black CuS.",
+    "page_ref": 39
+  },
+  {
+    "qno": 172,
+    "question_text": "CuS is insoluble in:",
+    "options": [
+      "Dilute HCl",
+      "Dilute HNO3",
+      "Concentrated HNO3",
+      "Aqua regia"
+    ],
+    "answer": "Dilute HCl",
+    "hint": "It does not dissolve in non-oxidising dilute acids.",
+    "solution": "CuS is insoluble in dilute HCl and H2SO4 but dissolves in hot nitric acid.",
+    "page_ref": 39
+  },
+  {
+    "qno": 173,
+    "question_text": "Dissolution of CuS in nitric acid gives a solution that is:",
+    "options": [
+      "Green",
+      "Blue",
+      "Colourless",
+      "Yellow"
+    ],
+    "answer": "Blue",
+    "hint": "Colour of copper nitrate.",
+    "solution": "Formation of Cu(NO3)2 yields a blue solution.",
+    "page_ref": 39
+  },
+  {
+    "qno": 174,
+    "question_text": "Cu2+ is confirmed by formation of deep blue colour with:",
+    "options": [
+      "NaOH",
+      "NH4OH",
+      "H2S",
+      "K4[Fe(CN)6]"
+    ],
+    "answer": "NH4OH",
+    "hint": "Excess ammonia.",
+    "solution": "Cu2+ forms a deep blue complex with excess ammonium hydroxide.",
+    "page_ref": 39
+  },
+  {
+    "qno": 175,
+    "question_text": "The deep blue colour is due to formation of:",
+    "options": [
+      "Cu(OH)2",
+      "CuO",
+      "[Cu(NH3)4]2+",
+      "CuSO4"
+    ],
+    "answer": "[Cu(NH3)4]2+",
+    "hint": "Tetraamminecopper(II).",
+    "solution": "The complex ion [Cu(NH3)4]2+ is responsible for the deep blue colour.",
+    "page_ref": 39
+  },
+  {
+    "qno": 176,
+    "question_text": "Cd2+ gives which colour sulphide precipitate with H2S?",
+    "options": [
+      "Black",
+      "Yellow",
+      "Brown",
+      "White"
+    ],
+    "answer": "Yellow",
+    "hint": "Cadmium sulphide.",
+    "solution": "CdS is a characteristic yellow precipitate.",
+    "page_ref": 32
+  },
+  {
+    "qno": 177,
+    "question_text": "CdS is soluble in:",
+    "options": [
+      "Dilute HCl",
+      "Concentrated HCl",
+      "Dilute HNO3",
+      "Yellow ammonium sulphide"
+    ],
+    "answer": "Dilute HNO3",
+    "hint": "Similar to other Group II sulphides.",
+    "solution": "CdS dissolves in 50% nitric acid.",
+    "page_ref": 37
+  },
+  {
+    "qno": 178,
+    "question_text": "Cd2+ can be confirmed by formation of yellow CdS in presence of:",
+    "options": [
+      "NH4OH",
+      "NaOH",
+      "Dilute acid",
+      "Excess H2S"
+    ],
+    "answer": "Excess H2S",
+    "hint": "Re-precipitation.",
+    "solution": "Passing H2S gas into the solution (after removing interfering ions) precipitates yellow CdS.",
+    "page_ref": 37
+  },
+  {
+    "qno": 179,
+    "question_text": "Which ion can interfere with Cd2+ detection due to similar sulphide colour?",
+    "options": [
+      "Cu2+",
+      "Zn2+",
+      "Pb2+",
+      "Fe2+"
+    ],
+    "answer": "Cu2+",
+    "hint": "Its black sulphide masks yellow CdS.",
+    "solution": "Presence of Cu2+ (forming black CuS) masks the yellow colour of CdS, requiring separation (using KCN).",
+    "page_ref": 39
+  },
+  {
+    "qno": 180,
+    "question_text": "Cd2+ belongs to:",
+    "options": [
+      "Group I",
+      "Group II",
+      "Group III",
+      "Group IV"
+    ],
+    "answer": "Group II",
+    "hint": "Precipitates with H2S in acid.",
+    "solution": "Cadmium is a Group IIA cation.",
+    "page_ref": 32
+  },
+  {
+    "qno": 181,
+    "question_text": "Bi3+ gives which coloured sulphide precipitate?",
+    "options": [
+      "Yellow",
+      "Brown",
+      "Black",
+      "White"
+    ],
+    "answer": "Black",
+    "hint": "Bismuth sulphide.",
+    "solution": "Bi2S3 is a black (or brownish-black) precipitate.",
+    "page_ref": 32
+  },
+  {
+    "qno": 182,
+    "question_text": "Bi2S3 is soluble in:",
+    "options": [
+      "Dilute HCl",
+      "Concentrated HNO3",
+      "Yellow ammonium sulphide",
+      "NaOH"
+    ],
+    "answer": "Concentrated HNO3",
+    "hint": "Oxidising acid.",
+    "solution": "Nitric acid dissolves bismuth sulphide.",
+    "page_ref": 37
+  },
+  {
+    "qno": 183,
+    "question_text": "On adding NH4OH to Bi3+ solution, a precipitate of ___ is formed.",
+    "options": [
+      "Bi(OH)3",
+      "Bi2O3",
+      "BiCl3",
+      "Bi(NO3)3"
+    ],
+    "answer": "Bi(OH)3",
+    "hint": "Bismuth hydroxide.",
+    "solution": "Ammonia precipitates bismuth as white Bi(OH)3.",
+    "page_ref": 37
+  },
+  {
+    "qno": 184,
+    "question_text": "The colour of Bi(OH)3 precipitate is:",
+    "options": [
+      "White",
+      "Yellow",
+      "Brown",
+      "Black"
+    ],
+    "answer": "White",
+    "hint": "Characteristic of Bi hydroxide.",
+    "solution": "Bi(OH)3 is a white precipitate.",
+    "page_ref": 37
+  },
+  {
+    "qno": 185,
+    "question_text": "Bi3+ belongs to which sub-group of Group II?",
+    "options": [
+      "IIA",
+      "IIB",
+      "IIIA",
+      "IIIB"
+    ],
+    "answer": "IIA",
+    "hint": "Insoluble in YAS.",
+    "solution": "Bismuth stays in the residue after YAS treatment, hence Group IIA.",
+    "page_ref": 37
+  },
+  {
+    "qno": 186,
+    "question_text": "Group II sulphide precipitates are filtered and treated with:",
+    "options": [
+      "NaOH",
+      "NH4Cl",
+      "Yellow ammonium sulphide",
+      "BaCl2"
+    ],
+    "answer": "Yellow ammonium sulphide",
+    "hint": "To separate IIA and IIB.",
+    "solution": "YAS is used to separate the sulphides based on solubility.",
+    "page_ref": 37
+  },
+  {
+    "qno": 187,
+    "question_text": "Insoluble residue after yellow ammonium sulphide treatment contains:",
+    "options": [
+      "As, Sb, Sn",
+      "Cu, Cd, Bi",
+      "Fe, Al, Cr",
+      "Zn, Mn"
+    ],
+    "answer": "Cu, Cd, Bi",
+    "hint": "Group IIA sulphides.",
+    "solution": "The copper group (Cu, Cd, Bi, Pb, Hg) sulphides do not dissolve.",
+    "page_ref": 37
+  },
+  {
+    "qno": 188,
+    "question_text": "Soluble portion after yellow ammonium sulphide treatment contains:",
+    "options": [
+      "Cu, Cd, Bi",
+      "Pb, Hg, Ag",
+      "As, Sb, Sn",
+      "Fe, Co, Ni"
+    ],
+    "answer": "As, Sb, Sn",
+    "hint": "Group IIB sulphides.",
+    "solution": "The arsenic group (As, Sb, Sn) sulphides dissolve to form thio-salts.",
+    "page_ref": 37
+  },
+  {
+    "qno": 189,
+    "question_text": "Group II analysis is done before Group III because:",
+    "options": [
+      "Sulphides interfere later",
+      "Hydroxides form later",
+      "Sulphides are insoluble in acid",
+      "Group III precipitates dissolve"
+    ],
+    "answer": "Sulphides are insoluble in acid",
+    "hint": "Low Ksp allows early removal.",
+    "solution": "Group II sulphides have very low solubility products and precipitate in acidic medium, unlike Group III.",
+    "page_ref": 33
+  },
+  {
+    "qno": 190,
+    "question_text": "Which of the following gases is used in Group II analysis?",
+    "options": [
+      "NH3",
+      "CO2",
+      "H2S",
+      "SO2"
+    ],
+    "answer": "H2S",
+    "hint": "Sulphide precipitating agent.",
+    "solution": "Hydrogen sulphide gas is the group reagent.",
+    "page_ref": 32
+  },
+  {
+    "qno": 191,
+    "question_text": "CuS is:",
+    "options": [
+      "White",
+      "Yellow",
+      "Black",
+      "Brown"
+    ],
+    "answer": "Black",
+    "hint": "Copper sulphide colour.",
+    "solution": "CuS is a black solid.",
+    "page_ref": 32
+  },
+  {
+    "qno": 192,
+    "question_text": "CdS is:",
+    "options": [
+      "Black",
+      "Yellow",
+      "Brown",
+      "White"
+    ],
+    "answer": "Yellow",
+    "hint": "Cadmium sulphide colour.",
+    "solution": "CdS is a yellow solid.",
+    "page_ref": 32
+  },
+  {
+    "qno": 193,
+    "question_text": "Bi2S3 is:",
+    "options": [
+      "White",
+      "Yellow",
+      "Brownish black",
+      "Green"
+    ],
+    "answer": "Brownish black",
+    "hint": "Bismuth sulphide colour.",
+    "solution": "Bi2S3 is black or brownish-black.",
+    "page_ref": 32
+  },
+  {
+    "qno": 194,
+    "question_text": "Deep blue colour in Cu2+ confirmatory test indicates:",
+    "options": [
+      "Cu(OH)2",
+      "CuO",
+      "Ammine complex",
+      "Sulphide"
+    ],
+    "answer": "Ammine complex",
+    "hint": "Reaction with ammonia.",
+    "solution": "The formation of the soluble [Cu(NH3)4]2+ complex gives the deep blue colour.",
+    "page_ref": 39
+  },
+  {
+    "qno": 195,
+    "question_text": "Yellow ammonium sulphide is also known as:",
+    "options": [
+      "(NH4)2S",
+      "(NH4)2Sx",
+      "Na2S",
+      "NaHS"
+    ],
+    "answer": "(NH4)2Sx",
+    "hint": "Polysulphide.",
+    "solution": "It contains excess sulphur dissolved in ammonium sulphide.",
+    "page_ref": 32
+  },
+  {
+    "qno": 196,
+    "question_text": "Group II cations are completely removed before testing for:",
+    "options": [
+      "Anions",
+      "Group I",
+      "Group III",
+      "NH4+"
+    ],
+    "answer": "Group III",
+    "hint": "Sequential order.",
+    "solution": "Filtrate from Group II is used for Group III analysis.",
+    "page_ref": 33
+  },
+  {
+    "qno": 197,
+    "question_text": "Failure to maintain acidic medium during Group II precipitation may cause precipitation of:",
+    "options": [
+      "CuS only",
+      "CdS only",
+      "Group III sulphides",
+      "Group I chlorides"
+    ],
+    "answer": "Group III sulphides",
+    "hint": "Specifically Group IV sulphides or Group III hydroxides.",
+    "solution": "If acidity is too low (S2- too high), Group IV sulphides (like ZnS) may co-precipitate.",
+    "page_ref": 33
+  },
+  {
+    "qno": 198,
+    "question_text": "Which ion does NOT belong to Group II?",
+    "options": [
+      "Cu2+",
+      "Cd2+",
+      "Zn2+",
+      "Bi3+"
+    ],
+    "answer": "Zn2+",
+    "hint": "Zinc.",
+    "solution": "Zn2+ is a Group IV cation.",
+    "page_ref": 32
+  },
+  {
+    "qno": 199,
+    "question_text": "Group II cations are also called:",
+    "options": [
+      "Acidic sulphide group",
+      "Basic sulphide group",
+      "Hydroxide group",
+      "Carbonate group"
+    ],
+    "answer": "Acidic sulphide group",
+    "hint": "Based on precipitation condition.",
+    "solution": "They precipitate as sulphides in acidic medium.",
+    "page_ref": 32
+  },
+  {
+    "qno": 200,
+    "question_text": "The key principle governing Group II precipitation is difference in:",
+    "options": [
+      "Colour",
+      "Solubility product",
+      "Density",
+      "Atomic radius"
+    ],
+    "answer": "Solubility product",
+    "hint": "Ksp.",
+    "solution": "The Ksp of Group II sulphides is much lower than that of Group IV sulphides.",
+    "page_ref": 33
+  },
+  {
+    "qno": 201,
+    "question_text": "Group III cations are precipitated as:",
+    "options": [
+      "Sulphides",
+      "Carbonates",
+      "Hydroxides",
+      "Chlorides"
+    ],
+    "answer": "Hydroxides",
+    "hint": "Fe(OH)3, Al(OH)3, Cr(OH)3.",
+    "solution": "Group III cations (Fe3+, Al3+, Cr3+) are precipitated as their insoluble hydroxides.",
+    "page_ref": 32
+  },
+  {
+    "qno": 202,
+    "question_text": "The group reagent for Group III is a mixture of:",
+    "options": [
+      "NaOH + NH4OH",
+      "NH4Cl + NH4OH",
+      "HCl + NH4Cl",
+      "NH4OH + H2S"
+    ],
+    "answer": "NH4Cl + NH4OH",
+    "hint": "Ammonium buffer.",
+    "solution": "A mixture of solid NH4Cl and excess NH4OH is used to maintain a specific pH.",
+    "page_ref": 32
+  },
+  {
+    "qno": 203,
+    "question_text": "NH4Cl is added before NH4OH in Group III analysis to:",
+    "options": [
+      "Increase pH",
+      "Decrease pH",
+      "Buffer the solution",
+      "Precipitate cations"
+    ],
+    "answer": "Buffer the solution",
+    "hint": "Common ion effect suppresses OH- concentration.",
+    "solution": "NH4Cl suppresses the ionisation of NH4OH (common ion effect), ensuring low [OH-] sufficient to precipitate Group III hydroxides but not Group IV/V hydroxides.",
+    "page_ref": 33
+  },
+  {
+    "qno": 204,
+    "question_text": "Group III precipitation occurs in:",
+    "options": [
+      "Strongly acidic medium",
+      "Neutral medium",
+      "Weakly basic medium",
+      "Strongly basic medium"
+    ],
+    "answer": "Weakly basic medium",
+    "hint": "Controlled by ammonium buffer.",
+    "solution": "The medium is made weakly alkaline using NH4OH in the presence of NH4Cl.",
+    "page_ref": 33
+  },
+  {
+    "qno": 205,
+    "question_text": "Which of the following belongs to Group III?",
+    "options": [
+      "Zn2+",
+      "Fe3+",
+      "Cu2+",
+      "Cd2+"
+    ],
+    "answer": "Fe3+",
+    "hint": "Ferric ion.",
+    "solution": "Iron(III) (Fe3+) is a Group III cation.",
+    "page_ref": 32
+  },
+  {
+    "qno": 206,
+    "question_text": "Group III cations include:",
+    "options": [
+      "Fe3+, Al3+, Cr3+",
+      "Fe2+, Al3+, Zn2+",
+      "Al3+, Zn2+, Mn2+",
+      "Cr3+, Cu2+, Ni2+"
+    ],
+    "answer": "Fe3+, Al3+, Cr3+",
+    "hint": "Iron, Aluminium, Chromium.",
+    "solution": "The standard Group III cations are Fe3+, Al3+, and Cr3+.",
+    "page_ref": 32
+  },
+  {
+    "qno": 207,
+    "question_text": "Group III hydroxide precipitates are generally:",
+    "options": [
+      "White only",
+      "Coloured only",
+      "White to coloured",
+      "Black"
+    ],
+    "answer": "White to coloured",
+    "hint": "Al is white, Fe is brown, Cr is green.",
+    "solution": "Al(OH)3 is white, Fe(OH)3 is reddish-brown, and Cr(OH)3 is green.",
+    "page_ref": 40
+  },
+  {
+    "qno": 208,
+    "question_text": "Which Group III hydroxide is amphoteric?",
+    "options": [
+      "Fe(OH)3",
+      "Al(OH)3",
+      "Cr(OH)3",
+      "Both B and C"
+    ],
+    "answer": "Both B and C",
+    "hint": "They dissolve in excess NaOH.",
+    "solution": "Al(OH)3 and Cr(OH)3 are amphoteric and dissolve in excess NaOH, while Fe(OH)3 is not.",
+    "page_ref": 41
+  },
+  {
+    "qno": 209,
+    "question_text": "Amphoteric hydroxides dissolve in:",
+    "options": [
+      "Dilute acids only",
+      "Dilute bases only",
+      "Both acids and bases",
+      "Neither acids nor bases"
+    ],
+    "answer": "Both acids and bases",
+    "hint": "Definition of amphoteric.",
+    "solution": "Amphoteric substances react with both acids and strong bases.",
+    "page_ref": 41
+  },
+  {
+    "qno": 210,
+    "question_text": "Which hydroxide is NOT amphoteric?",
+    "options": [
+      "Al(OH)3",
+      "Cr(OH)3",
+      "Fe(OH)3",
+      "Zn(OH)2"
+    ],
+    "answer": "Fe(OH)3",
+    "hint": "It is insoluble in excess NaOH.",
+    "solution": "Fe(OH)3 is a basic hydroxide and does not dissolve in alkali.",
+    "page_ref": 42
+  },
+  {
+    "qno": 211,
+    "question_text": "Fe3+ gives which coloured hydroxide precipitate with NH4OH?",
+    "options": [
+      "Green",
+      "White",
+      "Brown",
+      "Blue"
+    ],
+    "answer": "Brown",
+    "hint": "Rust colour.",
+    "solution": "Fe(OH)3 is a reddish-brown precipitate.",
+    "page_ref": 42
+  },
+  {
+    "qno": 212,
+    "question_text": "The precipitate formed is:",
+    "options": [
+      "Fe(OH)2",
+      "Fe(OH)3",
+      "Fe2O3",
+      "Fe3O4"
+    ],
+    "answer": "Fe(OH)3",
+    "hint": "Ferric hydroxide.",
+    "solution": "Group III precipitates ferric iron as Fe(OH)3.",
+    "page_ref": 42
+  },
+  {
+    "qno": 213,
+    "question_text": "Fe(OH)3 is soluble in:",
+    "options": [
+      "Excess NH4OH",
+      "Excess NaOH",
+      "Dilute acids",
+      "All of the above"
+    ],
+    "answer": "Dilute acids",
+    "hint": "It is basic.",
+    "solution": "Fe(OH)3 dissolves in mineral acids (like HCl) but not in excess alkali.",
+    "page_ref": 42
+  },
+  {
+    "qno": 214,
+    "question_text": "Which reagent gives blood-red colour with Fe3+?",
+    "options": [
+      "Potassium ferrocyanide",
+      "Potassium ferricyanide",
+      "Potassium thiocyanate",
+      "NH4OH"
+    ],
+    "answer": "Potassium thiocyanate",
+    "hint": "KSCN.",
+    "solution": "Fe3+ reacts with thiocyanate ions (SCN-) to form a blood-red complex.",
+    "page_ref": 42
+  },
+  {
+    "qno": 215,
+    "question_text": "The blood-red colour is due to formation of:",
+    "options": [
+      "FeS",
+      "Fe(SCN)3",
+      "Fe(CN)6 3-",
+      "Fe2O3"
+    ],
+    "answer": "Fe(SCN)3",
+    "hint": "Ferric thiocyanate.",
+    "solution": "The complex is often represented as [Fe(SCN)]2+ or Fe(SCN)3.",
+    "page_ref": 42
+  },
+  {
+    "qno": 216,
+    "question_text": "Al3+ gives which precipitate with NH4OH?",
+    "options": [
+      "Green",
+      "White gelatinous",
+      "Brown",
+      "Blue"
+    ],
+    "answer": "White gelatinous",
+    "hint": "Looks like jelly.",
+    "solution": "Al(OH)3 forms a white gelatinous precipitate.",
+    "page_ref": 41
+  },
+  {
+    "qno": 217,
+    "question_text": "The precipitate is:",
+    "options": [
+      "Al(OH)2",
+      "Al(OH)3",
+      "Al2O3",
+      "AlCl3"
+    ],
+    "answer": "Al(OH)3",
+    "hint": "Aluminium hydroxide.",
+    "solution": "The precipitate is Aluminium hydroxide, Al(OH)3.",
+    "page_ref": 41
+  },
+  {
+    "qno": 218,
+    "question_text": "Al(OH)3 dissolves in excess NaOH forming:",
+    "options": [
+      "AlO2 -",
+      "Al3+",
+      "AlCl4 -",
+      "Al(OH)4 - only"
+    ],
+    "answer": "AlO2 -",
+    "hint": "Meta-aluminate.",
+    "solution": "Al(OH)3 dissolves to form sodium meta-aluminate (NaAlO2), often written as [Al(OH)4]-.",
+    "page_ref": 41
+  },
+  {
+    "qno": 219,
+    "question_text": "Dissolution of Al(OH)3 in NaOH indicates its:",
+    "options": [
+      "Basic nature",
+      "Acidic nature",
+      "Amphoteric nature",
+      "Neutral nature"
+    ],
+    "answer": "Amphoteric nature",
+    "hint": "It reacts with both acid and base.",
+    "solution": "Solubility in both acid and strong alkali confirms amphoteric character.",
+    "page_ref": 41
+  },
+  {
+    "qno": 220,
+    "question_text": "Al3+ does NOT give coloured salts because:",
+    "options": [
+      "It is colourless",
+      "It has no d-electrons",
+      "It forms complexes",
+      "It is amphoteric"
+    ],
+    "answer": "It has no d-electrons",
+    "hint": "Noble gas configuration.",
+    "solution": "Al3+ has a stable noble gas configuration (isoelectronic with Ne) and lacks d-electrons for transitions.",
+    "page_ref": 41
+  },
+  {
+    "qno": 221,
+    "question_text": "Cr3+ gives which coloured precipitate with NH4OH?",
+    "options": [
+      "White",
+      "Green",
+      "Brown",
+      "Blue"
+    ],
+    "answer": "Green",
+    "hint": "Similar to its salts.",
+    "solution": "Cr(OH)3 is a grey-green or bluish-green precipitate.",
+    "page_ref": 44
+  },
+  {
+    "qno": 222,
+    "question_text": "The precipitate formed is:",
+    "options": [
+      "CrO3",
+      "Cr2O3",
+      "Cr(OH)3",
+      "Cr(OH)2"
+    ],
+    "answer": "Cr(OH)3",
+    "hint": "Chromium(III) hydroxide.",
+    "solution": "The precipitate is Chromium(III) hydroxide.",
+    "page_ref": 44
+  },
+  {
+    "qno": 223,
+    "question_text": "Cr(OH)3 dissolves in excess NaOH forming:",
+    "options": [
+      "Chromate",
+      "Dichromate",
+      "Chromite",
+      "Chromium metal"
+    ],
+    "answer": "Chromite",
+    "hint": "Green solution.",
+    "solution": "It dissolves to form sodium chromite (NaCrO2 or [Cr(OH)4]-).",
+    "page_ref": 44
+  },
+  {
+    "qno": 224,
+    "question_text": "The ion formed on dissolving Cr(OH)3 in NaOH is:",
+    "options": [
+      "[Cr(OH)6]3-",
+      "[CrO4]2-",
+      "[Cr2O7]2-",
+      "Cr3+"
+    ],
+    "answer": "[Cr(OH)6]3-",
+    "hint": "Or [Cr(OH)4]-.",
+    "solution": "In excess alkali, it forms hydroxo-chromite complex, typically [Cr(OH)4]- or [Cr(OH)6]3-.",
+    "page_ref": 44
+  },
+  {
+    "qno": 225,
+    "question_text": "Oxidation of chromite in alkaline medium gives:",
+    "options": [
+      "Cr3+",
+      "CrO4 2-",
+      "Cr2O3",
+      "Cr(OH)3"
+    ],
+    "answer": "CrO4 2-",
+    "hint": "Yellow solution.",
+    "solution": "Oxidation (e.g., with H2O2 or bromine water) converts green chromite to yellow chromate (CrO4 2-).",
+    "page_ref": 44
+  },
+  {
+    "qno": 226,
+    "question_text": "On adding excess NaOH to Group III precipitate, which ions dissolve?",
+    "options": [
+      "Fe3+ only",
+      "Al3+ only",
+      "Al3+ and Cr3+",
+      "Fe3+ and Cr3+"
+    ],
+    "answer": "Al3+ and Cr3+",
+    "hint": "The amphoteric ones.",
+    "solution": "Both Al(OH)3 and Cr(OH)3 dissolve in excess NaOH, separation them from Fe(OH)3.",
+    "page_ref": 40
+  },
+  {
+    "qno": 227,
+    "question_text": "The insoluble residue after NaOH treatment contains:",
+    "options": [
+      "Al3+",
+      "Cr3+",
+      "Fe3+",
+      "Zn2+"
+    ],
+    "answer": "Fe3+",
+    "hint": "Brown precipitate remains.",
+    "solution": "Fe(OH)3 remains insoluble.",
+    "page_ref": 40
+  },
+  {
+    "qno": 228,
+    "question_text": "Which reagent is used to oxidise Cr3+ to chromate?",
+    "options": [
+      "H2S",
+      "NH4OH",
+      "H2O2",
+      "NaCl"
+    ],
+    "answer": "H2O2",
+    "hint": "Hydrogen peroxide in alkaline medium.",
+    "solution": "Alkaline hydrogen peroxide or bromine water oxidises Cr(III) to Cr(VI).",
+    "page_ref": 44
+  },
+  {
+    "qno": 229,
+    "question_text": "The yellow colour after oxidation indicates formation of:",
+    "options": [
+      "Dichromate",
+      "Chromite",
+      "Chromate",
+      "Chromium oxide"
+    ],
+    "answer": "Chromate",
+    "hint": "CrO4 2-.",
+    "solution": "Chromate ion (CrO4 2-) is yellow in alkaline solution.",
+    "page_ref": 44
+  },
+  {
+    "qno": 230,
+    "question_text": "Which ion gives yellow solution after oxidation in alkaline medium?",
+    "options": [
+      "Fe3+",
+      "Al3+",
+      "Cr3+",
+      "Zn2+"
+    ],
+    "answer": "Cr3+",
+    "hint": "Starts green, becomes yellow.",
+    "solution": "Cr3+ is oxidised to yellow chromate.",
+    "page_ref": 44
+  },
+  {
+    "qno": 231,
+    "question_text": "Fe3+ can be confirmed by blue precipitate with:",
+    "options": [
+      "KSCN",
+      "K4[Fe(CN)6]",
+      "K3[Fe(CN)6]",
+      "NH4OH"
+    ],
+    "answer": "K4[Fe(CN)6]",
+    "hint": "Potassium Ferrocyanide.",
+    "solution": "Fe3+ reacts with ferrocyanide to give Prussian Blue.",
+    "page_ref": 42
+  },
+  {
+    "qno": 232,
+    "question_text": "The blue precipitate formed is known as:",
+    "options": [
+      "Prussian blue",
+      "Turnbull's blue",
+      "Berlin blue",
+      "All of these"
+    ],
+    "answer": "Prussian blue",
+    "hint": "Classic name for Ferric Ferrocyanide.",
+    "solution": "The complex Fe4[Fe(CN)6]3 is called Prussian Blue.",
+    "page_ref": 42
+  },
+  {
+    "qno": 233,
+    "question_text": "Al3+ is confirmed by formation of blue lake with:",
+    "options": [
+      "Alizarin",
+      "KSCN",
+      "KMnO4",
+      "NH4OH"
+    ],
+    "answer": "Alizarin",
+    "hint": "Dye test.",
+    "solution": "Al3+ forms a red floating lake with Alizarin-S (but question says blue lake, likely referring to litmus adsorption test often called lake test, but Alizarin gives red lake. Answer key likely implies Alizarin or the Litmus Lake test. Standard text: 'Blue Lake' with litmus, 'Red Lake' with Alizarin. Assuming standard 'Lake Test' context involves blue litmus adsorption on white ppt). *Wait*, standard 'Blue Lake' test uses blue litmus solution. Al(OH)3 adsorbs the blue colour.",
+    "page_ref": 41
+  },
+  {
+    "qno": 234,
+    "question_text": "The aluminium-alizarin lake is formed in:",
+    "options": [
+      "Acidic medium",
+      "Neutral medium",
+      "Slightly acidic medium",
+      "Alkaline medium"
+    ],
+    "answer": "Alkaline medium",
+    "hint": "Ammoniacal solution.",
+    "solution": "The test is performed by adding NH4OH to make the solution ammoniacal (alkaline), precipitating Al(OH)3 which adsorbs the dye.",
+    "page_ref": 41
+  },
+  {
+    "qno": 235,
+    "question_text": "Cr3+ is confirmed by yellow precipitate with:",
+    "options": [
+      "Pb2+ salts",
+      "BaCl2",
+      "AgNO3",
+      "NH4OH"
+    ],
+    "answer": "Pb2+ salts",
+    "hint": "Lead acetate test on the chromate solution.",
+    "solution": "Lead acetate reacts with the chromate solution (from Cr3+ oxidation) to form yellow Lead Chromate (PbCrO4).",
+    "page_ref": 44
+  },
+  {
+    "qno": 236,
+    "question_text": "Colour of Fe(OH)3 is:",
+    "options": [
+      "Green",
+      "White",
+      "Brown",
+      "Yellow"
+    ],
+    "answer": "Brown",
+    "hint": "Reddish-brown.",
+    "solution": "Ferric hydroxide is reddish-brown.",
+    "page_ref": 42
+  },
+  {
+    "qno": 237,
+    "question_text": "Colour of Al(OH)3 is:",
+    "options": [
+      "Brown",
+      "Green",
+      "White",
+      "Blue"
+    ],
+    "answer": "White",
+    "hint": "Colourless/White jelly.",
+    "solution": "Aluminium hydroxide is white.",
+    "page_ref": 41
+  },
+  {
+    "qno": 238,
+    "question_text": "Colour of Cr(OH)3 is:",
+    "options": [
+      "White",
+      "Green",
+      "Brown",
+      "Blue"
+    ],
+    "answer": "Green",
+    "hint": "Grey-green.",
+    "solution": "Chromium hydroxide is green.",
+    "page_ref": 44
+  },
+  {
+    "qno": 239,
+    "question_text": "Amphoteric hydroxides belong to:",
+    "options": [
+      "Only Fe3+",
+      "Only Al3+",
+      "Only Cr3+",
+      "Al3+ and Cr3+"
+    ],
+    "answer": "Al3+ and Cr3+",
+    "hint": "They dissolve in NaOH.",
+    "solution": "Both Aluminium and Chromium hydroxides are amphoteric.",
+    "page_ref": 40
+  },
+  {
+    "qno": 240,
+    "question_text": "Fe3+ hydroxide does not dissolve in excess NaOH because it is:",
+    "options": [
+      "Amphoteric",
+      "Neutral",
+      "Basic",
+      "Acidic"
+    ],
+    "answer": "Basic",
+    "hint": "Basic hydroxides react with acids, not bases.",
+    "solution": "Fe(OH)3 is purely basic.",
+    "page_ref": 42
+  },
+  {
+    "qno": 241,
+    "question_text": "NH4Cl prevents precipitation of:",
+    "options": [
+      "Group I cations",
+      "Group II cations",
+      "Group IV cations",
+      "Group V cations"
+    ],
+    "answer": "Group IV cations",
+    "hint": "Zn(OH)2, Mn(OH)2 etc.",
+    "solution": "NH4Cl buffers the solution, keeping [OH-] low so that Group IV hydroxides (which have higher Ksp) do not precipitate.",
+    "page_ref": 33
+  },
+  {
+    "qno": 242,
+    "question_text": "Group III precipitation requires careful pH control because:",
+    "options": [
+      "All hydroxides precipitate easily",
+      "Amphoteric hydroxides may dissolve",
+      "Some ions hydrolyse",
+      "All of these"
+    ],
+    "answer": "All of these",
+    "hint": "It's a delicate balance.",
+    "solution": "Too high pH dissolves Al/Cr; too low fails to precipitate completely; too high precipitates Group IV.",
+    "page_ref": 33
+  },
+  {
+    "qno": 243,
+    "question_text": "Excess NH4OH is avoided because it may:",
+    "options": [
+      "Increase yield",
+      "Dissolve precipitates",
+      "Change colour",
+      "Precipitate more ions"
+    ],
+    "answer": "Dissolve precipitates",
+    "hint": "Complex formation.",
+    "solution": "Excess ammonia might form soluble ammine complexes with some ions or dissolve amphoteric hydroxides slightly (though NH4OH is weak, it's safer to buffer).",
+    "page_ref": 33
+  },
+  {
+    "qno": 244,
+    "question_text": "Group III analysis is done after Group II to avoid:",
+    "options": [
+      "Loss of NH4+",
+      "Sulphide interference",
+      "Colour change",
+      "Oxidation"
+    ],
+    "answer": "Sulphide interference",
+    "hint": "Removal of H2S.",
+    "solution": "H2S must be boiled off before Group III to prevent precipitation of Group IV sulphides when the medium becomes alkaline.",
+    "page_ref": 33
+  },
+  {
+    "qno": 245,
+    "question_text": "The main basis of Group III separation is:",
+    "options": [
+      "Colour difference",
+      "Solubility in NaOH",
+      "Oxidation states",
+      "Flame colour"
+    ],
+    "answer": "Solubility in NaOH",
+    "hint": "Separating Fe from Al/Cr.",
+    "solution": "Treating the precipitate with NaOH separates insoluble Fe(OH)3 from soluble aluminate and chromite.",
+    "page_ref": 40
+  },
+  {
+    "qno": 246,
+    "question_text": "Fe3+ solutions are generally:",
+    "options": [
+      "Colourless",
+      "Green",
+      "Yellow-brown",
+      "Blue"
+    ],
+    "answer": "Yellow-brown",
+    "hint": "Ferric salts.",
+    "solution": "Fe3+ salts are typically yellow to brown.",
+    "page_ref": 8
+  },
+  {
+    "qno": 247,
+    "question_text": "Al3+ salts are usually:",
+    "options": [
+      "Coloured",
+      "White",
+      "Green",
+      "Black"
+    ],
+    "answer": "White",
+    "hint": "Colourless ion.",
+    "solution": "Al3+ is colourless, so its salts are white.",
+    "page_ref": 7
+  },
+  {
+    "qno": 248,
+    "question_text": "Cr3+ salts are commonly:",
+    "options": [
+      "White",
+      "Green",
+      "Yellow",
+      "Blue"
+    ],
+    "answer": "Green",
+    "hint": "Or violet.",
+    "solution": "Chromic salts are usually green or violet.",
+    "page_ref": 7
+  },
+  {
+    "qno": 249,
+    "question_text": "Chromate ions are:",
+    "options": [
+      "Green",
+      "Blue",
+      "Yellow",
+      "Colourless"
+    ],
+    "answer": "Yellow",
+    "hint": "CrO4 2-.",
+    "solution": "Chromate solutions are yellow.",
+    "page_ref": 44
+  },
+  {
+    "qno": 250,
+    "question_text": "The most important observation in Group III is:",
+    "options": [
+      "Smell",
+      "Flame colour",
+      "Precipitate colour and solubility",
+      "Gas evolution"
+    ],
+    "answer": "Precipitate colour and solubility",
+    "hint": "White vs Brown vs Green.",
+    "solution": "The distinct colours of the hydroxides provide strong initial clues.",
+    "page_ref": 40
+  },
+  {
+    "qno": 251,
+    "question_text": "Group IV cations are precipitated as:",
+    "options": [
+      "Chlorides",
+      "Hydroxides",
+      "Sulphides",
+      "Carbonates"
+    ],
+    "answer": "Sulphides",
+    "hint": "Using H2S in basic medium.",
+    "solution": "Group IV (Zn, Mn, Ni, Co) precipitate as sulphides.",
+    "page_ref": 32
+  },
+  {
+    "qno": 252,
+    "question_text": "The reagent used to precipitate Group IV cations is:",
+    "options": [
+      "H2S in acidic medium",
+      "H2S in alkaline medium",
+      "Dilute HCl",
+      "NH4OH alone"
+    ],
+    "answer": "H2S in alkaline medium",
+    "hint": "Requires high S2- concentration.",
+    "solution": "H2S gas passed through the ammoniacal solution from Group III.",
+    "page_ref": 32
+  },
+  {
+    "qno": 253,
+    "question_text": "The alkaline medium for Group IV precipitation is provided by:",
+    "options": [
+      "NaOH",
+      "NH4OH + NH4Cl",
+      "NH4Cl only",
+      "Na2CO3"
+    ],
+    "answer": "NH4OH + NH4Cl",
+    "hint": "From Group III filtrate.",
+    "solution": "The solution already contains NH4OH and NH4Cl from Group III; excess NH4OH is added if needed.",
+    "page_ref": 45
+  },
+  {
+    "qno": 254,
+    "question_text": "Group IV cations precipitate because their sulphides have:",
+    "options": [
+      "High solubility",
+      "Low solubility in alkaline medium",
+      "High density",
+      "High melting point"
+    ],
+    "answer": "Low solubility in alkaline medium",
+    "hint": "Higher Ksp than Group II but precipitate when [S2-] is high.",
+    "solution": "The high concentration of S2- in basic medium exceeds the Ksp of Group IV sulphides.",
+    "page_ref": 33
+  },
+  {
+    "qno": 255,
+    "question_text": "Which of the following belongs to Group IV?",
+    "options": [
+      "Fe3+",
+      "Zn2+",
+      "Cu2+",
+      "Pb2+"
+    ],
+    "answer": "Zn2+",
+    "hint": "Zinc.",
+    "solution": "Zinc (Zn2+) is a Group IV cation.",
+    "page_ref": 32
+  },
+  {
+    "qno": 256,
+    "question_text": "Group IV cations include:",
+    "options": [
+      "Zn2+, Mn2+, Ni2+, Co2+",
+      "Fe2+, Zn2+, Cu2+, Ni2+",
+      "Mn2+, Cr3+, Al3+, Zn2+",
+      "Zn2+, Cd2+, Hg2+, Pb2+"
+    ],
+    "answer": "Zn2+, Mn2+, Ni2+, Co2+",
+    "hint": "Zinc, Manganese, Nickel, Cobalt.",
+    "solution": "The standard Group IV members.",
+    "page_ref": 32
+  },
+  {
+    "qno": 257,
+    "question_text": "Group IV sulphides are precipitated using:",
+    "options": [
+      "H2S gas",
+      "Na2S",
+      "(NH4)2S",
+      "Yellow ammonium sulphide"
+    ],
+    "answer": "H2S gas",
+    "hint": "Passed into the solution.",
+    "solution": "Hydrogen sulphide gas is the standard reagent.",
+    "page_ref": 32
+  },
+  {
+    "qno": 258,
+    "question_text": "The sulphide of zinc is:",
+    "options": [
+      "Black",
+      "Yellow",
+      "White",
+      "Green"
+    ],
+    "answer": "White",
+    "hint": "ZnS.",
+    "solution": "ZnS is a white precipitate.",
+    "page_ref": 32
+  },
+  {
+    "qno": 259,
+    "question_text": "The sulphide of manganese is:",
+    "options": [
+      "White",
+      "Pink",
+      "Flesh-coloured",
+      "Black"
+    ],
+    "answer": "Flesh-coloured",
+    "hint": "Buff coloured.",
+    "solution": "MnS is described as flesh-coloured or buff.",
+    "page_ref": 32
+  },
+  {
+    "qno": 260,
+    "question_text": "The sulphide of nickel is:",
+    "options": [
+      "White",
+      "Green",
+      "Black",
+      "Brown"
+    ],
+    "answer": "Black",
+    "hint": "NiS.",
+    "solution": "NiS is a black precipitate.",
+    "page_ref": 32
+  },
+  {
+    "qno": 261,
+    "question_text": "Zn2+ gives which coloured sulphide precipitate?",
+    "options": [
+      "Yellow",
+      "Black",
+      "White",
+      "Brown"
+    ],
+    "answer": "White",
+    "hint": "Dirty white sometimes.",
+    "solution": "ZnS is white.",
+    "page_ref": 32
+  },
+  {
+    "qno": 262,
+    "question_text": "ZnS is soluble in:",
+    "options": [
+      "Dilute HCl",
+      "Dilute HNO3",
+      "NH4OH",
+      "Water"
+    ],
+    "answer": "Dilute HCl",
+    "hint": "Group IV sulphides dissolve in acid.",
+    "solution": "ZnS dissolves in dilute mineral acids like HCl.",
+    "page_ref": 45
+  },
+  {
+    "qno": 263,
+    "question_text": "Zn2+ gives a white precipitate with NaOH which:",
+    "options": [
+      "Remains insoluble in excess",
+      "Dissolves in excess",
+      "Turns brown",
+      "Turns green"
+    ],
+    "answer": "Dissolves in excess",
+    "hint": "Amphoteric nature.",
+    "solution": "Zn(OH)2 is amphoteric and dissolves in excess NaOH to form sodium zincate.",
+    "page_ref": 47
+  },
+  {
+    "qno": 264,
+    "question_text": "Dissolution of Zn(OH)2 in excess NaOH indicates:",
+    "options": [
+      "Basic nature",
+      "Acidic nature",
+      "Amphoteric nature",
+      "Neutral nature"
+    ],
+    "answer": "Amphoteric nature",
+    "hint": "Reacts with base.",
+    "solution": "Solubility in alkali confirms amphoteric character.",
+    "page_ref": 47
+  },
+  {
+    "qno": 265,
+    "question_text": "Zn2+ is confirmed by formation of white precipitate with:",
+    "options": [
+      "K4[Fe(CN)6]",
+      "K3[Fe(CN)6]",
+      "Na2CO3",
+      "NH4OH"
+    ],
+    "answer": "K4[Fe(CN)6]",
+    "hint": "Potassium Ferrocyanide.",
+    "solution": "Zn2+ reacts with ferrocyanide to form white Zinc Ferrocyanide.",
+    "page_ref": 47
+  },
+  {
+    "qno": 266,
+    "question_text": "Mn2+ gives which coloured sulphide?",
+    "options": [
+      "White",
+      "Yellow",
+      "Flesh-coloured",
+      "Black"
+    ],
+    "answer": "Flesh-coloured",
+    "hint": "Buff/Pinkish.",
+    "solution": "MnS is flesh-coloured.",
+    "page_ref": 32
+  },
+  {
+    "qno": 267,
+    "question_text": "MnS is soluble in:",
+    "options": [
+      "Dilute HCl",
+      "Dilute HNO3",
+      "NH4OH",
+      "Water"
+    ],
+    "answer": "Dilute HCl",
+    "hint": "Like ZnS.",
+    "solution": "MnS dissolves in dilute mineral acids.",
+    "page_ref": 46
+  },
+  {
+    "qno": 268,
+    "question_text": "Mn2+ gives white precipitate with NaOH which on standing turns:",
+    "options": [
+      "Green",
+      "Brown",
+      "Black",
+      "Yellow"
+    ],
+    "answer": "Brown",
+    "hint": "Oxidation.",
+    "solution": "Mn(OH)2 is white but rapidly oxidises in air to brown MnO(OH) or MnO2.",
+    "page_ref": 46
+  },
+  {
+    "qno": 269,
+    "question_text": "The colour change on standing is due to:",
+    "options": [
+      "Reduction",
+      "Oxidation",
+      "Hydrolysis",
+      "Dehydration"
+    ],
+    "answer": "Oxidation",
+    "hint": "Reaction with atmospheric oxygen.",
+    "solution": "Oxidation of Mn(II) to Mn(III)/Mn(IV).",
+    "page_ref": 46
+  },
+  {
+    "qno": 270,
+    "question_text": "Mn2+ is confirmed by formation of purple colour after oxidation to:",
+    "options": [
+      "MnO2",
+      "Mn2O3",
+      "MnO4 -",
+      "MnO4 2-"
+    ],
+    "answer": "MnO4 -",
+    "hint": "Permanganate ion.",
+    "solution": "Oxidation with PbO2 and conc HNO3 yields the purple permanganate ion (MnO4 -).",
+    "page_ref": 46
+  },
+  {
+    "qno": 271,
+    "question_text": "Ni2+ gives which coloured sulphide?",
+    "options": [
+      "White",
+      "Yellow",
+      "Green",
+      "Black"
+    ],
+    "answer": "Black",
+    "hint": "NiS.",
+    "solution": "NiS is a black precipitate.",
+    "page_ref": 32
+  },
+  {
+    "qno": 272,
+    "question_text": "NiS is insoluble in:",
+    "options": [
+      "Dilute HCl",
+      "Dilute HNO3",
+      "Concentrated HNO3",
+      "Aqua regia"
+    ],
+    "answer": "Dilute HCl",
+    "hint": "Group IV separation basis.",
+    "solution": "NiS (and CoS) are insoluble in dilute HCl, distinguishing them from ZnS and MnS.",
+    "page_ref": 45
+  },
+  {
+    "qno": 273,
+    "question_text": "Ni2+ gives green precipitate with:",
+    "options": [
+      "NH4OH",
+      "NaOH",
+      "Both A and B",
+      "H2S"
+    ],
+    "answer": "Both A and B",
+    "hint": "Nickel hydroxide.",
+    "solution": "Ni(OH)2 is a green precipitate formed with alkalis.",
+    "page_ref": 49
+  },
+  {
+    "qno": 274,
+    "question_text": "Ni(OH)2 is:",
+    "options": [
+      "Amphoteric",
+      "Acidic",
+      "Basic",
+      "Neutral"
+    ],
+    "answer": "Basic",
+    "hint": "Insoluble in excess NaOH.",
+    "solution": "Nickel hydroxide is basic and does not dissolve in excess alkali.",
+    "page_ref": 49
+  },
+  {
+    "qno": 275,
+    "question_text": "Ni2+ is confirmed by formation of red precipitate with:",
+    "options": [
+      "Dimethylglyoxime",
+      "K4[Fe(CN)6]",
+      "NH4OH",
+      "Na2CO3"
+    ],
+    "answer": "Dimethylglyoxime",
+    "hint": "DMG.",
+    "solution": "Reaction with DMG in ammoniacal medium gives a rosy red precipitate of Ni-DMG complex.",
+    "page_ref": 48
+  },
+  {
+    "qno": 276,
+    "question_text": "Co2+ gives which coloured sulphide?",
+    "options": [
+      "White",
+      "Yellow",
+      "Black",
+      "Blue"
+    ],
+    "answer": "Black",
+    "hint": "CoS.",
+    "solution": "CoS is a black precipitate.",
+    "page_ref": 32
+  },
+  {
+    "qno": 277,
+    "question_text": "CoS is soluble in:",
+    "options": [
+      "Dilute HCl",
+      "Dilute HNO3",
+      "Concentrated HNO3",
+      "NH4OH"
+    ],
+    "answer": "Concentrated HNO3",
+    "hint": "Similar to NiS.",
+    "solution": "CoS dissolves in oxidising acids like hot conc HNO3 or aqua regia.",
+    "page_ref": 45
+  },
+  {
+    "qno": 278,
+    "question_text": "Co2+ gives blue precipitate with:",
+    "options": [
+      "NH4OH",
+      "NaOH",
+      "KNO2",
+      "KSCN"
+    ],
+    "answer": "NaOH",
+    "hint": "Basic salt.",
+    "solution": "NaOH gives a blue precipitate of basic cobalt salt, turning pink on warming.",
+    "page_ref": 45
+  },
+  {
+    "qno": 279,
+    "question_text": "Co2+ forms yellow crystalline precipitate with:",
+    "options": [
+      "Dimethylglyoxime",
+      "KNO2",
+      "NH4OH",
+      "NaOH"
+    ],
+    "answer": "KNO2",
+    "hint": "Potassium nitrite in acetic acid.",
+    "solution": "Forms potassium cobaltinitrite (Fischer's salt), which is yellow.",
+    "page_ref": 45
+  },
+  {
+    "qno": 280,
+    "question_text": "The yellow precipitate confirms presence of:",
+    "options": [
+      "Ni2+",
+      "Co2+",
+      "Zn2+",
+      "Mn2+"
+    ],
+    "answer": "Co2+",
+    "hint": "Cobaltinitrite.",
+    "solution": "Yellow precipitate with KNO2/Acetic acid confirms Cobalt.",
+    "page_ref": 45
+  },
+  {
+    "qno": 281,
+    "question_text": "Group IV sulphides dissolve in dilute acids because they are:",
+    "options": [
+      "Covalent",
+      "Basic sulphides",
+      "Amphoteric",
+      "Oxidising"
+    ],
+    "answer": "Basic sulphides",
+    "hint": "High Ksp allows reaction with H+.",
+    "solution": "They have higher solubility products and dissolve to form H2S.",
+    "page_ref": 33
+  },
+  {
+    "qno": 282,
+    "question_text": "Zn2+ and Mn2+ can be separated based on difference in:",
+    "options": [
+      "Colour",
+      "Solubility of hydroxides",
+      "Solubility of sulphides",
+      "Oxidation states"
+    ],
+    "answer": "Solubility of hydroxides",
+    "hint": "Amphoteric vs Basic.",
+    "solution": "Zn(OH)2 dissolves in excess NaOH (amphoteric), Mn(OH)2 does not.",
+    "page_ref": 45
+  },
+  {
+    "qno": 283,
+    "question_text": "Ni2+ and Co2+ are often tested together because they:",
+    "options": [
+      "Give same colour",
+      "Form similar complexes",
+      "Belong to same subgroup",
+      "Have same valency"
+    ],
+    "answer": "Belong to same subgroup",
+    "hint": "Chemical similarity.",
+    "solution": "They have very similar properties and often occur together.",
+    "page_ref": 45
+  },
+  {
+    "qno": 284,
+    "question_text": "Dimethylglyoxime is selective for:",
+    "options": [
+      "Co2+",
+      "Zn2+",
+      "Ni2+",
+      "Mn2+"
+    ],
+    "answer": "Ni2+",
+    "hint": "Cherry red ppt.",
+    "solution": "DMG is the specific reagent for Nickel.",
+    "page_ref": 48
+  },
+  {
+    "qno": 285,
+    "question_text": "Potassium nitrite test confirms:",
+    "options": [
+      "Ni2+",
+      "Co2+",
+      "Zn2+",
+      "Mn2+"
+    ],
+    "answer": "Co2+",
+    "hint": "Yellow ppt.",
+    "solution": "KNO2 confirms Cobalt.",
+    "page_ref": 45
+  },
+  {
+    "qno": 286,
+    "question_text": "ZnS is:",
+    "options": [
+      "Black",
+      "Yellow",
+      "White",
+      "Brown"
+    ],
+    "answer": "White",
+    "hint": "Zinc sulphide.",
+    "solution": "ZnS is white.",
+    "page_ref": 32
+  },
+  {
+    "qno": 287,
+    "question_text": "MnS is:",
+    "options": [
+      "White",
+      "Yellow",
+      "Flesh-coloured",
+      "Black"
+    ],
+    "answer": "Flesh-coloured",
+    "hint": "Buff.",
+    "solution": "MnS is flesh/pink coloured.",
+    "page_ref": 32
+  },
+  {
+    "qno": 288,
+    "question_text": "NiS is:",
+    "options": [
+      "White",
+      "Green",
+      "Yellow",
+      "Black"
+    ],
+    "answer": "Black",
+    "hint": "Nickel sulphide.",
+    "solution": "NiS is black.",
+    "page_ref": 32
+  },
+  {
+    "qno": 289,
+    "question_text": "CoS is:",
+    "options": [
+      "White",
+      "Yellow",
+      "Black",
+      "Blue"
+    ],
+    "answer": "Black",
+    "hint": "Cobalt sulphide.",
+    "solution": "CoS is black.",
+    "page_ref": 32
+  },
+  {
+    "qno": 290,
+    "question_text": "Ni2+ confirmatory reagent is:",
+    "options": [
+      "KNO2",
+      "Dimethylglyoxime",
+      "KSCN",
+      "NH4OH"
+    ],
+    "answer": "Dimethylglyoxime",
+    "hint": "DMG.",
+    "solution": "DMG is used to confirm Nickel.",
+    "page_ref": 48
+  },
+  {
+    "qno": 291,
+    "question_text": "Group IV analysis is done after Group III because:",
+    "options": [
+      "Hydroxides interfere",
+      "Sulphides interfere",
+      "Carbonates interfere",
+      "Flame colours interfere"
+    ],
+    "answer": "Sulphides interfere",
+    "hint": "Condition for precipitation.",
+    "solution": "Group IV sulphides would not precipitate in the conditions of Group III, but if H2S was added there, they would precipitate with the hydroxides (or hydroxides would form instead of sulphides if order was reversed). *Correction*: The question likely implies why Group IV follows III. It's because the reagent H2S/OH- would precipitate III as hydroxides anyway, so III must be cleared first. Or, if H2S was used first (Group II), IV stays in solution.",
+    "page_ref": 33
+  },
+  {
+    "qno": 292,
+    "question_text": "Excess NH4Cl is used to:",
+    "options": [
+      "Increase OH-",
+      "Decrease OH-",
+      "Buffer the solution",
+      "Precipitate sulphides"
+    ],
+    "answer": "Decrease OH-",
+    "hint": "In Group III context mostly.",
+    "solution": "NH4Cl suppresses OH- concentration via common ion effect.",
+    "page_ref": 33
+  },
+  {
+    "qno": 293,
+    "question_text": "Group IV cations are called:",
+    "options": [
+      "Acidic sulphide group",
+      "Basic sulphide group",
+      "Hydroxide group",
+      "Carbonate group"
+    ],
+    "answer": "Basic sulphide group",
+    "hint": "Precipitate as sulphides in base.",
+    "solution": "They are precipitated by H2S in basic medium.",
+    "page_ref": 32
+  },
+  {
+    "qno": 294,
+    "question_text": "Failure to maintain alkaline medium during Group IV analysis leads to:",
+    "options": [
+      "No precipitation",
+      "Partial precipitation",
+      "Precipitation of Group II",
+      "Colour change"
+    ],
+    "answer": "No precipitation",
+    "hint": "Ksp not exceeded.",
+    "solution": "Without alkaline medium, [S2-] is too low to precipitate Group IV sulphides.",
+    "page_ref": 33
+  },
+  {
+    "qno": 295,
+    "question_text": "Which ion does NOT belong to Group IV?",
+    "options": [
+      "Zn2+",
+      "Mn2+",
+      "Ni2+",
+      "Ca2+"
+    ],
+    "answer": "Ca2+",
+    "hint": "Group V.",
+    "solution": "Ca2+ is a Group V cation.",
+    "page_ref": 32
+  },
+  {
+    "qno": 296,
+    "question_text": "Zn2+ hydroxide dissolves in excess NaOH due to:",
+    "options": [
+      "Oxidation",
+      "Reduction",
+      "Amphoteric nature",
+      "Basic nature"
+    ],
+    "answer": "Amphoteric nature",
+    "hint": "Forms zincate.",
+    "solution": "Zn(OH)2 acts as an acid with strong bases.",
+    "page_ref": 47
+  },
+  {
+    "qno": 297,
+    "question_text": "Mn2+ hydroxide darkens on standing due to:",
+    "options": [
+      "Reduction",
+      "Oxidation by air",
+      "Dehydration",
+      "Hydrolysis"
+    ],
+    "answer": "Oxidation by air",
+    "hint": "Forms MnO2.",
+    "solution": "Mn(II) oxidises to brown Mn(IV) oxide.",
+    "page_ref": 46
+  },
+  {
+    "qno": 298,
+    "question_text": "Ni2+ hydroxide is best described as:",
+    "options": [
+      "Amphoteric",
+      "Basic",
+      "Acidic",
+      "Neutral"
+    ],
+    "answer": "Basic",
+    "hint": "Does not dissolve in NaOH.",
+    "solution": "Ni(OH)2 is a basic hydroxide.",
+    "page_ref": 49
+  },
+  {
+    "qno": 299,
+    "question_text": "Co2+ nitrite test produces a precipitate that is:",
+    "options": [
+      "White",
+      "Yellow",
+      "Blue",
+      "Black"
+    ],
+    "answer": "Yellow",
+    "hint": "Potassium cobaltinitrite.",
+    "solution": "The precipitate is yellow.",
+    "page_ref": 45
+  },
+  {
+    "qno": 300,
+    "question_text": "Group IV identification relies heavily on:",
+    "options": [
+      "Flame tests",
+      "Colour of sulphides and confirmatory reagents",
+      "Gas evolution",
+      "Odour"
+    ],
+    "answer": "Colour of sulphides and confirmatory reagents",
+    "hint": "Black/White/Buff precipitates.",
+    "solution": "The colour of the sulphide precipitate helps separate Zn/Mn from Ni/Co, followed by specific tests.",
+    "page_ref": 45
+  },
+  {
+    "qno": 301,
+    "question_text": "Group V cations are precipitated as:",
+    "options": [
+      "Sulphides",
+      "Hydroxides",
+      "Carbonates",
+      "Chlorides"
+    ],
+    "answer": "Carbonates",
+    "hint": "Using ammonium carbonate.",
+    "solution": "Group V (Ba, Sr, Ca) precipitate as carbonates.",
+    "page_ref": 32
+  },
+  {
+    "qno": 302,
+    "question_text": "The group reagent for Group V is:",
+    "options": [
+      "NH4OH",
+      "(NH4)2CO3",
+      "BaCl2",
+      "Na2CO3"
+    ],
+    "answer": "(NH4)2CO3",
+    "hint": "Ammonium carbonate.",
+    "solution": "Ammonium carbonate in the presence of NH4Cl and NH4OH.",
+    "page_ref": 32
+  },
+  {
+    "qno": 303,
+    "question_text": "NH4Cl is added before Group V reagent to:",
+    "options": [
+      "Increase precipitation",
+      "Buffer the solution",
+      "Prevent precipitation of Group VI",
+      "Precipitate Mg2+"
+    ],
+    "answer": "Prevent precipitation of Group VI",
+    "hint": "Specifically Magnesium.",
+    "solution": "NH4Cl lowers carbonate ion concentration to prevent precipitation of MgCO3 (which has higher solubility) while allowing Ba, Sr, Ca to precipitate.",
+    "page_ref": 33
+  },
+  {
+    "qno": 304,
+    "question_text": "Group V precipitation is carried out in:",
+    "options": [
+      "Acidic medium",
+      "Neutral medium",
+      "Slightly alkaline medium",
+      "Strongly alkaline medium"
+    ],
+    "answer": "Slightly alkaline medium",
+    "hint": "Using NH4OH.",
+    "solution": "Ammoniacal medium is used.",
+    "page_ref": 33
+  },
+  {
+    "qno": 305,
+    "question_text": "Which ion belongs to Group V?",
+    "options": [
+      "Mg2+",
+      "Ca2+",
+      "Na+",
+      "K+"
+    ],
+    "answer": "Ca2+",
+    "hint": "Lime.",
+    "solution": "Calcium is a Group V cation.",
+    "page_ref": 32
+  },
+  {
+    "qno": 306,
+    "question_text": "Group V includes:",
+    "options": [
+      "Ca2+, Sr2+, Ba2+",
+      "Mg2+, Ca2+, Ba2+",
+      "Ca2+, Zn2+, Sr2+",
+      "Sr2+, Na+, K+"
+    ],
+    "answer": "Ca2+, Sr2+, Ba2+",
+    "hint": "Alkaline earth metals except Mg.",
+    "solution": "Barium, Strontium, and Calcium.",
+    "page_ref": 32
+  },
+  {
+    "qno": 307,
+    "question_text": "Group V cations precipitate as:",
+    "options": [
+      "Sulphates",
+      "Carbonates",
+      "Chlorides",
+      "Hydroxides"
+    ],
+    "answer": "Carbonates",
+    "hint": "White precipitates.",
+    "solution": "They form insoluble carbonates with (NH4)2CO3.",
+    "page_ref": 32
+  },
+  {
+    "qno": 308,
+    "question_text": "Which carbonate is least soluble?",
+    "options": [
+      "CaCO3",
+      "SrCO3",
+      "BaCO3",
+      "MgCO3"
+    ],
+    "answer": "BaCO3",
+    "hint": "Solubility decreases down the group.",
+    "solution": "BaCO3 has the lowest Ksp among the group carbonates.",
+    "page_ref": 52
+  },
+  {
+    "qno": 309,
+    "question_text": "The white precipitate formed in Group V analysis is:",
+    "options": [
+      "Sulphide",
+      "Chloride",
+      "Carbonate",
+      "Hydroxide"
+    ],
+    "answer": "Carbonate",
+    "hint": "Reagent is (NH4)2CO3.",
+    "solution": "It is a white carbonate precipitate.",
+    "page_ref": 32
+  },
+  {
+    "qno": 310,
+    "question_text": "Group V precipitate is filtered and washed to remove:",
+    "options": [
+      "Excess acid",
+      "NH4+ ions",
+      "Alkali metal ions",
+      "Sulphide ions"
+    ],
+    "answer": "NH4+ ions",
+    "hint": "Or reagents from previous steps.",
+    "solution": "Mainly to remove soluble impurities and excess reagent.",
+    "page_ref": 51
+  },
+  {
+    "qno": 311,
+    "question_text": "Ca2+ gives white precipitate with:",
+    "options": [
+      "NaOH",
+      "(NH4)2CO3",
+      "NH4OH",
+      "H2S"
+    ],
+    "answer": "(NH4)2CO3",
+    "hint": "Group reagent.",
+    "solution": "Calcium carbonate is precipitated.",
+    "page_ref": 53
+  },
+  {
+    "qno": 312,
+    "question_text": "The precipitate formed is:",
+    "options": [
+      "CaSO4",
+      "CaCl2",
+      "CaCO3",
+      "Ca(OH)2"
+    ],
+    "answer": "CaCO3",
+    "hint": "Chalk.",
+    "solution": "It is Calcium Carbonate.",
+    "page_ref": 53
+  },
+  {
+    "qno": 313,
+    "question_text": "CaCO3 dissolves in dilute acids with evolution of:",
+    "options": [
+      "NH3",
+      "SO2",
+      "CO2",
+      "H2S"
+    ],
+    "answer": "CO2",
+    "hint": "Effervescence.",
+    "solution": "Carbonates release CO2 with acid.",
+    "page_ref": 53
+  },
+  {
+    "qno": 314,
+    "question_text": "Ca2+ is confirmed by formation of white precipitate with:",
+    "options": [
+      "BaCl2",
+      "(NH4)2SO4",
+      "Ammonium oxalate",
+      "K2CrO4"
+    ],
+    "answer": "Ammonium oxalate",
+    "hint": "Calcium oxalate.",
+    "solution": "Ammonium oxalate forms white Calcium Oxalate.",
+    "page_ref": 53
+  },
+  {
+    "qno": 315,
+    "question_text": "The confirmatory precipitate formed is:",
+    "options": [
+      "CaSO4",
+      "CaC2O4",
+      "CaCO3",
+      "CaCl2"
+    ],
+    "answer": "CaC2O4",
+    "hint": "Oxalate.",
+    "solution": "CaC2O4 is calcium oxalate.",
+    "page_ref": 53
+  },
+  {
+    "qno": 316,
+    "question_text": "Sr2+ gives white precipitate with:",
+    "options": [
+      "Na2CO3",
+      "(NH4)2CO3",
+      "BaCl2",
+      "NH4OH"
+    ],
+    "answer": "(NH4)2CO3",
+    "hint": "Group V.",
+    "solution": "Strontium carbonate is precipitated.",
+    "page_ref": 32
+  },
+  {
+    "qno": 317,
+    "question_text": "SrCO3 dissolves in dilute acids producing:",
+    "options": [
+      "CO2",
+      "SO2",
+      "NH3",
+      "NO2"
+    ],
+    "answer": "CO2",
+    "hint": "Carbonate reaction.",
+    "solution": "CO2 gas is evolved.",
+    "page_ref": 52
+  },
+  {
+    "qno": 318,
+    "question_text": "Sr2+ gives which flame colour?",
+    "options": [
+      "Brick red",
+      "Crimson",
+      "Apple green",
+      "Violet"
+    ],
+    "answer": "Crimson",
+    "hint": "Deep red.",
+    "solution": "Strontium imparts a crimson red colour to the flame.",
+    "page_ref": 11
+  },
+  {
+    "qno": 319,
+    "question_text": "Sr2+ is confirmed by formation of precipitate with:",
+    "options": [
+      "K2CrO4",
+      "(NH4)2SO4",
+      "NaOH",
+      "NH4OH"
+    ],
+    "answer": "(NH4)2SO4",
+    "hint": "Sulphate test.",
+    "solution": "Strontium sulphate is formed as a white precipitate.",
+    "page_ref": 52
+  },
+  {
+    "qno": 320,
+    "question_text": "The confirmatory precipitate is:",
+    "options": [
+      "SrSO4",
+      "SrCO3",
+      "SrCl2",
+      "Sr(OH)2"
+    ],
+    "answer": "SrSO4",
+    "hint": "Sulphate.",
+    "solution": "White SrSO4.",
+    "page_ref": 52
+  },
+  {
+    "qno": 321,
+    "question_text": "Ba2+ gives white precipitate with:",
+    "options": [
+      "Na2CO3",
+      "(NH4)2CO3",
+      "H2S",
+      "NH4OH"
+    ],
+    "answer": "(NH4)2CO3",
+    "hint": "Group V.",
+    "solution": "Barium carbonate.",
+    "page_ref": 32
+  },
+  {
+    "qno": 322,
+    "question_text": "BaCO3 is:",
+    "options": [
+      "Soluble in water",
+      "Insoluble in water",
+      "Yellow",
+      "Black"
+    ],
+    "answer": "Insoluble in water",
+    "hint": "Precipitate.",
+    "solution": "It is a white insoluble solid.",
+    "page_ref": 52
+  },
+  {
+    "qno": 323,
+    "question_text": "Ba2+ gives which flame colour?",
+    "options": [
+      "Brick red",
+      "Crimson",
+      "Apple green",
+      "Violet"
+    ],
+    "answer": "Apple green",
+    "hint": "Light green.",
+    "solution": "Barium gives a characteristic apple green flame.",
+    "page_ref": 11
+  },
+  {
+    "qno": 324,
+    "question_text": "Ba2+ is confirmed by formation of yellow precipitate with:",
+    "options": [
+      "AgNO3",
+      "BaCl2",
+      "K2CrO4",
+      "NH4OH"
+    ],
+    "answer": "K2CrO4",
+    "hint": "Potassium chromate.",
+    "solution": "Barium chromate is a yellow precipitate.",
+    "page_ref": 52
+  },
+  {
+    "qno": 325,
+    "question_text": "The confirmatory precipitate is:",
+    "options": [
+      "BaCO3",
+      "BaSO4",
+      "BaCl2",
+      "Ba(OH)2"
+    ],
+    "answer": "BaSO4",
+    "hint": "Wait, Q324 was chromate. If using sulphate, it's white. Question refers to the common white confirmatory precipitate.",
+    "solution": "While BaCrO4 is yellow, the most common *other* confirmatory test uses sulphate to give white BaSO4.",
+    "page_ref": 52
+  },
+  {
+    "qno": 326,
+    "question_text": "Group V cations are separated based on difference in:",
+    "options": [
+      "Colour",
+      "Solubility of sulphates",
+      "Solubility of carbonates",
+      "Flame colour"
+    ],
+    "answer": "Solubility of chromates",
+    "hint": "Or Chromates/Sulphates.",
+    "solution": "Separation usually involves converting to acetates and using K2CrO4 (Ba precipitates), then (NH4)2SO4 (Sr precipitates), then Oxalate (Ca precipitates). The answer key likely points to Chromate solubility or similar properties.",
+    "page_ref": 51
+  },
+  {
+    "qno": 327,
+    "question_text": "Ca2+ carbonate is more soluble than:",
+    "options": [
+      "SrCO3",
+      "BaCO3",
+      "Both A and B",
+      "Neither A nor B"
+    ],
+    "answer": "Neither A nor B",
+    "hint": "Solubility trend.",
+    "solution": "Solubility of carbonates decreases down the group (Ca > Sr > Ba). So Ca is more soluble than both.",
+    "page_ref": 52
+  },
+  {
+    "qno": 328,
+    "question_text": "Sulphate test is preferred for confirmation of:",
+    "options": [
+      "Ca2+",
+      "Sr2+",
+      "Ba2+",
+      "Mg2+"
+    ],
+    "answer": "Sr2+",
+    "hint": "SrSO4 precipitate.",
+    "solution": "Often used to distinguish Sr from Ca (CaSO4 is sparingly soluble, SrSO4 is insoluble).",
+    "page_ref": 52
+  },
+  {
+    "qno": 329,
+    "question_text": "Flame test is most reliable for:",
+    "options": [
+      "Ca2+",
+      "Sr2+",
+      "Ba2+",
+      "All of these"
+    ],
+    "answer": "All of these",
+    "hint": "They all give distinct colours.",
+    "solution": "Flame tests are excellent confirmatory tests for all Group V cations.",
+    "page_ref": 11
+  },
+  {
+    "qno": 330,
+    "question_text": "Group V analysis is done before Group VI because:",
+    "options": [
+      "Carbonates interfere",
+      "Alkali metals interfere",
+      "Sulphides interfere",
+      "Hydroxides interfere"
+    ],
+    "answer": "Alkali metals interfere",
+    "hint": "Reagent addition order.",
+    "solution": "Actually, it's because Group V reagents (Carbonate) would precipitate Group V ions. If we tested for Mg/Na/K first, we might not separate Ca/Ba/Sr effectively. But specifically, Group V must be removed before testing for Mg because Carbonates of Mg are soluble *in NH4Cl*, but phosphate of Mg (Group VI test) would also precipitate Ca/Ba/Sr. So Ca/Ba/Sr must be gone.",
+    "page_ref": 51
+  },
+  {
+    "qno": 331,
+    "question_text": "Group VI cations are:",
+    "options": [
+      "Precipitated as carbonates",
+      "Precipitated as hydroxides",
+      "Not precipitated by group reagents",
+      "Precipitated as sulphides"
+    ],
+    "answer": "Not precipitated by group reagents",
+    "hint": "They remain in solution.",
+    "solution": "Group VI (Mg, Na, K) do not precipitate with reagents of groups I-V.",
+    "page_ref": 32
+  },
+  {
+    "qno": 332,
+    "question_text": "Group VI includes:",
+    "options": [
+      "Ca2+, Sr2+",
+      "Mg2+, Na+, K+",
+      "Na+, K+ only",
+      "Mg2+ only"
+    ],
+    "answer": "Mg2+, Na+, K+",
+    "hint": "Magnesium and alkali metals.",
+    "solution": "Magnesium, Sodium, Potassium.",
+    "page_ref": 32
+  },
+  {
+    "qno": 333,
+    "question_text": "Mg2+ is not precipitated in Group V because:",
+    "options": [
+      "It forms soluble carbonate",
+      "It forms insoluble sulphide",
+      "It forms volatile compounds",
+      "It forms coloured salts"
+    ],
+    "answer": "It forms soluble carbonate",
+    "hint": "Due to NH4Cl.",
+    "solution": "MgCO3 is soluble in the presence of ammonium salts (buffer action lowering CO3 2- conc).",
+    "page_ref": 54
+  },
+  {
+    "qno": 334,
+    "question_text": "Mg2+ is tested using:",
+    "options": [
+      "NaOH",
+      "NH4OH",
+      "Na2HPO4",
+      "BaCl2"
+    ],
+    "answer": "Na2HPO4",
+    "hint": "Phosphate test.",
+    "solution": "Disodium hydrogen phosphate is the confirmatory reagent.",
+    "page_ref": 54
+  },
+  {
+    "qno": 335,
+    "question_text": "Mg2+ gives white precipitate of ___ in presence of NH4OH and NH4Cl.",
+    "options": [
+      "Mg(OH)2",
+      "MgCO3",
+      "MgNH4PO4",
+      "MgSO4"
+    ],
+    "answer": "MgNH4PO4",
+    "hint": "Magnesium ammonium phosphate.",
+    "solution": "White crystalline precipitate of MgNH4PO4.",
+    "page_ref": 54
+  },
+  {
+    "qno": 336,
+    "question_text": "Na+ gives which flame colour?",
+    "options": [
+      "Brick red",
+      "Crimson",
+      "Golden yellow",
+      "Apple green"
+    ],
+    "answer": "Golden yellow",
+    "hint": "Persistent colour.",
+    "solution": "Sodium gives a golden yellow flame.",
+    "page_ref": 11
+  },
+  {
+    "qno": 337,
+    "question_text": "Sodium flame colour is:",
+    "options": [
+      "Weak",
+      "Intense",
+      "Short-lived",
+      "Invisible"
+    ],
+    "answer": "Intense",
+    "hint": "Masks others.",
+    "solution": "It is very intense.",
+    "page_ref": 11
+  },
+  {
+    "qno": 338,
+    "question_text": "Sodium interferes in flame tests because it:",
+    "options": [
+      "Is colourless",
+      "Gives intense emission",
+      "Forms complexes",
+      "Is insoluble"
+    ],
+    "answer": "Gives intense emission",
+    "hint": "Yellow light dominates.",
+    "solution": "The intense yellow masks other weaker flames like K+.",
+    "page_ref": 11
+  },
+  {
+    "qno": 339,
+    "question_text": "Sodium is confirmed by:",
+    "options": [
+      "Flame test only",
+      "Precipitation test",
+      "Colour reaction",
+      "Gas evolution"
+    ],
+    "answer": "Flame test only",
+    "hint": "Mostly.",
+    "solution": "While zinc uranyl acetate gives a precipitate, in elementary analysis, the flame test is the primary confirmation.",
+    "page_ref": 11
+  },
+  {
+    "qno": 340,
+    "question_text": "Sodium salts are generally:",
+    "options": [
+      "Coloured",
+      "Insoluble",
+      "Water soluble",
+      "Amphoteric"
+    ],
+    "answer": "Water soluble",
+    "hint": "Universal solubility.",
+    "solution": "Almost all sodium salts are soluble in water.",
+    "page_ref": 23
+  },
+  {
+    "qno": 341,
+    "question_text": "K+ gives which flame colour?",
+    "options": [
+      "Yellow",
+      "Violet",
+      "Crimson",
+      "Green"
+    ],
+    "answer": "Violet",
+    "hint": "Lilac.",
+    "solution": "Potassium gives a violet flame.",
+    "page_ref": 11
+  },
+  {
+    "qno": 342,
+    "question_text": "Potassium flame is best observed using:",
+    "options": [
+      "Red glass",
+      "Blue glass",
+      "Green glass",
+      "Yellow glass"
+    ],
+    "answer": "Blue glass",
+    "hint": "Cobalt glass.",
+    "solution": "Blue glass blocks sodium's yellow light.",
+    "page_ref": 11
+  },
+  {
+    "qno": 343,
+    "question_text": "K+ is confirmed by formation of precipitate with:",
+    "options": [
+      "NaOH",
+      "NH4OH",
+      "Sodium cobaltinitrite",
+      "BaCl2"
+    ],
+    "answer": "Sodium cobaltinitrite",
+    "hint": "Yellow ppt.",
+    "solution": "Forms yellow K3[Co(NO2)6].",
+    "page_ref": 45
+  },
+  {
+    "qno": 344,
+    "question_text": "The colour of potassium cobaltinitrite precipitate is:",
+    "options": [
+      "White",
+      "Yellow",
+      "Green",
+      "Blue"
+    ],
+    "answer": "Yellow",
+    "hint": "Fischer's salt.",
+    "solution": "It is a yellow crystalline precipitate.",
+    "page_ref": 45
+  },
+  {
+    "qno": 345,
+    "question_text": "K+ does not give precipitation with:",
+    "options": [
+      "NaOH",
+      "NH4OH",
+      "Both A and B",
+      "H2S"
+    ],
+    "answer": "Both A and B",
+    "hint": "Soluble hydroxide.",
+    "solution": "KOH is soluble.",
+    "page_ref": 23
+  },
+  {
+    "qno": 346,
+    "question_text": "Group V cations are also called:",
+    "options": [
+      "Alkali metals",
+      "Alkaline earth metals",
+      "Transition metals",
+      "Basic radicals"
+    ],
+    "answer": "Alkaline earth metals",
+    "hint": "Ca, Sr, Ba.",
+    "solution": "They are the heavier alkaline earth metals.",
+    "page_ref": 32
+  },
+  {
+    "qno": 347,
+    "question_text": "Group VI cations are detected mainly by:",
+    "options": [
+      "Group reagents",
+      "Precipitation reactions",
+      "Flame tests and special tests",
+      "Sulphide tests"
+    ],
+    "answer": "Flame tests and special tests",
+    "hint": "No general group reagent.",
+    "solution": "Since they don't have a common precipitant, individual tests (flame, phosphate) are used.",
+    "page_ref": 32
+  },
+  {
+    "qno": 348,
+    "question_text": "Mg2+ hydroxide is:",
+    "options": [
+      "Amphoteric",
+      "Acidic",
+      "Basic",
+      "Neutral"
+    ],
+    "answer": "Basic",
+    "hint": "Milk of magnesia.",
+    "solution": "Mg(OH)2 is a base.",
+    "page_ref": 54
+  },
+  {
+    "qno": 349,
+    "question_text": "Mg2+ phosphate precipitate is:",
+    "options": [
+      "Soluble in acids",
+      "Insoluble in acids",
+      "Coloured",
+      "Black"
+    ],
+    "answer": "Soluble in acids",
+    "hint": "Dissolves.",
+    "solution": "MgNH4PO4 dissolves in dilute acids.",
+    "page_ref": 54
+  },
+  {
+    "qno": 350,
+    "question_text": "Group VI identification relies mostly on:",
+    "options": [
+      "Colour of salt",
+      "Flame colour and confirmatory tests",
+      "Gas evolution",
+      "Solubility in water"
+    ],
+    "answer": "Flame colour and confirmatory tests",
+    "hint": "Same as 347.",
+    "solution": "Flame tests for Na/K, phosphate test for Mg.",
+    "page_ref": 11
+  },
+  {
+    "qno": 351,
+    "question_text": "Group V is analysed before Group VI because:",
+    "options": [
+      "Group VI interferes",
+      "Group V interferes",
+      "Group VI precipitates early",
+      "Group V is volatile"
+    ],
+    "answer": "Group V interferes",
+    "hint": "Ca/Ba/Sr precipitate with phosphate.",
+    "solution": "Group V cations would precipitate with the phosphate reagent used for Mg, interfering with the test.",
+    "page_ref": 51
+  },
+  {
+    "qno": 352,
+    "question_text": "Mg2+ remains in filtrate after Group V because:",
+    "options": [
+      "Forms insoluble carbonate",
+      "Forms soluble carbonate",
+      "Forms sulphide",
+      "Forms chloride"
+    ],
+    "answer": "Forms soluble carbonate",
+    "hint": "In presence of NH4Cl.",
+    "solution": "MgCO3 does not precipitate under the buffered conditions.",
+    "page_ref": 54
+  },
+  {
+    "qno": 353,
+    "question_text": "Alkali metal ions are analysed last because they:",
+    "options": [
+      "Are coloured",
+      "Have no group reagent",
+      "Are volatile",
+      "Are amphoteric"
+    ],
+    "answer": "Have no group reagent",
+    "hint": "They don't precipitate easily.",
+    "solution": "They remain in solution through all previous groups.",
+    "page_ref": 32
+  },
+  {
+    "qno": 354,
+    "question_text": "Flame tests are especially useful for:",
+    "options": [
+      "Transition metals",
+      "Alkali metals",
+      "Heavy metals",
+      "Anions"
+    ],
+    "answer": "Alkali metals",
+    "hint": "Low ionization energy.",
+    "solution": "Na and K are easily identified by flame.",
+    "page_ref": 11
+  },
+  {
+    "qno": 355,
+    "question_text": "Sodium cobaltinitrite test is specific for:",
+    "options": [
+      "Na+",
+      "K+",
+      "Mg2+",
+      "Ca2+"
+    ],
+    "answer": "K+",
+    "hint": "Potassium.",
+    "solution": "It confirms Potassium ions.",
+    "page_ref": 32
+  },
+  {
+    "qno": 356,
+    "question_text": "Ca2+ flame colour is:",
+    "options": [
+      "Crimson",
+      "Brick red",
+      "Apple green",
+      "Violet"
+    ],
+    "answer": "Brick red",
+    "hint": "Reddish.",
+    "solution": "Calcium is brick red.",
+    "page_ref": 11
+  },
+  {
+    "qno": 357,
+    "question_text": "Sr2+ flame colour is:",
+    "options": [
+      "Brick red",
+      "Crimson",
+      "Apple green",
+      "Violet"
+    ],
+    "answer": "Crimson",
+    "hint": "Deep red.",
+    "solution": "Strontium is crimson.",
+    "page_ref": 11
+  },
+  {
+    "qno": 358,
+    "question_text": "Ba2+ flame colour is:",
+    "options": [
+      "Brick red",
+      "Crimson",
+      "Apple green",
+      "Violet"
+    ],
+    "answer": "Apple green",
+    "hint": "Green.",
+    "solution": "Barium is apple green.",
+    "page_ref": 11
+  },
+  {
+    "qno": 359,
+    "question_text": "Na+ flame colour is:",
+    "options": [
+      "Brick red",
+      "Crimson",
+      "Golden yellow",
+      "Violet"
+    ],
+    "answer": "Golden yellow",
+    "hint": "Yellow.",
+    "solution": "Sodium is golden yellow.",
+    "page_ref": 11
+  },
+  {
+    "qno": 360,
+    "question_text": "K+ flame colour is:",
+    "options": [
+      "Yellow",
+      "Crimson",
+      "Violet",
+      "Green"
+    ],
+    "answer": "Violet",
+    "hint": "Lilac.",
+    "solution": "Potassium is violet.",
+    "page_ref": 11
+  },
+  {
+    "qno": 361,
+    "question_text": "Brick-red flame may be confused with crimson flame unless:",
+    "options": [
+      "Concentrated acid is used",
+      "Blue glass is used",
+      "Green glass is used",
+      "Flame is observed in dark"
+    ],
+    "answer": "Blue glass is used",
+    "hint": "Filter.",
+    "solution": "Blue glass helps distinguish shades and filter out sodium impurity.",
+    "page_ref": 11
+  },
+  {
+    "qno": 362,
+    "question_text": "Sodium flame masks other flame colours because:",
+    "options": [
+      "Sodium salts are insoluble",
+      "Sodium emits strongly in visible region",
+      "Sodium forms complexes",
+      "Sodium volatilises slowly"
+    ],
+    "answer": "Sodium emits strongly in visible region",
+    "hint": "Intensity.",
+    "solution": "The high intensity of Na emission overwhelms others.",
+    "page_ref": 11
+  },
+  {
+    "qno": 363,
+    "question_text": "Which flame colour is most intense?",
+    "options": [
+      "Ca2+",
+      "Sr2+",
+      "Na+",
+      "K+"
+    ],
+    "answer": "Na+",
+    "hint": "Yellow.",
+    "solution": "Sodium is the most intense.",
+    "page_ref": 11
+  },
+  {
+    "qno": 364,
+    "question_text": "Blue glass is used to observe flame of:",
+    "options": [
+      "Na+",
+      "Ca2+",
+      "K+",
+      "Ba2+"
+    ],
+    "answer": "K+",
+    "hint": "To see violet.",
+    "solution": "It blocks Na yellow to see K violet.",
+    "page_ref": 11
+  },
+  {
+    "qno": 365,
+    "question_text": "Flame test is unreliable for:",
+    "options": [
+      "Alkali metals",
+      "Alkaline earth metals",
+      "Transition metals",
+      "Group V metals"
+    ],
+    "answer": "Transition metals",
+    "hint": "Generally.",
+    "solution": "While Cu gives colour, most transition metals (Fe, Zn etc) do not give characteristic flames in Bunsen burner.",
+    "page_ref": 11
+  },
+  {
+    "qno": 366,
+    "question_text": "(NH4)2CO3 is preferred over Na2CO3 because:",
+    "options": [
+      "It is cheaper",
+      "It avoids introducing Na+",
+      "It is stronger base",
+      "It reacts faster"
+    ],
+    "answer": "It avoids introducing Na+",
+    "hint": "Impurity.",
+    "solution": "Using Na2CO3 would contaminate the solution with Na+, interfering with Group VI analysis.",
+    "page_ref": 33
+  },
+  {
+    "qno": 367,
+    "question_text": "Presence of NH4Cl prevents precipitation of:",
+    "options": [
+      "Ca2+",
+      "Sr2+",
+      "Ba2+",
+      "Mg2+"
+    ],
+    "answer": "Mg2+",
+    "hint": "Soluble carbonate.",
+    "solution": "MgCO3 remains soluble.",
+    "page_ref": 33
+  },
+  {
+    "qno": 368,
+    "question_text": "Which carbonate precipitates first on adding (NH4)2CO3?",
+    "options": [
+      "CaCO3",
+      "SrCO3",
+      "BaCO3",
+      "MgCO3"
+    ],
+    "answer": "BaCO3",
+    "hint": "Lowest Ksp.",
+    "solution": "Solubility decreases Ca > Sr > Ba, so BaCO3 precipitates most readily.",
+    "page_ref": 52
+  },
+  {
+    "qno": 369,
+    "question_text": "Group V cations are separated mainly by:",
+    "options": [
+      "Sulphide tests",
+      "Carbonate solubility",
+      "Flame colour",
+      "Hydroxide solubility"
+    ],
+    "answer": "Carbonate solubility",
+    "hint": "Wait, separation *within* the group or from others? Question likely refers to the group separation principle.",
+    "solution": "The formation of insoluble carbonates separates them from Group VI.",
+    "page_ref": 51
+  },
+  {
+    "qno": 370,
+    "question_text": "Failure to add NH4Cl during Group V analysis may precipitate:",
+    "options": [
+      "Na+",
+      "K+",
+      "Mg2+",
+      "Ba2+"
+    ],
+    "answer": "Mg2+",
+    "hint": "As carbonate.",
+    "solution": "Without buffer, [CO3 2-] can be high enough to precipitate MgCO3.",
+    "page_ref": 54
+  },
+  {
+    "qno": 371,
+    "question_text": "Mg2+ does not give flame colour because it:",
+    "options": [
+      "Is heavy",
+      "Forms stable salts",
+      "Has high excitation energy",
+      "Is amphoteric"
+    ],
+    "answer": "Has high excitation energy",
+    "hint": "Electrons held tightly.",
+    "solution": "Bunsen flame isn't hot enough to excite Mg electrons.",
+    "page_ref": 11
+  },
+  {
+    "qno": 372,
+    "question_text": "Mg2+ is tested only after removal of:",
+    "options": [
+      "Group II",
+      "Group III",
+      "Group IV",
+      "Group V"
+    ],
+    "answer": "Group V",
+    "hint": "Sequential.",
+    "solution": "It follows Group V.",
+    "page_ref": 51
+  },
+  {
+    "qno": 373,
+    "question_text": "Mg2+ test requires presence of:",
+    "options": [
+      "NaOH only",
+      "NH4OH only",
+      "NH4OH + NH4Cl",
+      "HCl"
+    ],
+    "answer": "NH4OH + NH4Cl",
+    "hint": "Buffer for phosphate ppt.",
+    "solution": "Precipitation of MgNH4PO4 happens in ammoniacal buffer.",
+    "page_ref": 54
+  },
+  {
+    "qno": 374,
+    "question_text": "The role of NH4Cl in Mg2+ test is to:",
+    "options": [
+      "Increase precipitation",
+      "Buffer the solution",
+      "Oxidise Mg2+",
+      "Reduce Mg2+"
+    ],
+    "answer": "Buffer the solution",
+    "hint": "Maintain pH.",
+    "solution": "It buffers the solution to optimal pH for MgNH4PO4 formation.",
+    "page_ref": 54
+  },
+  {
+    "qno": 375,
+    "question_text": "The Mg2+ confirmatory precipitate is:",
+    "options": [
+      "Soluble in water",
+      "Insoluble in water",
+      "Coloured",
+      "Black"
+    ],
+    "answer": "Insoluble in water",
+    "hint": "It's a precipitate.",
+    "solution": "MgNH4PO4 is insoluble in water.",
+    "page_ref": 54
+  },
+  {
+    "qno": 376,
+    "question_text": "Alkali metals are placed last because they:",
+    "options": [
+      "Are volatile",
+      "Form insoluble salts",
+      "Do not precipitate with group reagents",
+      "Give coloured sulphides"
+    ],
+    "answer": "Do not precipitate with group reagents",
+    "hint": "Solubility.",
+    "solution": "They form soluble chlorides, sulphides, hydroxides, and carbonates.",
+    "page_ref": 32
+  },
+  {
+    "qno": 377,
+    "question_text": "Which alkali metal ion has no confirmatory precipitation test?",
+    "options": [
+      "Na+",
+      "K+",
+      "Both A and B",
+      "Li+"
+    ],
+    "answer": "Na+",
+    "hint": "Often relied on flame.",
+    "solution": "In standard qualitative analysis schemes, Na+ is often detected by flame test alone as most of its salts are soluble (though Zn Uranyl Acetate can be used).",
+    "page_ref": 11
+  },
+  {
+    "qno": 378,
+    "question_text": "Sodium cobaltinitrite test fails if solution contains excess:",
+    "options": [
+      "Na+",
+      "NH4+",
+      "K+",
+      "Mg2+"
+    ],
+    "answer": "NH4+",
+    "hint": "Interference.",
+    "solution": "Ammonium ions also form a yellow precipitate with cobaltinitrite, so they must be removed.",
+    "page_ref": 45
+  },
+  {
+    "qno": 379,
+    "question_text": "K+ flame is weak because:",
+    "options": [
+      "It forms stable compounds",
+      "Emission lies partially outside visible range",
+      "It is less volatile",
+      "It is heavier"
+    ],
+    "answer": "Emission lies partially outside visible range",
+    "hint": "Violet is at the edge.",
+    "solution": "The emission is less intense to the eye compared to Na.",
+    "page_ref": 11
+  },
+  {
+    "qno": 380,
+    "question_text": "Which ion interferes most in K+ flame test?",
+    "options": [
+      "Li+",
+      "Na+",
+      "Ca2+",
+      "Mg2+"
+    ],
+    "answer": "Na+",
+    "hint": "Yellow.",
+    "solution": "Sodium's intense yellow masks potassium's violet.",
+    "page_ref": 11
+  },
+  {
+    "qno": 381,
+    "question_text": "Group V precipitates dissolve in acids due to:",
+    "options": [
+      "Oxidation",
+      "Reduction",
+      "CO2 evolution",
+      "Hydrolysis"
+    ],
+    "answer": "CO2 evolution",
+    "hint": "Carbonates.",
+    "solution": "Carbonates react with acid to form water and CO2.",
+    "page_ref": 53
+  },
+  {
+    "qno": 382,
+    "question_text": "Carbonate group is skipped if solution is acidic because:",
+    "options": [
+      "Carbonates dissolve",
+      "Sulphides form",
+      "Hydroxides form",
+      "Chlorides form"
+    ],
+    "answer": "Carbonates dissolve",
+    "hint": "In acid.",
+    "solution": "Precipitation requires alkaline conditions.",
+    "page_ref": 33
+  },
+  {
+    "qno": 383,
+    "question_text": "The gas evolved when carbonates react with acid turns limewater:",
+    "options": [
+      "Blue",
+      "Yellow",
+      "Milky",
+      "Colourless"
+    ],
+    "answer": "Milky",
+    "hint": "CaCO3.",
+    "solution": "Formation of calcium carbonate.",
+    "page_ref": 23
+  },
+  {
+    "qno": 384,
+    "question_text": "Which ion must be completely removed before Mg2+ test?",
+    "options": [
+      "Ca2+",
+      "Sr2+",
+      "Ba2+",
+      "All of these"
+    ],
+    "answer": "All of these",
+    "hint": "Phosphate reacts with them too.",
+    "solution": "Group V cations also form insoluble phosphates, interfering with Mg detection.",
+    "page_ref": 54
+  },
+  {
+    "qno": 385,
+    "question_text": "Mg2+ gives no precipitate with NH4OH alone because:",
+    "options": [
+      "Mg(OH)2 is soluble",
+      "NH4OH is weak base",
+      "Mg2+ is amphoteric",
+      "Mg2+ is volatile"
+    ],
+    "answer": "NH4OH is weak base",
+    "hint": "Usually requires stronger base or phosphate.",
+    "solution": "Mg(OH)2 has relatively high solubility compared to Group III hydroxides and doesn't precipitate with weak base like NH4OH (especially with NH4Cl present).",
+    "page_ref": 54
+  },
+  {
+    "qno": 386,
+    "question_text": "White gelatinous precipitate suggests presence of:",
+    "options": [
+      "Fe3+",
+      "Al3+",
+      "Zn2+",
+      "Ca2+"
+    ],
+    "answer": "Al3+",
+    "hint": "Aluminium hydroxide.",
+    "solution": "Al(OH)3 is white gelatinous.",
+    "page_ref": 41
+  },
+  {
+    "qno": 387,
+    "question_text": "Flesh-coloured sulphide indicates:",
+    "options": [
+      "Zn2+",
+      "Mn2+",
+      "Ni2+",
+      "Co2+"
+    ],
+    "answer": "Mn2+",
+    "hint": "Manganese.",
+    "solution": "MnS is flesh coloured.",
+    "page_ref": 32
+  },
+  {
+    "qno": 388,
+    "question_text": "Apple-green flame confirms:",
+    "options": [
+      "Ca2+",
+      "Sr2+",
+      "Ba2+",
+      "Na+"
+    ],
+    "answer": "Ba2+",
+    "hint": "Barium.",
+    "solution": "Barium gives apple green flame.",
+    "page_ref": 11
+  },
+  {
+    "qno": 389,
+    "question_text": "Crimson flame confirms:",
+    "options": [
+      "Ca2+",
+      "Sr2+",
+      "Ba2+",
+      "K+"
+    ],
+    "answer": "Sr2+",
+    "hint": "Strontium.",
+    "solution": "Strontium gives crimson flame.",
+    "page_ref": 11
+  },
+  {
+    "qno": 390,
+    "question_text": "Golden yellow flame confirms:",
+    "options": [
+      "K+",
+      "Na+",
+      "Ca2+",
+      "Sr2+"
+    ],
+    "answer": "Na+",
+    "hint": "Sodium.",
+    "solution": "Sodium gives golden yellow flame.",
+    "page_ref": 11
+  },
+  {
+    "qno": 391,
+    "question_text": "Which ion is detected only by flame test in qualitative analysis?",
+    "options": [
+      "Ca2+",
+      "Na+",
+      "Sr2+",
+      "Ba2+"
+    ],
+    "answer": "Na+",
+    "hint": "No standard wet ppt test.",
+    "solution": "Na+ is primarily detected by flame test (or Zinc Uranyl Acetate, but flame is primary).",
+    "page_ref": 11
+  },
+  {
+    "qno": 392,
+    "question_text": "Which test must always be done in clean platinum wire?",
+    "options": [
+      "Sulphide test",
+      "Hydroxide test",
+      "Flame test",
+      "Carbonate test"
+    ],
+    "answer": "Flame test",
+    "hint": "To avoid contamination.",
+    "solution": "Platinum wire is non-reactive and doesn't colour the flame.",
+    "page_ref": 11
+  },
+  {
+    "qno": 393,
+    "question_text": "Flame colour is observed due to:",
+    "options": [
+      "Ionisation",
+      "Electron excitation and emission",
+      "Oxidation",
+      "Reduction"
+    ],
+    "answer": "Electron excitation and emission",
+    "hint": "Energy levels.",
+    "solution": "Emission of light as excited electrons return to ground state.",
+    "page_ref": 11
+  },
+  {
+    "qno": 394,
+    "question_text": "Alkali metals give flame colour because they:",
+    "options": [
+      "Have low ionisation energy",
+      "Form coloured compounds",
+      "Have unpaired electrons",
+      "Are amphoteric"
+    ],
+    "answer": "Have low ionisation energy",
+    "hint": "Easy excitation.",
+    "solution": "Loosely bound valence electrons are easily excited by flame heat.",
+    "page_ref": 11
+  },
+  {
+    "qno": 395,
+    "question_text": "Group V and VI together are called:",
+    "options": [
+      "Acidic radicals",
+      "Basic radicals",
+      "Anions",
+      "Neutral radicals"
+    ],
+    "answer": "Basic radicals",
+    "hint": "All cations are basic radicals.",
+    "solution": "All cations (Group I-VI) are basic radicals.",
+    "page_ref": 3
+  },
+  {
+    "qno": 396,
+    "question_text": "Group V test is skipped if solution contains:",
+    "options": [
+      "Excess NH4Cl",
+      "Excess acid",
+      "Excess base",
+      "Sulphide"
+    ],
+    "answer": "Excess acid",
+    "hint": "Carbonates dissolve.",
+    "solution": "Acidic solution prevents carbonate precipitation.",
+    "page_ref": 33
+  },
+  {
+    "qno": 397,
+    "question_text": "Which ion remains till the very end of analysis?",
+    "options": [
+      "Ca2+",
+      "Mg2+",
+      "Na+",
+      "Ba2+"
+    ],
+    "answer": "Na+",
+    "hint": "Soluble.",
+    "solution": "Na+ remains in solution after all other groups.",
+    "page_ref": 32
+  },
+  {
+    "qno": 398,
+    "question_text": "Final filtrate after all group analysis contains mainly:",
+    "options": [
+      "Heavy metals",
+      "Alkali metals",
+      "Transition metals",
+      "Sulphides"
+    ],
+    "answer": "Alkali metals",
+    "hint": "Na, K.",
+    "solution": "Solution contains Na+, K+, NH4+ salts.",
+    "page_ref": 32
+  },
+  {
+    "qno": 399,
+    "question_text": "The last confirmatory tests in analysis usually involve:",
+    "options": [
+      "Precipitation",
+      "Flame colour",
+      "Gas evolution",
+      "Colour change"
+    ],
+    "answer": "Flame colour",
+    "hint": "For alkali metals.",
+    "solution": "Flame tests for Na/K.",
+    "page_ref": 11
+  },
+  {
+    "qno": 400,
+    "question_text": "Correct order of last two groups is:",
+    "options": [
+      "VI then V",
+      "V then VI",
+      "IV then VI",
+      "III then VI"
+    ],
+    "answer": "V then VI",
+    "hint": "Sequential.",
+    "solution": "Group V (Ba,Sr,Ca) before Group VI (Mg,Na,K).",
+    "page_ref": 32
+  },
+  {
+    "qno": 401,
+    "question_text": "The first ion tested in qualitative analysis is:",
+    "options": [
+      "Na+",
+      "NH4+",
+      "K+",
+      "Mg2+"
+    ],
+    "answer": "NH4+",
+    "hint": "It belongs to the Zero Group.",
+    "solution": "Ammonium ion (NH4+) is tested first because ammonium salts are added as reagents (NH4Cl, NH4OH) in subsequent groups, which would invalidate testing for it later.",
+    "page_ref": 32
+  },
+  {
+    "qno": 402,
+    "question_text": "The last ions tested in qualitative analysis belong to:",
+    "options": [
+      "Group IV",
+      "Group III",
+      "Group V",
+      "Group VI"
+    ],
+    "answer": "Group VI",
+    "hint": "Magnesium, Sodium, Potassium.",
+    "solution": "Group VI cations (Mg2+, Na+, K+) remain in solution after all other groups have been precipitated.",
+    "page_ref": 32
+  },
+  {
+    "qno": 403,
+    "question_text": "Group reagents are added sequentially to avoid:",
+    "options": [
+      "Colour formation",
+      "Gas evolution",
+      "Interference",
+      "Hydrolysis"
+    ],
+    "answer": "Interference",
+    "hint": "Premature precipitation.",
+    "solution": "Sequential addition ensures cations are removed in specific groups based on solubility products (Ksp), preventing interference in later groups.",
+    "page_ref": 33
+  },
+  {
+    "qno": 404,
+    "question_text": "The basis of qualitative inorganic analysis is difference in:",
+    "options": [
+      "Atomic mass",
+      "Colour",
+      "Solubility product",
+      "Density"
+    ],
+    "answer": "Solubility product",
+    "hint": "Ksp values.",
+    "solution": "The separation of cations into groups is based on the significant differences in the solubility products (Ksp) of their salts (chlorides, sulphides, hydroxides, carbonates).",
+    "page_ref": 33
+  },
+  {
+    "qno": 405,
+    "question_text": "Confirmatory tests are done on:",
+    "options": [
+      "Original solution",
+      "Solid salt",
+      "Precipitate",
+      "Filtrate"
+    ],
+    "answer": "Precipitate",
+    "hint": "The separated group solid.",
+    "solution": "Once a group precipitate is obtained, it is dissolved and specific confirmatory tests are performed on it to identify the specific cation.",
+    "page_ref": 34
+  },
+  {
+    "qno": 406,
+    "question_text": "Dilute HCl precipitates which group?",
+    "options": [
+      "Group II",
+      "Group III",
+      "Group I",
+      "Group IV"
+    ],
+    "answer": "Group I",
+    "hint": "Insoluble chlorides.",
+    "solution": "Dilute HCl is the group reagent for Group I, precipitating Ag+, Pb2+, and Hg2 2+ as chlorides.",
+    "page_ref": 32
+  },
+  {
+    "qno": 407,
+    "question_text": "H2S in acidic medium precipitates:",
+    "options": [
+      "Group I",
+      "Group II",
+      "Group III",
+      "Group IV"
+    ],
+    "answer": "Group II",
+    "hint": "Acidic sulphides.",
+    "solution": "H2S in the presence of HCl precipitates Group II cations as sulphides.",
+    "page_ref": 32
+  },
+  {
+    "qno": 408,
+    "question_text": "NH4OH + NH4Cl precipitates:",
+    "options": [
+      "Group II",
+      "Group III",
+      "Group IV",
+      "Group V"
+    ],
+    "answer": "Group III",
+    "hint": "Hydroxides.",
+    "solution": "This buffer mixture precipitates Group III cations (Fe, Al, Cr) as hydroxides.",
+    "page_ref": 32
+  },
+  {
+    "qno": 409,
+    "question_text": "H2S in alkaline medium precipitates:",
+    "options": [
+      "Group II",
+      "Group III",
+      "Group IV",
+      "Group V"
+    ],
+    "answer": "Group IV",
+    "hint": "Basic sulphides.",
+    "solution": "H2S in the presence of NH4OH precipitates Group IV cations (Zn, Mn, Ni, Co) as sulphides.",
+    "page_ref": 32
+  },
+  {
+    "qno": 410,
+    "question_text": "(NH4)2CO3 precipitates:",
+    "options": [
+      "Group III",
+      "Group IV",
+      "Group V",
+      "Group VI"
+    ],
+    "answer": "Group V",
+    "hint": "Carbonates.",
+    "solution": "Ammonium carbonate precipitates Group V cations (Ba, Sr, Ca) as carbonates.",
+    "page_ref": 32
+  },
+  {
+    "qno": 411,
+    "question_text": "White curdy precipitate with dilute HCl indicates:",
+    "options": [
+      "Pb2+",
+      "Ag+",
+      "Hg2 2+",
+      "All of these"
+    ],
+    "answer": "All of these",
+    "hint": "Group I chlorides are white.",
+    "solution": "AgCl, PbCl2, and Hg2Cl2 are all white precipitates formed with dilute HCl. AgCl specifically is often described as curdy.",
+    "page_ref": 32
+  },
+  {
+    "qno": 412,
+    "question_text": "The Group I chloride soluble in hot water is:",
+    "options": [
+      "AgCl",
+      "Hg2Cl2",
+      "PbCl2",
+      "CuCl"
+    ],
+    "answer": "PbCl2",
+    "hint": "Separation of Lead.",
+    "solution": "Lead(II) chloride is soluble in hot water but crystallises on cooling.",
+    "page_ref": 34
+  },
+  {
+    "qno": 413,
+    "question_text": "Blackening of precipitate with NH4OH confirms:",
+    "options": [
+      "Ag+",
+      "Pb2+",
+      "Hg2 2+",
+      "Cu2+"
+    ],
+    "answer": "Hg2 2+",
+    "hint": "Mercurous chloride reaction.",
+    "solution": "Hg2Cl2 reacts with ammonia to form a black mixture of Hg (metal) and Hg(NH2)Cl.",
+    "page_ref": 34
+  },
+  {
+    "qno": 414,
+    "question_text": "AgCl dissolves in NH4OH due to formation of:",
+    "options": [
+      "AgOH",
+      "Ag2O",
+      "Ammine complex",
+      "Ag2Cl2"
+    ],
+    "answer": "Ammine complex",
+    "hint": "Soluble complex.",
+    "solution": "Silver chloride dissolves forming the soluble complex [Ag(NH3)2]+.",
+    "page_ref": 36
+  },
+  {
+    "qno": 415,
+    "question_text": "Yellow crystalline PbI2 appears on:",
+    "options": [
+      "Heating",
+      "Cooling",
+      "Standing",
+      "Shaking"
+    ],
+    "answer": "Cooling",
+    "hint": "Golden spangles.",
+    "solution": "PbI2 dissolves in hot water and recrystallises as golden yellow plates on cooling.",
+    "page_ref": 35
+  },
+  {
+    "qno": 416,
+    "question_text": "Group II sulphides are precipitated in:",
+    "options": [
+      "Neutral medium",
+      "Acidic medium",
+      "Alkaline medium",
+      "Strongly basic medium"
+    ],
+    "answer": "Acidic medium",
+    "hint": "HCl + H2S.",
+    "solution": "Acidic medium ensures only low Ksp sulphides (Group II) precipitate.",
+    "page_ref": 32
+  },
+  {
+    "qno": 417,
+    "question_text": "CuS is coloured:",
+    "options": [
+      "Yellow",
+      "White",
+      "Black",
+      "Brown"
+    ],
+    "answer": "Black",
+    "hint": "Copper sulphide.",
+    "solution": "CuS is a black precipitate.",
+    "page_ref": 32
+  },
+  {
+    "qno": 418,
+    "question_text": "CdS is coloured:",
+    "options": [
+      "Black",
+      "Yellow",
+      "White",
+      "Green"
+    ],
+    "answer": "Yellow",
+    "hint": "Cadmium sulphide.",
+    "solution": "CdS is a distinctive yellow precipitate.",
+    "page_ref": 32
+  },
+  {
+    "qno": 419,
+    "question_text": "Bi2S3 is coloured:",
+    "options": [
+      "Yellow",
+      "Brownish black",
+      "Green",
+      "White"
+    ],
+    "answer": "Brownish black",
+    "hint": "Bismuth sulphide.",
+    "solution": "Bi2S3 is black or brownish-black.",
+    "page_ref": 32
+  },
+  {
+    "qno": 420,
+    "question_text": "Group II is divided into subgroups based on solubility in:",
+    "options": [
+      "Water",
+      "Dilute acids",
+      "Yellow ammonium sulphide",
+      "NaOH"
+    ],
+    "answer": "Yellow ammonium sulphide",
+    "hint": "YAS.",
+    "solution": "Group IIA sulphides are insoluble in YAS, while Group IIB sulphides are soluble.",
+    "page_ref": 37
+  },
+  {
+    "qno": 421,
+    "question_text": "Group III hydroxides are precipitated in:",
+    "options": [
+      "Acidic medium",
+      "Neutral medium",
+      "Weakly basic medium",
+      "Strongly basic medium"
+    ],
+    "answer": "Weakly basic medium",
+    "hint": "Ammonium buffer.",
+    "solution": "Precipitation occurs in the presence of NH4OH (weak base) buffered by NH4Cl.",
+    "page_ref": 32
+  },
+  {
+    "qno": 422,
+    "question_text": "Brown hydroxide precipitate indicates:",
+    "options": [
+      "Al3+",
+      "Cr3+",
+      "Fe3+",
+      "Zn2+"
+    ],
+    "answer": "Fe3+",
+    "hint": "Rust colour.",
+    "solution": "Fe(OH)3 is a reddish-brown precipitate.",
+    "page_ref": 42
+  },
+  {
+    "qno": 423,
+    "question_text": "White gelatinous precipitate suggests:",
+    "options": [
+      "Fe3+",
+      "Al3+",
+      "Cr3+",
+      "Mn2+"
+    ],
+    "answer": "Al3+",
+    "hint": "Aluminium hydroxide.",
+    "solution": "Al(OH)3 forms a white gelatinous precipitate.",
+    "page_ref": 41
+  },
+  {
+    "qno": 424,
+    "question_text": "Green hydroxide precipitate suggests:",
+    "options": [
+      "Al3+",
+      "Fe3+",
+      "Cr3+",
+      "Zn2+"
+    ],
+    "answer": "Cr3+",
+    "hint": "Chromium.",
+    "solution": "Cr(OH)3 is a green precipitate.",
+    "page_ref": 44
+  },
+  {
+    "qno": 425,
+    "question_text": "Amphoteric hydroxides in Group III are:",
+    "options": [
+      "Fe3+ only",
+      "Al3+ only",
+      "Cr3+ only",
+      "Al3+ and Cr3+"
+    ],
+    "answer": "Al3+ and Cr3+",
+    "hint": "Dissolve in NaOH.",
+    "solution": "Both Al(OH)3 and Cr(OH)3 dissolve in excess NaOH, unlike Fe(OH)3.",
+    "page_ref": 40
+  },
+  {
+    "qno": 426,
+    "question_text": "Blood-red colour with KSCN confirms:",
+    "options": [
+      "Fe2+",
+      "Fe3+",
+      "Cr3+",
+      "Al3+"
+    ],
+    "answer": "Fe3+",
+    "hint": "Thiocyanate test.",
+    "solution": "Fe3+ reacts with thiocyanate to form a blood-red complex [Fe(SCN)]2+.",
+    "page_ref": 42
+  },
+  {
+    "qno": 427,
+    "question_text": "Prussian blue is formed by reaction of Fe3+ with:",
+    "options": [
+      "KSCN",
+      "K4[Fe(CN)6]",
+      "K3[Fe(CN)6]",
+      "NH4OH"
+    ],
+    "answer": "K4[Fe(CN)6]",
+    "hint": "Potassium ferrocyanide.",
+    "solution": "Fe3+ + Ferrocyanide -> Prussian Blue.",
+    "page_ref": 42
+  },
+  {
+    "qno": 428,
+    "question_text": "Al3+ is confirmed using:",
+    "options": [
+      "Dimethylglyoxime",
+      "Alizarin",
+      "KSCN",
+      "KNO2"
+    ],
+    "answer": "Alizarin",
+    "hint": "Lake test.",
+    "solution": "Alizarin S forms a red lake with Al(OH)3.",
+    "page_ref": 41
+  },
+  {
+    "qno": 429,
+    "question_text": "Cr3+ is oxidised to chromate using:",
+    "options": [
+      "NH4OH",
+      "NaOH only",
+      "H2O2 in alkaline medium",
+      "H2S"
+    ],
+    "answer": "H2O2 in alkaline medium",
+    "hint": "Yellow solution forms.",
+    "solution": "Alkaline hydrogen peroxide oxidises green Cr3+ to yellow CrO4 2-.",
+    "page_ref": 44
+  },
+  {
+    "qno": 430,
+    "question_text": "Yellow colour after oxidation indicates:",
+    "options": [
+      "Dichromate",
+      "Chromite",
+      "Chromate",
+      "Chromium metal"
+    ],
+    "answer": "Chromate",
+    "hint": "CrO4 2-.",
+    "solution": "Chromate ion is yellow in basic solution.",
+    "page_ref": 44
+  },
+  {
+    "qno": 431,
+    "question_text": "Group IV sulphides are precipitated in:",
+    "options": [
+      "Acidic medium",
+      "Neutral medium",
+      "Alkaline medium",
+      "Strongly acidic medium"
+    ],
+    "answer": "Alkaline medium",
+    "hint": "Basic sulphides.",
+    "solution": "Precipitation requires high sulphide concentration provided in ammoniacal (alkaline) medium.",
+    "page_ref": 32
+  },
+  {
+    "qno": 432,
+    "question_text": "White sulphide indicates:",
+    "options": [
+      "Mn2+",
+      "Zn2+",
+      "Ni2+",
+      "Co2+"
+    ],
+    "answer": "Zn2+",
+    "hint": "Zinc.",
+    "solution": "ZnS is a white precipitate.",
+    "page_ref": 32
+  },
+  {
+    "qno": 433,
+    "question_text": "Flesh-coloured sulphide indicates:",
+    "options": [
+      "Zn2+",
+      "Mn2+",
+      "Ni2+",
+      "Co2+"
+    ],
+    "answer": "Mn2+",
+    "hint": "Buff/Pink.",
+    "solution": "MnS is flesh-coloured.",
+    "page_ref": 32
+  },
+  {
+    "qno": 434,
+    "question_text": "Black sulphide may indicate:",
+    "options": [
+      "Zn2+",
+      "Mn2+",
+      "Ni2+",
+      "Both Cu and Co2+"
+    ],
+    "answer": "Ni2+",
+    "hint": "In Group IV.",
+    "solution": "NiS and CoS are black Group IV precipitates. (Note: Option D says Cu and Co, but Cu is Group II. Ni2+ is the best single answer for Group IV context, though Co is also black).",
+    "page_ref": 32
+  },
+  {
+    "qno": 435,
+    "question_text": "Red precipitate with dimethylglyoxime confirms:",
+    "options": [
+      "Co2+",
+      "Zn2+",
+      "Ni2+",
+      "Mn2+"
+    ],
+    "answer": "Ni2+",
+    "hint": "Nickel-DMG complex.",
+    "solution": "Nickel forms a bright red precipitate with DMG.",
+    "page_ref": 48
+  },
+  {
+    "qno": 436,
+    "question_text": "Group V cations precipitate as:",
+    "options": [
+      "Sulphides",
+      "Hydroxides",
+      "Carbonates",
+      "Chlorides"
+    ],
+    "answer": "Carbonates",
+    "hint": "With (NH4)2CO3.",
+    "solution": "Group V ions form insoluble carbonates.",
+    "page_ref": 32
+  },
+  {
+    "qno": 437,
+    "question_text": "Brick-red flame confirms:",
+    "options": [
+      "Sr2+",
+      "Ba2+",
+      "Ca2+",
+      "Na+"
+    ],
+    "answer": "Ca2+",
+    "hint": "Calcium.",
+    "solution": "Calcium gives a brick-red flame.",
+    "page_ref": 11
+  },
+  {
+    "qno": 438,
+    "question_text": "Crimson flame confirms:",
+    "options": [
+      "Ca2+",
+      "Sr2+",
+      "Ba2+",
+      "K+"
+    ],
+    "answer": "Sr2+",
+    "hint": "Strontium.",
+    "solution": "Strontium gives a crimson red flame.",
+    "page_ref": 11
+  },
+  {
+    "qno": 439,
+    "question_text": "Apple-green flame confirms:",
+    "options": [
+      "Ca2+",
+      "Sr2+",
+      "Ba2+",
+      "Na+"
+    ],
+    "answer": "Ba2+",
+    "hint": "Barium.",
+    "solution": "Barium gives an apple-green flame.",
+    "page_ref": 11
+  },
+  {
+    "qno": 440,
+    "question_text": "White precipitate with ammonium oxalate confirms:",
+    "options": [
+      "Sr2+",
+      "Ba2+",
+      "Ca2+",
+      "Mg2+"
+    ],
+    "answer": "Ca2+",
+    "hint": "Calcium oxalate.",
+    "solution": "Calcium is confirmed by the formation of white calcium oxalate.",
+    "page_ref": 53
+  },
+  {
+    "qno": 441,
+    "question_text": "Mg2+ is confirmed by formation of:",
+    "options": [
+      "Mg(OH)2",
+      "MgCO3",
+      "MgNH4PO4",
+      "MgSO4"
+    ],
+    "answer": "MgNH4PO4",
+    "hint": "White crystalline ppt.",
+    "solution": "Magnesium ammonium phosphate is the confirmatory precipitate.",
+    "page_ref": 54
+  },
+  {
+    "qno": 442,
+    "question_text": "Mg2+ test requires presence of:",
+    "options": [
+      "NaOH",
+      "NH4OH only",
+      "NH4OH + NH4Cl",
+      "HCl"
+    ],
+    "answer": "NH4OH + NH4Cl",
+    "hint": "Buffer.",
+    "solution": "The reaction takes place in buffered alkaline solution.",
+    "page_ref": 54
+  },
+  {
+    "qno": 443,
+    "question_text": "Golden yellow flame indicates:",
+    "options": [
+      "K+",
+      "Ca2+",
+      "Na+",
+      "Sr2+"
+    ],
+    "answer": "Na+",
+    "hint": "Sodium.",
+    "solution": "Sodium gives a persistent golden yellow flame.",
+    "page_ref": 11
+  },
+  {
+    "qno": 444,
+    "question_text": "Violet flame seen through blue glass indicates:",
+    "options": [
+      "Na+",
+      "K+",
+      "Ba2+",
+      "Ca2+"
+    ],
+    "answer": "K+",
+    "hint": "Potassium.",
+    "solution": "The blue glass filters out sodium's yellow, revealing potassium's violet.",
+    "page_ref": 11
+  },
+  {
+    "qno": 445,
+    "question_text": "Sodium cobaltinitrite confirms:",
+    "options": [
+      "Na+",
+      "K+",
+      "Mg2+",
+      "Ca2+"
+    ],
+    "answer": "K+",
+    "hint": "Yellow precipitate.",
+    "solution": "It forms yellow Potassium Cobaltinitrite.",
+    "page_ref": 32
+  },
+  {
+    "qno": 446,
+    "question_text": "Ion remaining in filtrate till the end is usually:",
+    "options": [
+      "Ca2+",
+      "Mg2+",
+      "Na+",
+      "Ba2+"
+    ],
+    "answer": "Na+",
+    "hint": "Group VI.",
+    "solution": "Sodium salts are soluble and remain in solution.",
+    "page_ref": 32
+  },
+  {
+    "qno": 447,
+    "question_text": "NH4Cl is added in multiple groups mainly to:",
+    "options": [
+      "Increase pH",
+      "Decrease pH",
+      "Buffer the solution",
+      "Oxidise ions"
+    ],
+    "answer": "Buffer the solution",
+    "hint": "Control OH- or CO3 2- conc.",
+    "solution": "It acts as a buffer or common ion source to control precipitation conditions.",
+    "page_ref": 33
+  },
+  {
+    "qno": 448,
+    "question_text": "Flame test must be performed using:",
+    "options": [
+      "Copper wire",
+      "Iron wire",
+      "Platinum/nichrome wire",
+      "Glass rod"
+    ],
+    "answer": "Platinum/nichrome wire",
+    "hint": "Inert wire.",
+    "solution": "These metals do not impart colour to the flame.",
+    "page_ref": 11
+  },
+  {
+    "qno": 449,
+    "question_text": "The most common cause of wrong qualitative analysis is:",
+    "options": [
+      "Wrong salt",
+      "Skipping group separation",
+      "Clean reagents",
+      "Clear solution"
+    ],
+    "answer": "Skipping group separation",
+    "hint": "Interference.",
+    "solution": "Not removing earlier groups leads to interference and incorrect results in later groups.",
+    "page_ref": 33
+  },
+  {
+    "qno": 450,
+    "question_text": "The most important principle to remember is:",
+    "options": [
+      "Colour of salt",
+      "Order of group reagents",
+      "Atomic numbers",
+      "Molecular weight"
+    ],
+    "answer": "Order of group reagents",
+    "hint": "Systematic analysis.",
+    "solution": "The correct sequence of group reagents is crucial for separation.",
+    "page_ref": 33
+  },
+  {
+    "qno": 451,
+    "question_text": "NH4+ is detected by evolution of:",
+    "options": [
+      "CO2",
+      "SO2",
+      "NH3",
+      "NO2"
+    ],
+    "answer": "NH3",
+    "hint": "Ammonia gas.",
+    "solution": "Reaction with NaOH releases ammonia.",
+    "page_ref": 32
+  },
+  {
+    "qno": 452,
+    "question_text": "NH3 turns red litmus:",
+    "options": [
+      "Colourless",
+      "Blue",
+      "Green",
+      "Yellow"
+    ],
+    "answer": "Blue",
+    "hint": "Basic gas.",
+    "solution": "Ammonia is basic and turns red litmus blue.",
+    "page_ref": 32
+  },
+  {
+    "qno": 453,
+    "question_text": "Sulphide precipitates are generally:",
+    "options": [
+      "White",
+      "Coloured",
+      "Colourless",
+      "Transparent"
+    ],
+    "answer": "Coloured",
+    "hint": "Black, yellow, orange.",
+    "solution": "Most metal sulphides (CuS, PbS, CdS, etc.) are deeply coloured.",
+    "page_ref": 32
+  },
+  {
+    "qno": 454,
+    "question_text": "Hydroxide precipitates may be:",
+    "options": [
+      "Only white",
+      "Only coloured",
+      "White or coloured",
+      "Only black"
+    ],
+    "answer": "White or coloured",
+    "hint": "Al is white, Fe is brown.",
+    "solution": "Precipitates can be white (Al, Zn) or coloured (Fe, Cr).",
+    "page_ref": 32
+  },
+  {
+    "qno": 455,
+    "question_text": "Carbonate precipitates evolve ___ with acids.",
+    "options": [
+      "NH3",
+      "SO2",
+      "CO2",
+      "H2S"
+    ],
+    "answer": "CO2",
+    "hint": "Carbon dioxide.",
+    "solution": "Carbonates react with acid to release CO2 gas.",
+    "page_ref": 16
+  },
+  {
+    "qno": 456,
+    "question_text": "First group reagent used is:",
+    "options": [
+      "H2S",
+      "Dilute HCl",
+      "NH4OH",
+      "(NH4)2CO3"
+    ],
+    "answer": "Dilute HCl",
+    "hint": "For Group I.",
+    "solution": "Dilute Hydrochloric acid is the first reagent used in systematic analysis.",
+    "page_ref": 32
+  },
+  {
+    "qno": 457,
+    "question_text": "Last group reagent used is:",
+    "options": [
+      "H2S",
+      "NH4OH",
+      "(NH4)2CO3",
+      "No group reagent"
+    ],
+    "answer": "No group reagent",
+    "hint": "For Group VI.",
+    "solution": "Group VI (alkali metals) has no specific group precipitating reagent.",
+    "page_ref": 32
+  },
+  {
+    "qno": 458,
+    "question_text": "Qualitative analysis primarily tests:",
+    "options": [
+      "Anions only",
+      "Cations only",
+      "Both anions and cations",
+      "Organic compounds"
+    ],
+    "answer": "Both anions and cations",
+    "hint": "Salt analysis.",
+    "solution": "It involves identifying both the acidic (anion) and basic (cation) radicals.",
+    "page_ref": 3
+  },
+  {
+    "qno": 459,
+    "question_text": "The success of analysis depends mainly on:",
+    "options": [
+      "Speed",
+      "Memory",
+      "Observation",
+      "Guessing"
+    ],
+    "answer": "Observation",
+    "hint": "Visual changes.",
+    "solution": "Careful observation of colours, precipitates, and gases is essential.",
+    "page_ref": 6
+  },
+  {
+    "qno": 460,
+    "question_text": "The correct order of analysis is:",
+    "options": [
+      "Anions → Cations",
+      "Cations → Anions",
+      "Either order",
+      "Random"
+    ],
+    "answer": "Cations → Anions",
+    "hint": "Wait, standard practice often does anions first to check interferences, but the answer key here might reflect a specific teaching order or the fact that cation groups are sequential. *Correction*: Answer Key in PDF (Screenshot 185) says B (Cations -> Anions). However, page 5 says 'Analysis of anion is done first followed by cation'. This is a contradiction in the provided material. I must follow the provided answer key but note the theory. *Self-Correction*: Standard lab sequence usually starts with preliminary, then anions (dry/wet), then cations. If the key says B, I will list B but the solution will mention the discrepancy or valid reasoning (e.g., preliminary tests cover both, but systematic separation is cations).",
+    "solution": "While theory often suggests anions first to avoid interference, systematic group separation charts focus heavily on cations. (Note: The provided answer key selects 'Cations -> Anions').",
+    "page_ref": 5
+  },
+  {
+    "qno": 461,
+    "question_text": "NH4+ test must be performed before heating the salt because:",
+    "options": [
+      "NH4+ decomposes on heating",
+      "NH4+ is coloured",
+      "NH4+ forms precipitate",
+      "NH4+ reacts with acids"
+    ],
+    "answer": "NH4+ decomposes on heating",
+    "hint": "Volatile.",
+    "solution": "Ammonium salts can sublime or decompose to release ammonia upon heating, leading to loss of the ion.",
+    "page_ref": 9
+  },
+  {
+    "qno": 462,
+    "question_text": "Dilute HCl is preferred over concentrated HCl in Group I because it:",
+    "options": [
+      "Is cheaper",
+      "Prevents complex formation",
+      "Gives faster reaction",
+      "Is safer"
+    ],
+    "answer": "Prevents complex formation",
+    "hint": "Soluble chloro-complexes.",
+    "solution": "Concentrated HCl provides excess chloride ions which can dissolve Group I precipitates (like [PbCl4]2-).",
+    "page_ref": 35
+  },
+  {
+    "qno": 463,
+    "question_text": "PbCl2 dissolves in hot water due to:",
+    "options": [
+      "Decomposition",
+      "Increased solubility",
+      "Complex formation",
+      "Oxidation"
+    ],
+    "answer": "Increased solubility",
+    "hint": "Endothermic dissolution.",
+    "solution": "The solubility of Lead(II) chloride increases significantly with temperature.",
+    "page_ref": 34
+  },
+  {
+    "qno": 464,
+    "question_text": "Black precipitate on passing H2S in acidic medium may indicate:",
+    "options": [
+      "Zn2+",
+      "Cu2+",
+      "Ca2+",
+      "Mg2+"
+    ],
+    "answer": "Cu2+",
+    "hint": "Group II sulphide.",
+    "solution": "CuS is a black precipitate formed in acidic medium.",
+    "page_ref": 32
+  },
+  {
+    "qno": 465,
+    "question_text": "Yellow ammonium sulphide is used to separate Group II because it:",
+    "options": [
+      "Precipitates sulphides",
+      "Dissolves some sulphides",
+      "Oxidises sulphides",
+      "Reduces sulphides"
+    ],
+    "answer": "Dissolves some sulphides",
+    "hint": "Separates IIA and IIB.",
+    "solution": "It dissolves Group IIB sulphides (As, Sb, Sn) by forming soluble thio-complexes.",
+    "page_ref": 37
+  },
+  {
+    "qno": 466,
+    "question_text": "Failure to maintain acidic medium during Group II may precipitate:",
+    "options": [
+      "Group I sulphides",
+      "Group III sulphides",
+      "Group IV sulphides",
+      "Group V carbonates"
+    ],
+    "answer": "Group III sulphides",
+    "hint": "Or Group IV. The key likely implies sulphides that require higher S2-.",
+    "solution": "Insufficient acid allows the sulphide concentration to rise, precipitating sulphides of later groups (like ZnS, or hydroxides/sulphides of Group III/IV). Key says Group III sulphides.",
+    "page_ref": 33
+  },
+  {
+    "qno": 467,
+    "question_text": "NH4Cl prevents precipitation by:",
+    "options": [
+      "Increasing Ksp",
+      "Decreasing OH- concentration",
+      "Oxidising ions",
+      "Forming complexes"
+    ],
+    "answer": "Decreasing OH- concentration",
+    "hint": "Common ion effect.",
+    "solution": "It suppresses the ionization of NH4OH, reducing [OH-] to prevent precipitation of Group IV/V hydroxides.",
+    "page_ref": 33
+  },
+  {
+    "qno": 468,
+    "question_text": "Excess NaOH dissolves Al(OH)3 due to:",
+    "options": [
+      "Oxidation",
+      "Reduction",
+      "Amphoteric nature",
+      "Hydrolysis"
+    ],
+    "answer": "Amphoteric nature",
+    "hint": "Forms aluminate.",
+    "solution": "Al(OH)3 acts as an acid with strong bases.",
+    "page_ref": 41
+  },
+  {
+    "qno": 469,
+    "question_text": "Chromate ion is yellow because chromium is in oxidation state:",
+    "options": [
+      "+2",
+      "+3",
+      "+5",
+      "+6"
+    ],
+    "answer": "+6",
+    "hint": "Cr(VI).",
+    "solution": "In CrO4 2-, Chromium is in the +6 oxidation state.",
+    "page_ref": 49
+  },
+  {
+    "qno": 470,
+    "question_text": "Flesh-coloured sulphide turning brown on standing suggests:",
+    "options": [
+      "Zn2+",
+      "Mn2+",
+      "Ni2+",
+      "Co2+"
+    ],
+    "answer": "Mn2+",
+    "hint": "Oxidation.",
+    "solution": "MnS (flesh) oxidises to brown Mn oxides.",
+    "page_ref": 46
+  },
+  {
+    "qno": 471,
+    "question_text": "Blood-red colour with thiocyanate disappears on adding:",
+    "options": [
+      "NH4OH",
+      "HCl",
+      "KF",
+      "NaOH"
+    ],
+    "answer": "KF",
+    "hint": "Stable fluoride complex.",
+    "solution": "Fluoride ions form a colourless, stable complex [FeF6]3-, displacing the thiocyanate.",
+    "page_ref": 43
+  },
+  {
+    "qno": 472,
+    "question_text": "Prussian blue formation requires Fe3+ and:",
+    "options": [
+      "CN-",
+      "[Fe(CN)6]4-",
+      "[Fe(CN)6]3-",
+      "SCN-"
+    ],
+    "answer": "[Fe(CN)6]4-",
+    "hint": "Ferrocyanide.",
+    "solution": "Fe3+ reacts with Ferrocyanide ([Fe(CN)6]4-).",
+    "page_ref": 42
+  },
+  {
+    "qno": 473,
+    "question_text": "Alizarin test for Al3+ is done in:",
+    "options": [
+      "Strongly acidic medium",
+      "Neutral medium",
+      "Slightly acidic medium",
+      "Strongly alkaline medium"
+    ],
+    "answer": "Slightly acidic medium",
+    "hint": "Followed by ammonification. Key says Slightly acidic.",
+    "solution": "The reaction conditions usually involve neutralizing acid or making slightly acidic before lake formation.",
+    "page_ref": 41
+  },
+  {
+    "qno": 474,
+    "question_text": "Red precipitate with dimethylglyoxime requires medium to be:",
+    "options": [
+      "Acidic",
+      "Neutral",
+      "Alkaline",
+      "Strongly acidic"
+    ],
+    "answer": "Alkaline",
+    "hint": "Ammoniacal.",
+    "solution": "The Ni-DMG complex forms in the presence of NH4OH (alkaline).",
+    "page_ref": 48
+  },
+  {
+    "qno": 475,
+    "question_text": "Potassium cobaltinitrite test fails in presence of excess:",
+    "options": [
+      "Na+",
+      "NH4+",
+      "Ca2+",
+      "Mg2+"
+    ],
+    "answer": "NH4+",
+    "hint": "Similar reaction.",
+    "solution": "Ammonium ions also form a precipitate with the reagent.",
+    "page_ref": 45
+  },
+  {
+    "qno": 476,
+    "question_text": "Brick-red flame can be masked by:",
+    "options": [
+      "K+",
+      "Na+",
+      "Ba2+",
+      "Sr2+"
+    ],
+    "answer": "Na+",
+    "hint": "Intense yellow.",
+    "solution": "Sodium's yellow flame is very intense and masks calcium's red.",
+    "page_ref": 11
+  },
+  {
+    "qno": 477,
+    "question_text": "Blue glass absorbs light mainly from:",
+    "options": [
+      "Violet region",
+      "Yellow region",
+      "Red region",
+      "Green region"
+    ],
+    "answer": "Yellow region",
+    "hint": "Sodium light.",
+    "solution": "Cobalt glass absorbs yellow light emitted by sodium.",
+    "page_ref": 11
+  },
+  {
+    "qno": 478,
+    "question_text": "Nichrome wire is preferred because it:",
+    "options": [
+      "Is cheap",
+      "Gives no colour",
+      "Does not melt easily",
+      "Is coloured"
+    ],
+    "answer": "Does not melt easily",
+    "hint": "And imparts no colour.",
+    "solution": "It has a high melting point and is non-reactive in the flame.",
+    "page_ref": 11
+  },
+  {
+    "qno": 479,
+    "question_text": "Flame colour is due to emission from:",
+    "options": [
+      "Molecules",
+      "Nuclei",
+      "Excited atoms/ions",
+      "Electrons alone"
+    ],
+    "answer": "Excited atoms/ions",
+    "hint": "Electronic transition.",
+    "solution": "Emission spectrum of excited metal atoms/ions.",
+    "page_ref": 11
+  },
+  {
+    "qno": 480,
+    "question_text": "Most persistent flame colour among alkali metals is of:",
+    "options": [
+      "Li+",
+      "Na+",
+      "K+",
+      "Cs+"
+    ],
+    "answer": "Na+",
+    "hint": "Yellow.",
+    "solution": "Sodium flame is very persistent.",
+    "page_ref": 11
+  },
+  {
+    "qno": 481,
+    "question_text": "Carbonate group must not be tested in acidic solution because:",
+    "options": [
+      "Carbonates hydrolyse",
+      "Carbonates dissolve",
+      "Carbonates oxidise",
+      "Carbonates reduce"
+    ],
+    "answer": "Carbonates dissolve",
+    "hint": "No precipitate forms.",
+    "solution": "Acid dissolves carbonates, preventing their precipitation for identification.",
+    "page_ref": 53
+  },
+  {
+    "qno": 482,
+    "question_text": "Mg2+ precipitates with phosphate only in presence of:",
+    "options": [
+      "NaOH",
+      "NH4Cl",
+      "NH4OH",
+      "NH4Cl + NH4OH"
+    ],
+    "answer": "NH4Cl + NH4OH",
+    "hint": "Buffer required.",
+    "solution": "MgNH4PO4 forms in buffered alkaline medium.",
+    "page_ref": 54
+  },
+  {
+    "qno": 483,
+    "question_text": "Alkali metals do not form sulphides in analysis because:",
+    "options": [
+      "Sulphides are coloured",
+      "Sulphides are soluble",
+      "Sulphides oxidise",
+      "Sulphides reduce"
+    ],
+    "answer": "Sulphides are soluble",
+    "hint": "No precipitation.",
+    "solution": "Alkali metal sulphides are water-soluble.",
+    "page_ref": 22
+  },
+  {
+    "qno": 484,
+    "question_text": "The most common flame-test contaminant is:",
+    "options": [
+      "K+",
+      "Ca2+",
+      "Na+",
+      "Mg2+"
+    ],
+    "answer": "Na+",
+    "hint": "Ubiquitous.",
+    "solution": "Sodium is present in dust, glass, and sweat.",
+    "page_ref": 11
+  },
+  {
+    "qno": 485,
+    "question_text": "Group separation primarily depends on controlling:",
+    "options": [
+      "Temperature",
+      "Pressure",
+      "pH",
+      "Volume"
+    ],
+    "answer": "pH",
+    "hint": "Acidity/Alkalinity.",
+    "solution": "pH control determines ion concentrations (like S2-, OH-, CO3 2-) for selective precipitation.",
+    "page_ref": 33
+  },
+  {
+    "qno": 486,
+    "question_text": "NH4+ detection confirms presence of a:",
+    "options": [
+      "Metal ion",
+      "Acidic radical",
+      "Basic radical",
+      "Neutral molecule"
+    ],
+    "answer": "Basic radical",
+    "hint": "Cation.",
+    "solution": "Cations are derived from bases and are called basic radicals.",
+    "page_ref": 3
+  },
+  {
+    "qno": 487,
+    "question_text": "Cu2+ ammine complex is:",
+    "options": [
+      "Colourless",
+      "Green",
+      "Deep blue",
+      "Yellow"
+    ],
+    "answer": "Deep blue",
+    "hint": "Schweizer's reagent colour.",
+    "solution": "[Cu(NH3)4]2+ is deep blue.",
+    "page_ref": 39
+  },
+  {
+    "qno": 488,
+    "question_text": "Al(OH)3 dissolves in excess NaOH forming:",
+    "options": [
+      "Al3+",
+      "AlO2 -",
+      "[Al(OH)4]-",
+      "Al2O3"
+    ],
+    "answer": "[Al(OH)4]-",
+    "hint": "Aluminate complex.",
+    "solution": "Forms sodium tetrahydroxoaluminate.",
+    "page_ref": 41
+  },
+  {
+    "qno": 489,
+    "question_text": "Ba2+ sulphate precipitate is:",
+    "options": [
+      "Soluble in acids",
+      "Insoluble in acids",
+      "Coloured",
+      "Volatile"
+    ],
+    "answer": "Insoluble in acids",
+    "hint": "Distinguishing feature.",
+    "solution": "BaSO4 is insoluble in mineral acids.",
+    "page_ref": 29
+  },
+  {
+    "qno": 490,
+    "question_text": "Mn2+ permanganate test gives colour:",
+    "options": [
+      "Green",
+      "Blue",
+      "Purple",
+      "Brown"
+    ],
+    "answer": "Purple",
+    "hint": "KMnO4 colour.",
+    "solution": "Permanganate ion is purple.",
+    "page_ref": 46
+  },
+  {
+    "qno": 491,
+    "question_text": "The most selective reagent in qualitative analysis is:",
+    "options": [
+      "HCl",
+      "H2S",
+      "NH4OH",
+      "Order of reagents"
+    ],
+    "answer": "Order of reagents",
+    "hint": "Methodology.",
+    "solution": "The selectivity comes from the systematic application of reagents in order.",
+    "page_ref": 33
+  },
+  {
+    "qno": 492,
+    "question_text": "The most irreversible precipitation is of:",
+    "options": [
+      "Carbonates",
+      "Hydroxides",
+      "Sulphides",
+      "Chlorides"
+    ],
+    "answer": "Sulphides",
+    "hint": "Lowest Ksp usually.",
+    "solution": "Sulphides often have extremely low Ksp and are hard to redissolve.",
+    "page_ref": 33
+  },
+  {
+    "qno": 493,
+    "question_text": "Final filtrate always contains:",
+    "options": [
+      "Transition metals",
+      "Alkaline earth metals",
+      "Alkali metals",
+      "Sulphides"
+    ],
+    "answer": "Alkali metals",
+    "hint": "Group VI.",
+    "solution": "Na and K remain till the end.",
+    "page_ref": 32
+  },
+  {
+    "qno": 494,
+    "question_text": "One mistake that ruins entire analysis is:",
+    "options": [
+      "Excess reagent",
+      "Wrong order",
+      "Slow filtration",
+      "Heating"
+    ],
+    "answer": "Wrong order",
+    "hint": "Sequence.",
+    "solution": "Adding reagents out of order causes cross-group precipitation and confusion.",
+    "page_ref": 33
+  },
+  {
+    "qno": 495,
+    "question_text": "Qualitative analysis is fundamentally an application of:",
+    "options": [
+      "Thermodynamics",
+      "Kinetics",
+      "Solubility equilibria",
+      "Electrochemistry"
+    ],
+    "answer": "Solubility equilibria",
+    "hint": "Ksp principle.",
+    "solution": "It relies on solubility products and the common ion effect.",
+    "page_ref": 33
+  },
+  {
+    "qno": 496,
+    "question_text": "NH4+ test uses NaOH because it:",
+    "options": [
+      "Oxidises NH4+",
+      "Reduces NH4+",
+      "Liberates NH3",
+      "Forms precipitate"
+    ],
+    "answer": "Liberates NH3",
+    "hint": "Acid-base reaction.",
+    "solution": "Strong base displaces weak base ammonia.",
+    "page_ref": 32
+  },
+  {
+    "qno": 497,
+    "question_text": "H2S must be passed slowly to control:",
+    "options": [
+      "Temperature",
+      "Pressure",
+      "Sulphide ion concentration",
+      "Volume"
+    ],
+    "answer": "Sulphide ion concentration",
+    "hint": "Saturation.",
+    "solution": "To ensure proper equilibrium and saturation.",
+    "page_ref": 33
+  },
+  {
+    "qno": 498,
+    "question_text": "Group analysis is stopped once all cations are identified because:",
+    "options": [
+      "Filtrate is colourless",
+      "No ions remain",
+      "Remaining ions have no tests",
+      "Flame tests begin"
+    ],
+    "answer": "No ions remain",
+    "hint": "Objective met.",
+    "solution": "The goal is to identify present ions; once found, no need to proceed (assuming simple salt).",
+    "page_ref": 3
+  },
+  {
+    "qno": 499,
+    "question_text": "In exams, qualitative questions mainly test:",
+    "options": [
+      "Speed",
+      "Memory of colours and order",
+      "Numerical ability",
+      "Calculations"
+    ],
+    "answer": "Memory of colours and order",
+    "hint": "Recall.",
+    "solution": "The logic depends on remembering the scheme and observations.",
+    "page_ref": 6
+  },
+  {
+    "qno": 500,
+    "question_text": "The single most important habit for correct analysis is:",
+    "options": [
+      "Writing equations",
+      "Careful observation",
+      "Fast reactions",
+      "Guessing"
+    ],
+    "answer": "Careful observation",
+    "hint": "Noticing details.",
+    "solution": "Accurate observation of colour changes and precipitates is the basis of all conclusions.",
+    "page_ref": 6
+  }
+]
