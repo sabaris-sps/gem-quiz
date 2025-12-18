@@ -282,9 +282,15 @@ const QuizCard: React.FC<QuizCardProps> = ({
             <h4 className="text-sm font-bold text-slate-900 mb-2 flex items-center gap-2">
               <span className="text-lg">🎓</span> Explanation
             </h4>
-            <p className="text-slate-600 leading-relaxed">
-              {question.solution}
-            </p>
+            {question.solution ? (
+              <p className="text-slate-600 leading-relaxed">
+                {question.solution}
+              </p>
+            ) : (
+              <p className="text-slate-400 italic text-sm leading-relaxed">
+                Explanation not available
+              </p>
+            )}
           </div>
         )}
 
@@ -306,7 +312,14 @@ const QuizCard: React.FC<QuizCardProps> = ({
                 `}
             >
               <div className="p-4 bg-yellow-50 text-yellow-900 text-sm rounded-2xl border border-yellow-200/60 inline-block w-full">
-                💡 <span className="italic">{question.hint}</span>
+                💡{" "}
+                {question.hint ? (
+                  <span className="italic">{question.hint}</span>
+                ) : (
+                  <span className="text-slate-400 italic">
+                    Hint not available
+                  </span>
+                )}
               </div>
             </div>
           </div>

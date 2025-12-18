@@ -1,3 +1,4 @@
+
 import { initializeApp } from 'firebase/app';
 import { 
   getAuth, 
@@ -11,11 +12,13 @@ import {
   getFirestore, 
   doc, 
   setDoc, 
-  getDoc 
+  getDoc,
+  updateDoc,
+  collection,
+  getDocs
 } from 'firebase/firestore';
-import { QuizProgress, UserState } from '../types';
+import { QuizProgress, AssignmentProgress, UserState } from '../types';
 
-// TODO: Replace with your actual Firebase configuration
 const firebaseConfig = {
 
   apiKey: "AIzaSyAmi7O2yJUjJSaBzQT1unDxQu0VkXjm2_I",
@@ -34,20 +37,17 @@ const firebaseConfig = {
 
 };
 
-
 const app = initializeApp(firebaseConfig);
 const auth = getAuth(app);
 const db = getFirestore(app);
 
 export const authService = {
-  // Try to login, if fails with user-not-found, try to register
   loginOrRegister: async (email: string, password: string): Promise<UserState> => {
     try {
       const userCredential = await signInWithEmailAndPassword(auth, email, password);
       return mapUser(userCredential.user);
     } catch (error: any) {
       if (error.code === 'auth/user-not-found' || error.code === 'auth/invalid-credential') {
-        // Attempt registration
         try {
             const userCredential = await createUserWithEmailAndPassword(auth, email, password);
             return mapUser(userCredential.user);
@@ -58,38 +58,61 @@ export const authService = {
       throw error;
     }
   },
-
   logout: async (): Promise<void> => {
     await signOut(auth);
     window.location.reload();
   },
-
-  // Note: In real firebase, we usually use the onAuthStateChanged listener in useEffect
-  // but for compatibility with the existing app structure, we'll keep a similar interface
-  // though the App.tsx will handle the listener.
   auth: auth
 };
 
 export const dbService = {
-  saveProgress: async (uid: string, progress: QuizProgress): Promise<void> => {
+  // Saves progress to a specific document for the assignment: users/{uid}/assignments/{assignmentId}
+  saveAssignmentProgress: async (uid: string, assignmentId: string, progress: AssignmentProgress): Promise<void> => {
     try {
-      // Using mergeFields: ['progress'] ensures that the 'progress' field is REPLACED
-      // rather than deeply merged. This allows deleting keys (like removing an answer).
-      await setDoc(doc(db, "users", uid), { progress }, { mergeFields: ['progress'] });
+      const docRef = doc(db, "users", uid, "assignments", assignmentId);
+      await setDoc(docRef, progress, { merge: true });
+      
+      // Also update the lastUpdated in the root user doc for overall sync tracking
+      const userRef = doc(db, "users", uid);
+      await setDoc(userRef, { lastUpdated: Date.now() }, { merge: true });
     } catch (e) {
       console.error("Error saving progress: ", e);
     }
   },
 
-  getProgress: async (uid: string): Promise<QuizProgress | null> => {
+  // Fetches progress for all assignments by querying the subcollection
+  getAllProgress: async (uid: string): Promise<QuizProgress | null> => {
     try {
-      const docRef = doc(db, "users", uid);
-      const docSnap = await getDoc(docRef);
+      const assignmentsCol = collection(db, "users", uid, "assignments");
+      const snapshot = await getDocs(assignmentsCol);
+      
+      const assignments: Record<string, AssignmentProgress> = {};
+      snapshot.forEach(doc => {
+        assignments[doc.id] = doc.data() as AssignmentProgress;
+      });
 
-      if (docSnap.exists() && docSnap.data().progress) {
-        return docSnap.data().progress as QuizProgress;
+      const userDoc = await getDoc(doc(db, "users", uid));
+      const lastUpdated = userDoc.exists() ? userDoc.data().lastUpdated : Date.now();
+
+      // Legacy Migration check if subcollection is empty
+      if (Object.keys(assignments).length === 0) {
+        if (userDoc.exists()) {
+          const data = userDoc.data();
+          if (data.assignments || data.progress) {
+             console.log("Migrating legacy root data to subcollection...");
+             const oldData = data.assignments || { "salt-analysis1": data.progress };
+             for (const [id, prog] of Object.entries(oldData)) {
+               await setDoc(doc(db, "users", uid, "assignments", id), prog);
+               assignments[id] = prog as AssignmentProgress;
+             }
+          }
+        }
       }
-      return null;
+
+      return {
+        assignments,
+        lastUpdated: lastUpdated || Date.now()
+      };
     } catch (e) {
       console.error("Error fetching progress: ", e);
       return null;

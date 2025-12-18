@@ -1,0 +1,10 @@
+[
+  {
+    "asgn-unique-name": "salt-analysis1",
+    "asgn-display-name": "Salt Analysis - Theory 1",
+    "num_of_questions": 500,
+    "has_pg_ref": true,
+    "has_hints": true,
+    "has_solutions": true
+  }
+]
