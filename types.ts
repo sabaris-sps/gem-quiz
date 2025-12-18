@@ -15,10 +15,10 @@ export interface UserState {
 }
 
 export interface QuizProgress {
-  currentQuestionIndex: number;
   answers: Record<number, string>; // qno -> selected option
   notes: Record<number, string>; // qno -> user note
   completed: boolean;
+  lastUpdated: number; // Timestamp in ms
 }
 
 export enum AnswerStatus {

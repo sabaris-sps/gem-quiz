@@ -1,58 +1,93 @@
-import React, { useState, useEffect, useCallback } from "react";
+import React, { useState, useEffect, useCallback, useRef } from "react";
 import Login from "./components/Login";
 import Sidebar from "./components/Sidebar";
 import QuizCard from "./components/QuizCard";
-import questionData from "./questions.json";
+import { QUESTIONS } from "./constants";
 import { authService, dbService } from "./services/firebase";
-import { UserState } from "./types";
+import { UserState, QuizProgress } from "./types";
 import { ChevronLeft, ChevronRight, Menu } from "lucide-react";
 import { onAuthStateChanged } from "firebase/auth";
 
-const QUESTIONS = questionData;
+const SYNC_DEBOUNCE_MS = 5000; // 5 seconds debounce for Firebase writes
 
 const App: React.FC = () => {
   const [user, setUser] = useState<UserState | null>(null);
   const [loading, setLoading] = useState(true);
-  const [isDataInitialized, setIsDataInitialized] = useState(false); // New flag to track if initial fetch is done
+  const [isDataInitialized, setIsDataInitialized] = useState(false);
+  const [isSyncing, setIsSyncing] = useState(false);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [answers, setAnswers] = useState<Record<number, string>>({});
   const [notes, setNotes] = useState<Record<number, string>>({});
+  const [lastUpdated, setLastUpdated] = useState<number>(Date.now());
   const [sidebarOpen, setSidebarOpen] = useState(
     typeof window !== "undefined" ? window.innerWidth >= 768 : true
   );
 
-  // Initialize Firebase Auth Listener
+  // Use a ref to track the last synced timestamp to avoid redundant writes
+  const lastSyncedRef = useRef<number>(0);
+
+  // Initialize Firebase Auth & Reconciliation
   useEffect(() => {
     const unsubscribe = onAuthStateChanged(
       authService.auth,
       async (firebaseUser) => {
         if (firebaseUser) {
+          const uid = firebaseUser.uid;
           const mappedUser: UserState = {
-            uid: firebaseUser.uid,
+            uid: uid,
             email: firebaseUser.email,
             displayName: firebaseUser.email
               ? firebaseUser.email.split("@")[0]
               : "User",
           };
 
-          // Fetch progress BEFORE enabling saving to avoid overwriting with empty state
           try {
-            const savedProgress = await dbService.getProgress(firebaseUser.uid);
-            if (savedProgress) {
-              setAnswers(savedProgress.answers || {});
-              setNotes(savedProgress.notes || {});
-              // Ensure index is within bounds of new data
-              const safeIndex =
-                savedProgress.currentQuestionIndex < QUESTIONS.length
-                  ? savedProgress.currentQuestionIndex
-                  : 0;
-              setCurrentQuestionIndex(safeIndex);
+            // 1. Fetch Cloud Progress
+            const cloudProgress = await dbService.getProgress(uid);
+
+            // 2. Fetch Local Progress
+            const localRaw = localStorage.getItem(`quiz_progress_${uid}`);
+            const localProgress: QuizProgress | null = localRaw
+              ? JSON.parse(localRaw)
+              : null;
+
+            // 3. Reconcile (Winner is the one with the latest timestamp)
+            let winner: QuizProgress | null = null;
+
+            if (cloudProgress && localProgress) {
+              winner =
+                localProgress.lastUpdated > (cloudProgress.lastUpdated || 0)
+                  ? localProgress
+                  : cloudProgress;
+            } else {
+              winner = cloudProgress || localProgress;
+            }
+
+            if (winner) {
+              setAnswers(winner.answers || {});
+              setNotes(winner.notes || {});
+              // Note: currentQuestionIndex is no longer loaded from storage
+              setLastUpdated(winner.lastUpdated || Date.now());
+              lastSyncedRef.current = winner.lastUpdated || 0;
+
+              // If local was newer than cloud, trigger an immediate cloud sync to heal the database
+              if (
+                localProgress &&
+                (!cloudProgress ||
+                  localProgress.lastUpdated > cloudProgress.lastUpdated)
+              ) {
+                console.log(
+                  "Healing Cloud Data with newer LocalStorage data..."
+                );
+                await dbService.saveProgress(uid, localProgress);
+                lastSyncedRef.current = localProgress.lastUpdated;
+              }
             }
           } catch (error) {
-            console.error("Error loading progress:", error);
+            console.error("Error during data reconciliation:", error);
           }
 
-          setIsDataInitialized(true); // Allow saving now that we've attempted to load
+          setIsDataInitialized(true);
           setUser(mappedUser);
         } else {
           setIsDataInitialized(false);
@@ -65,9 +100,56 @@ const App: React.FC = () => {
       }
     );
 
-    // Cleanup subscription
     return () => unsubscribe();
   }, []);
+
+  // Immediate LocalStorage Backup + LastUpdated tracker
+  useEffect(() => {
+    if (user && isDataInitialized) {
+      const timestamp = Date.now();
+      const currentProgress: QuizProgress = {
+        // currentQuestionIndex is excluded from persistence
+        answers,
+        notes,
+        completed: Object.keys(answers).length === QUESTIONS.length,
+        lastUpdated: timestamp,
+      };
+
+      // Instant mirroring to LocalStorage
+      localStorage.setItem(
+        `quiz_progress_${user.uid}`,
+        JSON.stringify(currentProgress)
+      );
+      setLastUpdated(timestamp);
+    }
+  }, [answers, notes, user, isDataInitialized]); // Index removed from dependency array to avoid unnecessary updates if just navigating
+
+  // Debounced Cloud Sync
+  useEffect(() => {
+    if (user && isDataInitialized && lastUpdated > lastSyncedRef.current) {
+      const timer = setTimeout(async () => {
+        setIsSyncing(true);
+        try {
+          const progressToSave: QuizProgress = {
+            // currentQuestionIndex is excluded from persistence
+            answers,
+            notes,
+            completed: Object.keys(answers).length === QUESTIONS.length,
+            lastUpdated: lastUpdated,
+          };
+
+          await dbService.saveProgress(user.uid, progressToSave);
+          lastSyncedRef.current = lastUpdated;
+        } catch (err) {
+          console.error("Cloud sync failed:", err);
+        } finally {
+          setIsSyncing(false);
+        }
+      }, SYNC_DEBOUNCE_MS);
+
+      return () => clearTimeout(timer);
+    }
+  }, [lastUpdated, user, isDataInitialized, answers, notes]);
 
   // Handle Resize
   useEffect(() => {
@@ -81,19 +163,6 @@ const App: React.FC = () => {
     window.addEventListener("resize", handleResize);
     return () => window.removeEventListener("resize", handleResize);
   }, []);
-
-  // Save progress whenever it changes
-  useEffect(() => {
-    // Crucial check: Only save if we have a user AND data has been initialized (loaded)
-    if (user && isDataInitialized) {
-      dbService.saveProgress(user.uid, {
-        currentQuestionIndex,
-        answers,
-        notes,
-        completed: Object.keys(answers).length === QUESTIONS.length,
-      });
-    }
-  }, [answers, notes, currentQuestionIndex, user, isDataInitialized]);
 
   const handleNext = useCallback(() => {
     setCurrentQuestionIndex((prev) => {
@@ -112,7 +181,6 @@ const App: React.FC = () => {
   // Keyboard Navigation
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
-      // Don't trigger navigation if user is typing in a textarea or input
       const target = e.target as HTMLElement;
       if (target.tagName === "TEXTAREA" || target.tagName === "INPUT") return;
 
@@ -127,13 +195,8 @@ const App: React.FC = () => {
     return () => window.removeEventListener("keydown", handleKeyDown);
   }, [handleNext, handlePrev]);
 
-  const handleLoginSuccess = (email: string) => {
-    // Auth state listener will handle the state update
-  };
-
   const handleLogout = async () => {
     await authService.logout();
-    // Auth state listener will handle the null user
   };
 
   const handleOptionSelect = (option: string) => {
@@ -165,6 +228,9 @@ const App: React.FC = () => {
     setAnswers({});
     setNotes({});
     setCurrentQuestionIndex(0);
+    if (user) {
+      localStorage.removeItem(`quiz_progress_${user.uid}`);
+    }
     if (window.innerWidth < 768) setSidebarOpen(false);
   };
 
@@ -193,7 +259,7 @@ const App: React.FC = () => {
   }
 
   if (!user) {
-    return <Login onLoginSuccess={handleLoginSuccess} />;
+    return <Login onLoginSuccess={() => {}} />;
   }
 
   const stats = calculateStats();
@@ -214,6 +280,7 @@ const App: React.FC = () => {
         isOpen={sidebarOpen}
         setIsOpen={setSidebarOpen}
         stats={stats}
+        isSyncing={isSyncing || lastUpdated > lastSyncedRef.current}
       />
 
       <main className="flex-1 flex flex-col h-full overflow-hidden relative transition-all duration-300">
@@ -269,7 +336,6 @@ const App: React.FC = () => {
               title="Next Question (Right Arrow)"
             >
               <span className="hidden sm:inline">Next</span>
-              <span className="sm:hidden">Next</span>
               <ChevronRight size={18} />
             </button>
           </div>
@@ -280,7 +346,7 @@ const App: React.FC = () => {
           <div className="min-h-full p-4 md:p-12 flex flex-col">
             {currentQ ? (
               <QuizCard
-                key={currentQ.qno} // Force remount on question change to reset internal state like showHint
+                key={currentQ.qno}
                 question={currentQ}
                 selectedOption={answers[currentQ.qno]}
                 note={notes[currentQ.qno] || ""}

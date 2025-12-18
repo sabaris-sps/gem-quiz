@@ -8,6 +8,8 @@ import {
   Sparkles,
   RefreshCw,
   AlertTriangle,
+  CloudCheck,
+  CloudUpload,
 } from "lucide-react";
 import Stats from "./Stats";
 
@@ -26,6 +28,7 @@ interface SidebarProps {
     incorrect: number;
     total: number;
   };
+  isSyncing?: boolean;
 }
 
 const Sidebar: React.FC<SidebarProps> = ({
@@ -39,6 +42,7 @@ const Sidebar: React.FC<SidebarProps> = ({
   isOpen,
   setIsOpen,
   stats,
+  isSyncing = false,
 }) => {
   const [showResetConfirm, setShowResetConfirm] = useState(false);
 
@@ -137,6 +141,29 @@ const Sidebar: React.FC<SidebarProps> = ({
           </div>
 
           <div className="p-6 border-t border-slate-100 bg-slate-50/50">
+            {/* Sync Status Indicator */}
+            <div className="mb-4 flex items-center justify-center">
+              <div
+                className={`flex items-center gap-2 px-3 py-1.5 rounded-full text-[10px] font-bold uppercase tracking-widest transition-all duration-500 ${
+                  isSyncing
+                    ? "text-amber-600 bg-amber-50 border border-amber-100"
+                    : "text-emerald-600 bg-emerald-50 border border-emerald-100"
+                }`}
+              >
+                {isSyncing ? (
+                  <>
+                    <div className="w-2 h-2 rounded-full bg-amber-500 animate-pulse"></div>
+                    <span>Syncing Progress...</span>
+                  </>
+                ) : (
+                  <>
+                    <div className="w-2 h-2 rounded-full bg-emerald-500"></div>
+                    <span>Cloud Synced</span>
+                  </>
+                )}
+              </div>
+            </div>
+
             <div className="flex items-center gap-3 mb-4">
               <div className="w-9 h-9 rounded-full bg-white border border-slate-200 flex items-center justify-center text-gemini-600 font-bold shadow-sm">
                 {userEmail ? userEmail[0].toUpperCase() : "U"}
