@@ -29,30 +29,28 @@ const Stats: React.FC<StatsProps> = ({ total, correct, incorrect }) => {
         />
       </div>
 
-      <div className="grid grid-cols-2 gap-2 pt-1">
+      <div className="grid grid-cols-3 gap-2 pt-1">
         <div className="bg-white p-2 rounded-lg border border-slate-100 shadow-sm flex flex-col items-center justify-center">
-          <span className="text-emerald-600 font-bold text-lg">{correct}</span>
-          <span className="text-[10px] uppercase text-slate-400 font-semibold tracking-wider">
+          <span className="text-emerald-600 font-bold text-base">
+            {correct}
+          </span>
+          <span className="text-[8px] uppercase text-slate-400 font-bold tracking-tight">
             Correct
           </span>
         </div>
         <div className="bg-white p-2 rounded-lg border border-slate-100 shadow-sm flex flex-col items-center justify-center">
-          <span className="text-rose-500 font-bold text-lg">{incorrect}</span>
-          <span className="text-[10px] uppercase text-slate-400 font-semibold tracking-wider">
-            Incorrect
+          <span className="text-rose-500 font-bold text-base">{incorrect}</span>
+          <span className="text-[8px] uppercase text-slate-400 font-bold tracking-tight">
+            Wrong
           </span>
         </div>
-      </div>
-
-      <div className="flex items-center gap-2 pt-1 border-t border-slate-100/50">
-        <div className="p-1.5 bg-indigo-50 text-indigo-600 rounded-md">
-          <PieChart size={14} />
-        </div>
-        <div className="flex flex-col">
-          <span className="text-[10px] text-slate-400 font-semibold uppercase">
+        <div className="bg-white p-2 rounded-lg border border-slate-100 shadow-sm flex flex-col items-center justify-center">
+          <span className="text-indigo-600 font-bold text-base">
+            {accuracy}%
+          </span>
+          <span className="text-[8px] uppercase text-slate-400 font-bold tracking-tight">
             Accuracy
           </span>
-          <span className="text-sm font-bold text-slate-700">{accuracy}%</span>
         </div>
       </div>
     </div>
