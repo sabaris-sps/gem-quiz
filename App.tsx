@@ -88,13 +88,19 @@ const App: React.FC = () => {
 
   // Sync selected assignment with current path
   useEffect(() => {
-    if (currentPath === "/" || currentPath === "") {
+    // Standardize path by removing trailing slash if present (except for root)
+    let sanitizedPath = currentPath;
+    if (sanitizedPath.length > 1 && sanitizedPath.endsWith("/")) {
+      sanitizedPath = sanitizedPath.slice(0, -1);
+    }
+
+    if (sanitizedPath === "/" || sanitizedPath === "") {
       setSelectedAssignment(null);
       setAssignmentQuestions([]);
       return;
     }
 
-    const assignmentId = currentPath.substring(1); // Remove leading slash
+    const assignmentId = sanitizedPath.substring(1); // Remove leading slash
     const found = (assignmentsList as Assignment[]).find(
       (a) => a["asgn-unique-name"] === assignmentId
     );
@@ -110,17 +116,24 @@ const App: React.FC = () => {
   const loadAssignmentData = async (asgn: Assignment) => {
     setAssignmentLoading(true);
     try {
+      // Use absolute path starting with / to ensure it works on sub-routes
       const response = await fetch(
-        `./assignments/${asgn["asgn-unique-name"]}.json`
+        `/assignments/${asgn["asgn-unique-name"]}.json`
       );
-      if (!response.ok) throw new Error("Failed to fetch assignment data");
+      if (!response.ok)
+        throw new Error(
+          `Failed to fetch assignment data: ${response.statusText}`
+        );
       const data = await response.json();
       setAssignmentQuestions(data);
       setSelectedAssignment(asgn);
     } catch (err) {
       console.error("Failed to load assignment:", err);
-      window.history.pushState({}, "", "/");
-      setCurrentPath("/");
+      // Only redirect home if it truly failed to find the assignment
+      if (!selectedAssignment) {
+        window.history.pushState({}, "", "/");
+        setCurrentPath("/");
+      }
     } finally {
       setAssignmentLoading(false);
     }
