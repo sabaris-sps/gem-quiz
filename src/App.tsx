@@ -12,6 +12,7 @@ import {
 } from "./types";
 import { onAuthStateChanged } from "firebase/auth";
 import assignmentsList from "./assignmentsData.json";
+import { SYNC_DEBOUNCE_MS } from "./constants";
 
 const STORAGE_KEY_PREFIX = "quiz_progress_v3_";
 
@@ -178,7 +179,7 @@ const App: React.FC = () => {
       await dbService.saveAssignmentProgress(user.uid, asgnId, asgnProgress);
       setIsSyncing(false);
       delete syncTimeoutRef.current[asgnId];
-    }, 2000);
+    }, SYNC_DEBOUNCE_MS);
   };
 
   // Show global loader until auth state is known
