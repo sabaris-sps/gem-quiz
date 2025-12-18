@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect, useRef } from "react";
 import { Question } from "../types";
 import {
   Lightbulb,
@@ -8,33 +8,68 @@ import {
   RotateCcw,
   StickyNote,
   Save,
+  Bookmark,
 } from "lucide-react";
 
 interface QuizCardProps {
   question: Question;
   selectedOption: string | undefined;
   note: string;
+  markColor: string | null;
   onOptionSelect: (option: string) => void;
   onUpdateNote: (note: string) => void;
+  onMarkUpdate: (color: string | null) => void;
   onReset: () => void;
 }
+
+const MARKER_COLORS = [
+  { id: "rose", class: "bg-rose-500" },
+  { id: "amber", class: "bg-amber-500" },
+  { id: "emerald", class: "bg-emerald-500" },
+  { id: "sky", class: "bg-sky-500" },
+  { id: "indigo", class: "bg-indigo-500" },
+];
 
 const QuizCard: React.FC<QuizCardProps> = ({
   question,
   selectedOption,
   note,
+  markColor,
   onOptionSelect,
   onUpdateNote,
+  onMarkUpdate,
   onReset,
 }) => {
   const [showHint, setShowHint] = useState(false);
   const [isEditingNote, setIsEditingNote] = useState(false);
+  const [isMarkingExpanded, setIsMarkingExpanded] = useState(false);
 
   // Local state to manage note input before saving
   const [localNote, setLocalNote] = useState(note);
   const [hasUnsavedChanges, setHasUnsavedChanges] = useState(false);
 
+  const markerRef = useRef<HTMLDivElement>(null);
   const isAnswered = selectedOption !== undefined;
+
+  // Update localNote when note prop changes (e.g. during sync)
+  useEffect(() => {
+    setLocalNote(note);
+    setHasUnsavedChanges(false);
+  }, [note]);
+
+  // Close marker picker when clicking outside
+  useEffect(() => {
+    const handleClickOutside = (event: MouseEvent) => {
+      if (
+        markerRef.current &&
+        !markerRef.current.contains(event.target as Node)
+      ) {
+        setIsMarkingExpanded(false);
+      }
+    };
+    document.addEventListener("mousedown", handleClickOutside);
+    return () => document.removeEventListener("mousedown", handleClickOutside);
+  }, []);
 
   const handleNoteChange = (e: React.ChangeEvent<HTMLTextAreaElement>) => {
     setLocalNote(e.target.value);
@@ -50,7 +85,7 @@ const QuizCard: React.FC<QuizCardProps> = ({
     <div className="w-full max-w-4xl mx-auto animate-fade-in pb-20">
       {/* Question Header - Flattened */}
       <div className="mb-8 md:mb-12">
-        <div className="flex items-center justify-between mb-4">
+        <div className="flex items-center justify-between mb-4 flex-wrap gap-4">
           <div className="flex items-center gap-3">
             <span className="px-3 py-1 rounded-full bg-gemini-100 text-gemini-700 text-xs font-bold uppercase tracking-wider">
               Question {question.qno}
@@ -66,16 +101,87 @@ const QuizCard: React.FC<QuizCardProps> = ({
             )}
           </div>
 
-          {isAnswered && (
-            <button
-              onClick={onReset}
-              className="flex items-center gap-1.5 px-3 py-1.5 text-xs font-medium text-slate-500 hover:text-rose-600 hover:bg-rose-50 rounded-lg transition-colors border border-transparent hover:border-rose-100"
-              title="Clear answer and reattempt"
+          <div className="flex items-center gap-3">
+            {/* Expandable Marker Color Picker */}
+            <div
+              ref={markerRef}
+              className={`
+                    flex items-center transition-all duration-300 ease-in-out h-9 overflow-hidden
+                    bg-slate-100 border border-slate-200 shadow-sm rounded-full
+                    ${
+                      isMarkingExpanded
+                        ? "px-3 gap-3"
+                        : "px-2 w-9 justify-center cursor-pointer hover:bg-slate-200"
+                    }
+                  `}
+              onClick={() => !isMarkingExpanded && setIsMarkingExpanded(true)}
             >
-              <RotateCcw size={14} />
-              <span>Reset</span>
-            </button>
-          )}
+              <button
+                onClick={(e) => {
+                  if (isMarkingExpanded) {
+                    e.stopPropagation();
+                    setIsMarkingExpanded(false);
+                  }
+                }}
+                className={`transition-colors ${
+                  markColor
+                    ? markColor.replace("bg-", "text-")
+                    : "text-slate-400"
+                }`}
+              >
+                <Bookmark
+                  size={16}
+                  fill={markColor ? "currentColor" : "none"}
+                />
+              </button>
+
+              {isMarkingExpanded && (
+                <div className="flex items-center gap-2 animate-fade-in">
+                  {MARKER_COLORS.map((color) => (
+                    <button
+                      key={color.id}
+                      onClick={(e) => {
+                        e.stopPropagation();
+                        onMarkUpdate(
+                          markColor === color.class ? null : color.class
+                        );
+                      }}
+                      className={`w-4 h-4 rounded-full transition-all hover:scale-125 ${
+                        color.class
+                      } ${
+                        markColor === color.class
+                          ? "ring-2 ring-offset-2 ring-slate-400"
+                          : "opacity-60 hover:opacity-100"
+                      }`}
+                      title={`Mark as ${color.id}`}
+                    />
+                  ))}
+                  <div className="w-px h-4 bg-slate-300 mx-0.5"></div>
+                  <button
+                    onClick={(e) => {
+                      e.stopPropagation();
+                      onMarkUpdate(null);
+                    }}
+                    className="p-1 hover:bg-slate-200 rounded-md transition-colors"
+                    title="Clear mark"
+                  >
+                    <X size={12} className="text-slate-400" />
+                  </button>
+                </div>
+              )}
+            </div>
+
+            {isAnswered && (
+              <button
+                onClick={onReset}
+                className="flex items-center gap-1.5 px-3 py-1.5 text-xs font-medium text-slate-500 hover:text-rose-600 hover:bg-rose-50 rounded-lg transition-colors border border-transparent hover:border-rose-100"
+                title="Clear answer and reattempt"
+              >
+                <RotateCcw size={14} />
+                <span>Reset</span>
+              </button>
+            )}
+          </div>
         </div>
 
         <h2 className="text-2xl md:text-4xl font-medium text-slate-800 leading-tight">

@@ -18,6 +18,7 @@ const App: React.FC = () => {
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [answers, setAnswers] = useState<Record<number, string>>({});
   const [notes, setNotes] = useState<Record<number, string>>({});
+  const [marks, setMarks] = useState<Record<number, string>>({});
   const [lastUpdated, setLastUpdated] = useState<number>(Date.now());
   const [sidebarOpen, setSidebarOpen] = useState(
     typeof window !== "undefined" ? window.innerWidth >= 768 : true
@@ -66,7 +67,7 @@ const App: React.FC = () => {
             if (winner) {
               setAnswers(winner.answers || {});
               setNotes(winner.notes || {});
-              // Note: currentQuestionIndex is no longer loaded from storage
+              setMarks(winner.marks || {});
               setLastUpdated(winner.lastUpdated || Date.now());
               lastSyncedRef.current = winner.lastUpdated || 0;
 
@@ -76,9 +77,6 @@ const App: React.FC = () => {
                 (!cloudProgress ||
                   localProgress.lastUpdated > cloudProgress.lastUpdated)
               ) {
-                console.log(
-                  "Healing Cloud Data with newer LocalStorage data..."
-                );
                 await dbService.saveProgress(uid, localProgress);
                 lastSyncedRef.current = localProgress.lastUpdated;
               }
@@ -94,6 +92,7 @@ const App: React.FC = () => {
           setUser(null);
           setAnswers({});
           setNotes({});
+          setMarks({});
           setCurrentQuestionIndex(0);
         }
         setLoading(false);
@@ -108,21 +107,20 @@ const App: React.FC = () => {
     if (user && isDataInitialized) {
       const timestamp = Date.now();
       const currentProgress: QuizProgress = {
-        // currentQuestionIndex is excluded from persistence
         answers,
         notes,
+        marks,
         completed: Object.keys(answers).length === QUESTIONS.length,
         lastUpdated: timestamp,
       };
 
-      // Instant mirroring to LocalStorage
       localStorage.setItem(
         `quiz_progress_${user.uid}`,
         JSON.stringify(currentProgress)
       );
       setLastUpdated(timestamp);
     }
-  }, [answers, notes, user, isDataInitialized]); // Index removed from dependency array to avoid unnecessary updates if just navigating
+  }, [answers, notes, marks, user, isDataInitialized]);
 
   // Debounced Cloud Sync
   useEffect(() => {
@@ -131,9 +129,9 @@ const App: React.FC = () => {
         setIsSyncing(true);
         try {
           const progressToSave: QuizProgress = {
-            // currentQuestionIndex is excluded from persistence
             answers,
             notes,
+            marks,
             completed: Object.keys(answers).length === QUESTIONS.length,
             lastUpdated: lastUpdated,
           };
@@ -149,7 +147,7 @@ const App: React.FC = () => {
 
       return () => clearTimeout(timer);
     }
-  }, [lastUpdated, user, isDataInitialized, answers, notes]);
+  }, [lastUpdated, user, isDataInitialized, answers, notes, marks]);
 
   // Handle Resize
   useEffect(() => {
@@ -215,6 +213,19 @@ const App: React.FC = () => {
     }));
   };
 
+  const handleMarkUpdate = (color: string | null) => {
+    const currentQ = QUESTIONS[currentQuestionIndex];
+    setMarks((prev) => {
+      const newMarks = { ...prev };
+      if (color) {
+        newMarks[currentQ.qno] = color;
+      } else {
+        delete newMarks[currentQ.qno];
+      }
+      return newMarks;
+    });
+  };
+
   const handleResetQuestion = () => {
     const currentQ = QUESTIONS[currentQuestionIndex];
     setAnswers((prev) => {
@@ -227,6 +238,7 @@ const App: React.FC = () => {
   const handleResetAssignment = () => {
     setAnswers({});
     setNotes({});
+    setMarks({});
     setCurrentQuestionIndex(0);
     if (user) {
       localStorage.removeItem(`quiz_progress_${user.uid}`);
@@ -273,6 +285,7 @@ const App: React.FC = () => {
         questions={QUESTIONS}
         currentQuestionIndex={currentQuestionIndex}
         answers={answers}
+        marks={marks}
         onSelectQuestion={setCurrentQuestionIndex}
         userEmail={user.email}
         onLogout={handleLogout}
@@ -350,8 +363,10 @@ const App: React.FC = () => {
                 question={currentQ}
                 selectedOption={answers[currentQ.qno]}
                 note={notes[currentQ.qno] || ""}
+                markColor={marks[currentQ.qno] || null}
                 onOptionSelect={handleOptionSelect}
                 onUpdateNote={handleNoteUpdate}
+                onMarkUpdate={handleMarkUpdate}
                 onReset={handleResetQuestion}
               />
             ) : (

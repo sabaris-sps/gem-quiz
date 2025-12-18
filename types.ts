@@ -17,6 +17,7 @@ export interface UserState {
 export interface QuizProgress {
   answers: Record<number, string>; // qno -> selected option
   notes: Record<number, string>; // qno -> user note
+  marks: Record<number, string>; // qno -> color hex/class
   completed: boolean;
   lastUpdated: number; // Timestamp in ms
 }
