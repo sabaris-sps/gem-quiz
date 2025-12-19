@@ -14,5 +14,13 @@
     "has_pg_ref": true,
     "has_hints": true,
     "has_solutions": true
+  },
+  {
+    "asgn-unique-name": "salt-cations",
+    "asgn-display-name": "Salt - Cations *Unofficial",
+    "num_of_questions": 200,
+    "has_pg_ref": true,
+    "has_hints": true,
+    "has_solutions": true
   }
 ]

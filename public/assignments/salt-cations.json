@@ -1,0 +1,2802 @@
+[
+  {
+    "qno": 1,
+    "question_text": "Which of the following is the group reagent for the 'Zero' group in cation analysis?",
+    "options": [
+      "dil. HCl",
+      "H2S in dil. HCl",
+      "NaOH or Ca(OH)2",
+      "NH4OH"
+    ],
+    "answer": "NaOH or Ca(OH)2",
+    "hint": "Think of the simplest base used to release ammonia gas.",
+    "solution": "NH4+, K+, and Na+ belong to the Zero group because they do not require specific precipitation conditions like the other groups and are often identified first or by gas evolution.",
+    "page_ref": 32
+  },
+  {
+    "qno": 2,
+    "question_text": "In the analysis of cations, which gas is evolved when Zero group radicals are heated with the group reagent?",
+    "options": [
+      "Hydrogen",
+      "Ammonia",
+      "Chlorine",
+      "Hydrogen Sulphide Cory"
+    ],
+    "answer": "Ammonia",
+    "hint": "NH4+ is the primary radical in this group.",
+    "solution": "Dilute hydrochloric acid is used for Group 1 because it precipitates silver, mercury(I), and lead ions as insoluble chlorides.",
+    "page_ref": 32
+  },
+  {
+    "qno": 3,
+    "question_text": "What is the group reagent for Group 1 cations?",
+    "options": [
+      "conc. HCl",
+      "dil. HCl",
+      "H2S",
+      "NH4Cl"
+    ],
+    "answer": "dil. HCl",
+    "hint": "Chlorides of these metals are insoluble.",
+    "solution": "Pb2+ reacts with HCl to form PbCl2, which is a white precipitate characteristic of Group 1 analysis.",
+    "page_ref": 32
+  },
+  {
+    "qno": 4,
+    "question_text": "Which of these cations belongs to Group 1?",
+    "options": [
+      "Cu2+",
+      "Fe3+",
+      "Pb2+",
+      "Zn2+"
+    ],
+    "answer": "Pb2+",
+    "hint": "It forms a white chloride precipitate.",
+    "solution": "H2S gas in the presence of dilute HCl is the group reagent for Group 2, allowing for the precipitation of sulphides with low solubility products.",
+    "page_ref": 32
+  },
+  {
+    "qno": 5,
+    "question_text": "What is the color of the precipitate formed by Group 1 radicals (AgCl, Hg2Cl2, PbCl2)?",
+    "options": [
+      "Black",
+      "Yellow",
+      "White",
+      "Green"
+    ],
+    "answer": "White",
+    "hint": "Common metal chlorides like table salt are often associated with this color.",
+    "solution": "CdS is a distinct yellow precipitate formed when H2S is passed through an acidic solution containing cadmium ions.",
+    "page_ref": 32
+  },
+  {
+    "qno": 6,
+    "question_text": "Which reagent is used for Group 2 cations?",
+    "options": [
+      "H2S in presence of dil. HCl",
+      "H2S in presence of NH4OH",
+      "dil. HCl",
+      "(NH4)2CO3"
+    ],
+    "answer": "H2S in presence of dil. HCl",
+    "hint": "Acidic medium is required to keep S2- concentration low.",
+    "solution": "Antimony(III) ions react with H2S in acidic medium to form an orange precipitate of antimony sulphide.",
+    "page_ref": 32
+  },
+  {
+    "qno": 7,
+    "question_text": "Which cation in Group 2(A) produces a yellow sulphide precipitate?",
+    "options": [
+      "Hg2+",
+      "Cu2+",
+      "Cd2+",
+      "Bi3+"
+    ],
+    "answer": "Cd2+",
+    "hint": "Think of the 'Cadmium Yellow' pigment.",
+    "solution": "Chromium(III) ions precipitate as a green hydroxide when treated with ammonium hydroxide in the presence of ammonium chloride.",
+    "page_ref": 32
+  },
+  {
+    "qno": 8,
+    "question_text": "What is the color of the precipitate formed by SnS2 in Group 2(B)?",
+    "options": [
+      "Orange",
+      "Brown",
+      "Yellow",
+      "Black"
+    ],
+    "answer": "Yellow",
+    "hint": "Stannic sulphide is distinct from stannous sulphide.",
+    "solution": "Aluminium hydroxide (Al(OH)3) forms as a gelatinous white precipitate, which is a key identifying feature for Al3+.",
+    "page_ref": 32
+  },
+  {
+    "qno": 9,
+    "question_text": "Which of the following describes the precipitate of Sb2S3?",
+    "options": [
+      "Yellow",
+      "Orange",
+      "Black",
+      "White"
+    ],
+    "answer": "Orange",
+    "hint": "Antimony sulfide has a vibrant sunset color.",
+    "solution": "Manganese sulphide (MnS) is characterized by its unique buff or light pink color in the Group 4 analysis.",
+    "page_ref": 32
+  },
+  {
+    "qno": 10,
+    "question_text": "What is the group reagent for Group 3 cations?",
+    "options": [
+      "NH4Cl only",
+      "NH4OH in presence of NH4Cl",
+      "NaOH",
+      "H2S in NH4OH"
+    ],
+    "answer": "NH4OH in presence of NH4Cl",
+    "hint": "The chloride is added first to suppress hydroxide ion concentration.",
+    "solution": "Ammonium carbonate in the presence of ammonium hydroxide precipitates Ba2+, Sr2+, and Ca2+ as their respective white carbonates.",
+    "page_ref": 32
+  },
+  {
+    "qno": 11,
+    "question_text": "What is the color and nature of the Al(OH)3 precipitate in Group 3?",
+    "options": [
+      "Reddish brown",
+      "Green",
+      "Gelatinous white",
+      "Buff"
+    ],
+    "answer": "Gelatinous white",
+    "hint": "It looks like a sticky jelly.",
+    "solution": "Magnesium is identified in the final group by the formation of white crystalline magnesium ammonium phosphate (Mg(NH4)PO4).",
+    "page_ref": 32
+  },
+  {
+    "qno": 12,
+    "question_text": "In Group 4, which radical produces a 'Buff (or Pink)' precipitate of MnS?",
+    "options": [
+      "Zn2+",
+      "Ni2+",
+      "Co2+",
+      "Mn2+"
+    ],
+    "answer": "Mn2+",
+    "hint": "Manganese salts are often associated with light pink colors.",
+    "solution": "Group 1 cations (Ag+, Pb2+, Hg2+) are precipitated as chlorides because their solubility products are significantly lower than those of other metal chlorides.",
+    "page_ref": 32
+  },
+  {
+    "qno": 13,
+    "question_text": "What is the group reagent for Group 5 cations?",
+    "options": [
+      "Na2HPO4",
+      "H2S",
+      "(NH4)2CO3 in presence of NH4OH",
+      "dil. HCl"
+    ],
+    "answer": "(NH4)2CO3 in presence of NH4OH",
+    "hint": "These radicals form insoluble carbonates.",
+    "solution": "Lead chloride has a relatively higher solubility compared to AgCl or Hg2Cl2, so some Pb2+ remains in solution and moves to Group 2.",
+    "page_ref": 32
+  },
+  {
+    "qno": 14,
+    "question_text": "Which of the following is NOT a Group 5 radical?",
+    "options": [
+      "Ba2+",
+      "Sr2+",
+      "Ca2+",
+      "Mg2+"
+    ],
+    "answer": "Mg2+",
+    "hint": "It is found in the final group (Group 6).",
+    "solution": "HCl increases H+ concentration, which suppresses the ionization of H2S (common ion effect), ensuring only the most insoluble sulphides (Group 2) precipitate.",
+    "page_ref": 32
+  },
+  {
+    "qno": 15,
+    "question_text": "What is the precipitate composition for Mg2+ in Group 6?",
+    "options": [
+      "MgCO3",
+      "Mg(OH)2",
+      "Mg(NH4)PO4",
+      "MgS"
+    ],
+    "answer": "Mg(NH4)PO4",
+    "hint": "A phosphate reagent is used for this test.",
+    "solution": "Nitric acid is a strong oxidizing agent; it would react with H2S to form free sulphur, which interferes with the observation of metal sulphides.",
+    "page_ref": 32
+  },
+  {
+    "qno": 16,
+    "question_text": "Why are Group 1 radicals precipitated as chlorides?",
+    "options": [
+      "They have very high solubility products",
+      "Their solubility products are less than chlorides of other metal ions",
+      "HCl is a weak acid",
+      "They only react with HCl"
+    ],
+    "answer": "Their solubility products are less than chlorides of other metal ions",
+    "hint": "Lower Ksp leads to easier precipitation.",
+    "solution": "Ammonium chloride provides NH4+ ions that suppress the dissociation of NH4OH, lowering OH- concentration so only Group 3 hydroxides precipitate.",
+    "page_ref": 33
+  },
+  {
+    "qno": 17,
+    "question_text": "Why is Lead (Pb2+) never completely precipitated in Group 1?",
+    "options": [
+      "It doesn't react with HCl",
+      "It is slightly soluble in water",
+      "It only precipitates in alkaline medium",
+      "It forms a soluble complex with Cl-"
+    ],
+    "answer": "It is slightly soluble in water",
+    "hint": "Temperature affects its solubility significantly.",
+    "solution": "Ferric hydroxide has a lower solubility product than ferrous hydroxide, ensuring complete precipitation of iron in Group 3 after oxidation.",
+    "page_ref": 33
+  },
+  {
+    "qno": 18,
+    "question_text": "In Group 2, what is the role of HCl added before H2S?",
+    "options": [
+      "To increase S2- concentration",
+      "To decrease S2- concentration due to common ion effect",
+      "To act as a catalyst",
+      "To oxidize the radicals"
+    ],
+    "answer": "To decrease S2- concentration due to common ion effect",
+    "hint": "Think of the H+ ions coming from both HCl and H2S.",
+    "solution": "By removing H+ ions as water, NH4OH shifts the H2S equilibrium to the right, providing enough S2- concentration to precipitate Group 4 cations.",
+    "page_ref": 33
+  },
+  {
+    "qno": 19,
+    "question_text": "Why can H2SO4 NOT be used in place of HCl for Group 2 precipitation?",
+    "options": [
+      "It is too weak",
+      "It will precipitate Group 5 radicals as sulphates",
+      "It is not a source of H+",
+      "It reacts with H2S"
+    ],
+    "answer": "It will precipitate Group 5 radicals as sulphates",
+    "hint": "Barium, Strontium, and Calcium sulphates are insoluble.",
+    "solution": "Ammonium ions are tested using the solid salt because the reaction with NaOH produces ammonia gas which is easily detectable.",
+    "page_ref": 33
+  },
+  {
+    "qno": 20,
+    "question_text": "Why can HNO3 NOT be used in place of HCl for Group 2?",
+    "options": [
+      "It is a weak acid",
+      "It is a powerful oxidising agent that oxidises H2S to sulphur",
+      "It does not provide H+ ions",
+      "It dissolves the sulphides"
+    ],
+    "answer": "It is a powerful oxidising agent that oxidises H2S to sulphur",
+    "hint": "A yellow colloidal precipitate would form without any cations.",
+    "solution": "Water is the primary choice for solvent; if the salt is insoluble in water, dilute and then concentrated acids are used.",
+    "page_ref": 33
+  },
+  {
+    "qno": 21,
+    "question_text": "What is the function of NH4Cl in Group 3 precipitation?",
+    "options": [
+      "To increase the ionisation of NH4OH",
+      "To suppress the ionisation of NH4OH",
+      "To oxidise iron",
+      "To act as a buffer for pH 12"
+    ],
+    "answer": "To suppress the ionisation of NH4OH",
+    "hint": "Lowering OH- concentration ensures only Group 3 hydroxides precipitate.",
+    "solution": "The mixed chloride precipitate is boiled with water; PbCl2 dissolves and passes into the filtrate, while the other two remain as residue.",
+    "page_ref": 33
+  },
+  {
+    "qno": 22,
+    "question_text": "Which substance is added to the filtrate of Group 2 to oxidize Fe2+ to Fe3+ before proceeding to Group 3?",
+    "options": [
+      "dil. HCl",
+      "conc. HNO3",
+      "NH4OH",
+      "H2O2"
+    ],
+    "answer": "conc. HNO3",
+    "hint": "Iron (III) has a lower Ksp for its hydroxide than Iron (II).",
+    "solution": "Addition of ammonia solution causes Hg2Cl2 to disproportionate into black metallic mercury and mercury(II) amidonitrate.",
+    "page_ref": 33
+  },
+  {
+    "qno": 23,
+    "question_text": "Why is it necessary to remove H2S by boiling before testing for Group 3?",
+    "options": [
+      "H2S is toxic",
+      "To prevent precipitation of Group 4 radicals as sulphides",
+      "To make the solution acidic",
+      "To dissolve Group 2 precipitates"
+    ],
+    "answer": "To prevent precipitation of Group 4 radicals as sulphides",
+    "hint": "Think of what happens when you add NH4OH to a solution containing H2S.",
+    "solution": "Potassium iodide reacts with lead ions to form lead(II) iodide, a characteristic yellow precipitate.",
+    "page_ref": 33
+  },
+  {
+    "qno": 24,
+    "question_text": "In Group 4, how does ammonium hydroxide affect H2S?",
+    "options": [
+      "It decreases ionisation of H2S",
+      "It increases ionisation of H2S by removing H+",
+      "It oxidises H2S to SO2",
+      "It has no effect"
+    ],
+    "answer": "It increases ionisation of H2S by removing H+",
+    "hint": "Acid plus base makes water, shifting equilibrium.",
+    "solution": "Silver chromate is a distinct brick-red precipitate used to confirm the presence of silver ions.",
+    "page_ref": 33
+  },
+  {
+    "qno": 25,
+    "question_text": "Original solution (O.S.) is used for the analysis of all basic radicals EXCEPT:",
+    "options": [
+      "Pb2+",
+      "NH4+",
+      "Fe3+",
+      "Cu2+"
+    ],
+    "answer": "NH4+",
+    "hint": "This radical is tested directly from the solid salt using NaOH.",
+    "solution": "Stannous chloride reduces mercuric chloride to mercurous chloride (white) and then to metallic mercury (grey/black).",
+    "page_ref": 34
+  },
+  {
+    "qno": 26,
+    "question_text": "What is the first solvent tried for preparing the Original Solution?",
+    "options": [
+      "dil. HCl",
+      "conc. HCl",
+      "H2O",
+      "conc. HNO3"
+    ],
+    "answer": "H2O",
+    "hint": "Always start with the most universal, neutral solvent.",
+    "solution": "PbCl2 is soluble in concentrated HCl due to the formation of the tetrachloroplumbate(II) complex ion.",
+    "page_ref": 34
+  },
+  {
+    "qno": 27,
+    "question_text": "In the Group 1 flowchart, how is PbCl2 separated from AgCl and Hg2Cl2?",
+    "options": [
+      "By adding NH4OH",
+      "By adding hot water and filtering",
+      "By adding conc. HCl",
+      "By adding KI"
+    ],
+    "answer": "By adding hot water and filtering",
+    "hint": "Lead chloride dissolves in heat but precipitates in cold.",
+    "solution": "Lead(II) hydroxide is amphoteric and reacts with excess strong base to form the soluble tetrahydroxoplumbate(II) ion.",
+    "page_ref": 34
+  },
+  {
+    "qno": 28,
+    "question_text": "Which reagent added to the Group 1 residue (AgCl and Hg2Cl2) turns it black?",
+    "options": [
+      "dil. HCl",
+      "NH4OH",
+      "KI",
+      "K2CrO4"
+    ],
+    "answer": "NH4OH",
+    "hint": "Mercury (I) chloride undergoes disproportionation with this base.",
+    "solution": "PbSO4 dissolves in ammonium acetate because lead(II) acetate is a weak electrolyte and forms a stable soluble complex ion.",
+    "page_ref": 34
+  },
+  {
+    "qno": 29,
+    "question_text": "What is the result of adding KI to the filtrate containing Pb2+?",
+    "options": [
+      "White precipitate",
+      "Yellow precipitate",
+      "Black precipitate",
+      "Blue solution"
+    ],
+    "answer": "Yellow precipitate",
+    "hint": "PbI2 has a very distinct color often compared to gold.",
+    "solution": "Lead(II) ions react with hydrogen sulphide in acidic medium to produce lead(II) sulphide, which is black.",
+    "page_ref": 34
+  },
+  {
+    "qno": 30,
+    "question_text": "Which reagent is used to confirm Hg2(2+) by forming a 'Grey or Black' precipitate of metallic mercury?",
+    "options": [
+      "KI",
+      "SnCl2",
+      "K2CrO4",
+      "dil. HNO3"
+    ],
+    "answer": "SnCl2",
+    "hint": "Tin (II) acts as a reducing agent here.",
+    "solution": "Lead iodide is moderately soluble in boiling water; upon cooling, it precipitates back in the form of shiny yellow crystals.",
+    "page_ref": 34
+  },
+  {
+    "qno": 31,
+    "question_text": "What is the color of the silver chromate (Ag2CrO4) precipitate formed in Group 1 confirmatory tests?",
+    "options": [
+      "Yellow",
+      "White",
+      "Brick red/red",
+      "Black"
+    ],
+    "answer": "Brick red/red",
+    "hint": "It is much darker than the lead equivalent.",
+    "solution": "AgCl reacts with ammonia to form a soluble complex called diamminesilver(I) chloride.",
+    "page_ref": 34
+  },
+  {
+    "qno": 32,
+    "question_text": "PbCl2 is soluble in which of the following?",
+    "options": [
+      "Cold water",
+      "Dilute HCl",
+      "Concentrated HCl",
+      "Dilute NH4OH"
+    ],
+    "answer": "Concentrated HCl",
+    "hint": "It forms a complex ion [PbCl4]2-.",
+    "solution": "Silver iodide (AgI) is a bright yellow precipitate that is insoluble in dilute ammonia.",
+    "page_ref": 35
+  },
+  {
+    "qno": 33,
+    "question_text": "What happens when excess NaOH is added to a Lead (Pb2+) salt solution?",
+    "options": [
+      "A black precipitate forms",
+      "A white precipitate forms and then dissolves",
+      "A yellow precipitate forms",
+      "No reaction occurs"
+    ],
+    "answer": "A white precipitate forms and then dissolves",
+    "hint": "Lead is amphoteric and forms a plumbite ion.",
+    "solution": "Silver chromate (Ag2CrO4) is a characteristic red precipitate formed when chromate ions are added to a silver salt solution.",
+    "page_ref": 35
+  },
+  {
+    "qno": 34,
+    "question_text": "Adding K2CrO4 to a Lead solution produces a yellow precipitate of PbCrO4. This precipitate is soluble in:",
+    "options": [
+      "Acetic acid",
+      "NaOH",
+      "Cold water",
+      "Dilute HCl"
+    ],
+    "answer": "NaOH",
+    "hint": "It is also soluble in nitric acid.",
+    "solution": "Disodium hydrogen phosphate reacts with silver ions in a neutral medium to form yellow silver phosphate.",
+    "page_ref": 35
+  },
+  {
+    "qno": 35,
+    "question_text": "The Lead sulphate (PbSO4) white precipitate is soluble in which reagent due to complex formation?",
+    "options": [
+      "Dilute HCl",
+      "Ammonium acetate",
+      "Water",
+      "Silver nitrate"
+    ],
+    "answer": "Ammonium acetate",
+    "hint": "Acetate ions form a stable complex with lead.",
+    "solution": "Silver oxide (Ag2O) is formed as a brown precipitate which then dissolves in excess ammonia to form the complex [Ag(NH3)2]+.",
+    "page_ref": 35
+  },
+  {
+    "qno": 36,
+    "question_text": "What is the color of Lead sulphide (PbS)?",
+    "options": [
+      "White",
+      "Yellow",
+      "Black",
+      "Red"
+    ],
+    "answer": "Black",
+    "hint": "Most metal sulphides in Group 2A are this color.",
+    "solution": "Sulphides of As, Sb, and Sn (Subgroup IIB) dissolve in yellow ammonium sulphide, while those of Hg, Pb, Bi, Cu, and Cd (Subgroup IIA) do not.",
+    "page_ref": 35
+  },
+  {
+    "qno": 37,
+    "question_text": "When AgCl is treated with dilute ammonia, it dissolves to form which complex?",
+    "options": [
+      "[Ag(Cl)2]-",
+      "[Ag(NH3)2]+",
+      "[Ag(OH)2]-",
+      "[Ag(NH4)2]2+"
+    ],
+    "answer": "[Ag(NH3)2]+",
+    "hint": "This is a classic diamine silver complex.",
+    "solution": "Cadmium sulphide (CdS) is the only yellow sulphide in the IIA subgroup; others like HgS and CuS are black.",
+    "page_ref": 36
+  },
+  {
+    "qno": 38,
+    "question_text": "Adding KI to Silver nitrate produces a bright yellow precipitate of AgI. Is this precipitate soluble in dilute ammonia?",
+    "options": [
+      "Yes, completely",
+      "No, insoluble",
+      "Only upon boiling",
+      "Only in concentrated ammonia"
+    ],
+    "answer": "No, insoluble",
+    "hint": "It is even less soluble than AgCl or AgBr.",
+    "solution": "Mercury(II) sulphide is highly insoluble and does not dissolve in nitric acid, distinguishing it from other IIA sulphides.",
+    "page_ref": 36
+  },
+  {
+    "qno": 39,
+    "question_text": "What precipitate is formed when Disodium hydrogen phosphate is added to Silver nitrate in neutral solution?",
+    "options": [
+      "White Ag3PO4",
+      "Yellow Ag3PO4",
+      "Black Ag2O",
+      "Red Ag2HPO4"
+    ],
+    "answer": "Yellow Ag3PO4",
+    "hint": "Phosphates of silver are not white.",
+    "solution": "Bismuth(III) chloride hydrolyzes in excess water to form insoluble bismuthyl chloride (BiOCl), appearing as a white turbidity.",
+    "page_ref": 36
+  },
+  {
+    "qno": 40,
+    "question_text": "What is the color of the precipitate formed when Ammonia solution is added dropwise to Silver nitrate?",
+    "options": [
+      "White",
+      "Brown",
+      "Black",
+      "Yellow"
+    ],
+    "answer": "Brown",
+    "hint": "This is actually Silver Oxide (Ag2O).",
+    "solution": "Excess ammonia reacts with copper(II) ions to form a characteristic deep or intense blue complex solution.",
+    "page_ref": 36
+  },
+  {
+    "qno": 41,
+    "question_text": "In Group II, which subgroup contains sulphides that are SOLUBLE in yellow ammonium sulphide (YAS)?",
+    "options": [
+      "Group IIA",
+      "Group IIB",
+      "Both IIA and IIB",
+      "Neither"
+    ],
+    "answer": "Group IIB",
+    "hint": "Think of arsenic, antimony, and tin.",
+    "solution": "Aqua regia is a mixture of conc. HCl and conc. HNO3 in a 3:1 ratio, providing nascent chlorine to dissolve noble metals and stable sulphides.",
+    "page_ref": 37
+  },
+  {
+    "qno": 42,
+    "question_text": "Which of the following Group IIA sulphides is yellow?",
+    "options": [
+      "HgS",
+      "PbS",
+      "CuS",
+      "CdS"
+    ],
+    "answer": "CdS",
+    "hint": "It is the only non-black sulphide in the IIA list provided.",
+    "solution": "Stannous chloride first reduces mercuric chloride to white mercurous chloride (Hg2Cl2).",
+    "page_ref": 37
+  },
+  {
+    "qno": 43,
+    "question_text": "In the Group IIA separation, which sulphide is insoluble in 50% HNO3?",
+    "options": [
+      "PbS",
+      "Bi2S3",
+      "HgS",
+      "CuS"
+    ],
+    "answer": "HgS",
+    "hint": "It requires aqua regia to dissolve.",
+    "solution": "Mercuric ions react with iodide ions to form mercuric iodide, which is a scarlet red precipitate.",
+    "page_ref": 37
+  },
+  {
+    "qno": 44,
+    "question_text": "What is the 'White turbidity' formed as a confirmatory test for Bismuth?",
+    "options": [
+      "Bi(OH)3",
+      "BiO+Cl-",
+      "Bi2S3",
+      "Na2SnO2"
+    ],
+    "answer": "BiO+Cl-",
+    "hint": "This happens when BiCl3 is added to excess water.",
+    "solution": "Mercury ions are reduced by copper, and the resulting metallic mercury forms an amalgam on the copper surface, appearing silver-like.",
+    "page_ref": 37
+  },
+  {
+    "qno": 45,
+    "question_text": "What reagent is used to confirm the presence of Cu2+ by forming an intense blue solution?",
+    "options": [
+      "NaOH",
+      "Ammonia solution in excess",
+      "K4[Fe(CN)6]",
+      "H2S"
+    ],
+    "answer": "Ammonia solution in excess",
+    "hint": "Think of the cuprammonium ion.",
+    "solution": "Reaction of mercury ions with cobalt thiocyanate produces a characteristic deep-blue crystalline precipitate of cobalt tetrathiocyanatomercurate(II).",
+    "page_ref": 37
+  },
+  {
+    "qno": 46,
+    "question_text": "HgS dissolves in aqua regia. What is the composition of aqua regia?",
+    "options": [
+      "1 part HCl + 3 parts HNO3",
+      "3 parts HCl + 1 part HNO3",
+      "1 part H2SO4 + 3 parts HCl",
+      "Equal parts HCl and HNO3"
+    ],
+    "answer": "3 parts HCl + 1 part HNO3",
+    "hint": "It is a mixture of concentrated acids used to dissolve noble metals.",
+    "solution": "CuS dissolves in boiling dilute nitric acid to form copper nitrate, elemental sulphur, and nitric oxide gas.",
+    "page_ref": 38
+  },
+  {
+    "qno": 47,
+    "question_text": "What is the color of the precipitate formed when KI is added to a Hg2+ solution in a limited amount?",
+    "options": [
+      "Yellow",
+      "Red",
+      "Green",
+      "White"
+    ],
+    "answer": "Red",
+    "hint": "The precipitate is HgI2.",
+    "solution": "Potassium ferrocyanide reacts with copper(II) ions to form copper(II) ferrocyanide, which is chocolate-brown.",
+    "page_ref": 38
+  },
+  {
+    "qno": 48,
+    "question_text": "What happens to the red HgI2 precipitate when excess KI is added?",
+    "options": [
+      "It turns black",
+      "It turns white",
+      "It dissolves to form a colourless solution",
+      "It remains unchanged"
+    ],
+    "answer": "It dissolves to form a colourless solution",
+    "hint": "Formation of Nessler's reagent base [HgI4]2-.",
+    "solution": "Copper(II) oxidizes iodide to iodine, which then forms tri-iodide ions (I3-), giving the solution a dark brown color.",
+    "page_ref": 38
+  },
+  {
+    "qno": 49,
+    "question_text": "Which test for Hg2+ involves the use of copper chips or a coin?",
+    "options": [
+      "Cobalt thiocyanate test",
+      "Copper chips test",
+      "KI test",
+      "SnCl2 test"
+    ],
+    "answer": "Copper chips test",
+    "hint": "Mercury forms an amalgam on the metal surface.",
+    "solution": "The complex is extremely stable, meaning the concentration of free Cu+ ions is too low to exceed the solubility product of Cu2S when H2S is passed.",
+    "page_ref": 38
+  },
+  {
+    "qno": 50,
+    "question_text": "What color is the 'deep-blue crystalline precipitate' in the Cobalt(II) thiocyanate test for Mercury?",
+    "options": [
+      "Yellow",
+      "Green",
+      "Deep-blue",
+      "Red"
+    ],
+    "answer": "Deep-blue",
+    "hint": "The name of the result is in the question.",
+    "solution": "Cu(II) initially forms a black precipitate of copper(II) thiocyanate, which slowly decomposes into white copper(I) thiocyanate and thiocyanogen.",
+    "page_ref": 38
+  },
+  {
+    "qno": 51,
+    "question_text": "Is Copper sulphide (CuS) soluble in yellow ammonium sulphide (YAS)?",
+    "options": [
+      "Yes",
+      "No",
+      "Only upon boiling",
+      "Only in diluted YAS"
+    ],
+    "answer": "No",
+    "hint": "It belongs to Group IIA.",
+    "solution": "Boiling the filtrate removes dissolved H2S, which prevents the premature precipitation of Group 4 cations when ammonium hydroxide is added.",
+    "page_ref": 39
+  },
+  {
+    "qno": 52,
+    "question_text": "What is the color of the precipitate formed when K4[Fe(CN)6] is added to a Cu2+ solution?",
+    "options": [
+      "Prussian blue",
+      "Chocolate brown",
+      "Green",
+      "White"
+    ],
+    "answer": "Chocolate brown",
+    "hint": "This is a very characteristic test for copper.",
+    "solution": "Iron(III) reacts with ammonium hydroxide to form ferric hydroxide, which is a reddish-brown precipitate.",
+    "page_ref": 39
+  },
+  {
+    "qno": 53,
+    "question_text": "In the reaction of Cu2+ with KI, a white precipitate of Cu2I2 is formed. Why does the solution look intensely brown?",
+    "options": [
+      "Due to Copper (II) ions",
+      "Due to formation of tri-iodide ions (I3-)",
+      "Due to impurities",
+      "Due to the presence of HCl"
+    ],
+    "answer": "Due to formation of tri-iodide ions (I3-)",
+    "hint": "Free iodine is released.",
+    "solution": "Prussian blue is ferric ferrocyanide, an intensely blue complex formed as a confirmatory test for Fe3+.",
+    "page_ref": 39
+  },
+  {
+    "qno": 54,
+    "question_text": "What is the color of the precipitate formed when Potassium thiocyanate (KSCN) is first added to Cu2+?",
+    "options": [
+      "White",
+      "Black",
+      "Green",
+      "Yellow"
+    ],
+    "answer": "Black",
+    "hint": "Cu(SCN)2 is the initial product.",
+    "solution": "Ferric ions react with thiocyanate ions to form the soluble blood-red complex [Fe(SCN)]2+.",
+    "page_ref": 39
+  },
+  {
+    "qno": 55,
+    "question_text": "Which reagent is used for Group III to remove H2S and oxidize iron?",
+    "options": [
+      "Boil off H2S then add conc. HNO3",
+      "Add H2O2",
+      "Add NH4Cl directly",
+      "Add NaOH"
+    ],
+    "answer": "Boil off H2S then add conc. HNO3",
+    "hint": "Step 1: Get rid of sulfide. Step 2: Fix the oxidation state of Iron.",
+    "solution": "Aluminium hydroxide reacts with excess strong base to form soluble sodium meta-aluminate.",
+    "page_ref": 40
+  },
+  {
+    "qno": 56,
+    "question_text": "In the Group III flowchart, if a 'reddish brown' precipitate is formed, which cation is likely present?",
+    "options": [
+      "Al3+",
+      "Cr3+",
+      "Fe3+",
+      "Mn2+"
+    ],
+    "answer": "Fe3+",
+    "hint": "Rust color.",
+    "solution": "Oxidative fusion converts the green Cr(III) precipitate into yellow Cr(VI) chromate using sodium carbonate and potassium nitrate.",
+    "page_ref": 40
+  },
+  {
+    "qno": 57,
+    "question_text": "What color is the 'Prussian blue' precipitate/solution used to confirm Fe3+?",
+    "options": [
+      "Dark Red",
+      "Deep blue",
+      "Green",
+      "Yellow"
+    ],
+    "answer": "Deep blue",
+    "hint": "It's a famous intense blue pigment.",
+    "solution": "Al(OH)3 is a gelatinous white precipitate that typically floats or settles slowly in the test tube.",
+    "page_ref": 40
+  },
+  {
+    "qno": 58,
+    "question_text": "What is the color of the solution formed when KSCN is added to Fe3+?",
+    "options": [
+      "Prussian blue",
+      "Blood red",
+      "Yellow",
+      "Green"
+    ],
+    "answer": "Blood red",
+    "hint": "Iron thiocyanate complex color.",
+    "solution": "Heating aluminium salts with cobalt nitrate on a charcoal block produces a blue infusible mass of cobalt aluminate.",
+    "page_ref": 40
+  },
+  {
+    "qno": 59,
+    "question_text": "What happens to the Al(OH)3 precipitate when treated with excess NaOH?",
+    "options": [
+      "It remains insoluble",
+      "It dissolves to form NaAlO2",
+      "It turns blue",
+      "It turns black"
+    ],
+    "answer": "It dissolves to form NaAlO2",
+    "hint": "Aluminum is amphoteric.",
+    "solution": "NH4Cl limits the ionization of NH4OH, ensuring that only hydroxides with very low solubility products (Fe, Cr, Al) precipitate.",
+    "page_ref": 40
+  },
+  {
+    "qno": 60,
+    "question_text": "Which reagent added to Al3+ in a 'dry test' gives a 'thenard blue' mass?",
+    "options": [
+      "Sodium carbonate",
+      "Cobalt nitrate",
+      "Potassium ferrocyanide",
+      "Silver nitrate"
+    ],
+    "answer": "Cobalt nitrate",
+    "hint": "It involves heating on charcoal.",
+    "solution": "Thenard's blue is the compound cobalt aluminate, formed during the dry test for aluminium ions.",
+    "page_ref": 41
+  },
+  {
+    "qno": 61,
+    "question_text": "What is the formula for the 'thenard blue' mass?",
+    "options": [
+      "CoAl2O4",
+      "Al2(SO4)3",
+      "Co3O4",
+      "NaAlO2"
+    ],
+    "answer": "CoAl2O4",
+    "hint": "It's a cobalt aluminate.",
+    "solution": "Ferric ions are reduced to ferrous ions by H2S, and the sulphide is oxidized to elemental sulphur, appearing as a milky turbidity.",
+    "page_ref": 41
+  },
+  {
+    "qno": 62,
+    "question_text": "Is Fe(OH)3 soluble in excess NH4OH?",
+    "options": [
+      "Yes",
+      "No",
+      "Only on heating",
+      "Only in dilute solution"
+    ],
+    "answer": "No",
+    "hint": "Unlike Copper or Zinc, Iron does not form a soluble ammine complex here.",
+    "solution": "Turnbull's blue is ferrous ferricyanide, which has a similar structure and color to Prussian blue.",
+    "page_ref": 42
+  },
+  {
+    "qno": 63,
+    "question_text": "What gas is used to reduce Fe3+ to Fe2+ in acidic medium?",
+    "options": [
+      "O2",
+      "H2S",
+      "NH3",
+      "CO2"
+    ],
+    "answer": "H2S",
+    "hint": "It causes a 'milky-white' turbidity of sulphur.",
+    "solution": "The combination of Fe3+ and ferricyanide does not form a precipitate but results in a brown-colored solution.",
+    "page_ref": 42
+  },
+  {
+    "qno": 64,
+    "question_text": "What is the common name for the complex Fe4[Fe(CN)6]3?",
+    "options": [
+      "Turnbull's blue",
+      "Prussian blue",
+      "Ferricyanide",
+      "Chocolate brown"
+    ],
+    "answer": "Prussian blue",
+    "hint": "Formed from Ferric ion and Ferrocyanide.",
+    "solution": "The reaction between ferric ions and thiocyanate produces a soluble complex with an intense blood-red color.",
+    "page_ref": 42
+  },
+  {
+    "qno": 65,
+    "question_text": "What color is formed when Potassium ferricyanide is added to Fe3+?",
+    "options": [
+      "Blue",
+      "Brown",
+      "Green",
+      "White"
+    ],
+    "answer": "Brown",
+    "hint": "Ferric + Ferricyanide does not yield blue.",
+    "solution": "Boiling the red ferric acetate solution causes it to hydrolyze into an insoluble basic salt, which is reddish-brown.",
+    "page_ref": 42
+  },
+  {
+    "qno": 66,
+    "question_text": "Which iron complex is called 'Turnbull's blue'?",
+    "options": [
+      "Fe4[Fe(CN)6]3",
+      "Fe3[Fe(CN)6]2",
+      "KFe[Fe(CN)6]",
+      "Fe(OH)3"
+    ],
+    "answer": "Fe3[Fe(CN)6]2",
+    "hint": "Formed from Ferrous ion and Ferricyanide.",
+    "solution": "Disodium hydrogen phosphate reacts with ferric ions to form a yellowish-white precipitate of ferric phosphate.",
+    "page_ref": 42
+  },
+  {
+    "qno": 67,
+    "question_text": "What is the color of the iron(III) thiocyanate complex in acidic medium?",
+    "options": [
+      "Blue",
+      "Deep red",
+      "Yellow",
+      "Brown"
+    ],
+    "answer": "Deep red",
+    "hint": "It is often used to detect trace amounts of iron.",
+    "solution": "The green Cr(OH)3 precipitate dissolves in excess sodium hydroxide to form a clear green solution of sodium chromite.",
+    "page_ref": 43
+  },
+  {
+    "qno": 68,
+    "question_text": "Sodium acetate added to Fe3+ produces a deep red solution. What happens upon boiling this solution?",
+    "options": [
+      "It turns colorless",
+      "It forms a reddish brown precipitate of basic ferric acetate",
+      "It turns blue",
+      "It evaporates completely"
+    ],
+    "answer": "It forms a reddish brown precipitate of basic ferric acetate",
+    "hint": "Hydrolysis occurs at higher temperatures.",
+    "solution": "Bromine in alkaline medium acts as an oxidizing agent, converting green chromium(III) into yellow chromate(VI) ions.",
+    "page_ref": 43
+  },
+  {
+    "qno": 69,
+    "question_text": "What is the color of the precipitate formed by Chromium (Cr3+) with NH4OH?",
+    "options": [
+      "Gelatinous white",
+      "Grey-green to green",
+      "Reddish brown",
+      "Yellow"
+    ],
+    "answer": "Grey-green to green",
+    "hint": "Standard color for trivalent chromium hydroxides.",
+    "solution": "Reaction between chromate ions and silver nitrate produces a characteristic brick-red precipitate of silver chromate.",
+    "page_ref": 44
+  },
+  {
+    "qno": 70,
+    "question_text": "Chromium hydroxide dissolves in excess NH4OH to form a solution of which color?",
+    "options": [
+      "Blue",
+      "Pink or violet",
+      "Green",
+      "Colorless"
+    ],
+    "answer": "Pink or violet",
+    "hint": "This is due to the formation of a hexammine chromium complex.",
+    "solution": "Reaction of chromate with hydrogen peroxide in acidic conditions produces blue chromium pentoxide, which is stabilized in organic solvents like ether.",
+    "page_ref": 44
+  },
+  {
+    "qno": 71,
+    "question_text": "In the presence of Br2 and NaOH, Cr(OH)3 is oxidized to which ion?",
+    "options": [
+      "Cr2O7(2-)",
+      "CrO4(2-)",
+      "Cr2+",
+      "CrO5"
+    ],
+    "answer": "CrO4(2-)",
+    "hint": "This ion gives a yellow solution.",
+    "solution": "Zinc sulphide (ZnS) is the only white-colored precipitate among common metal sulphides in Group 4 analysis.",
+    "page_ref": 44
+  },
+  {
+    "qno": 72,
+    "question_text": "What color is the 'blue colouration' in the acidified H2O2 test for Chromium?",
+    "options": [
+      "Prussian blue",
+      "Deep blue (CrO5)",
+      "Light blue",
+      "Indigo"
+    ],
+    "answer": "Deep blue (CrO5)",
+    "hint": "Chromium pentoxide is formed and extracted in ether.",
+    "solution": "NiS and CoS are highly insoluble and do not dissolve in dilute hydrochloric acid, unlike ZnS and MnS which dissolve easily.",
+    "page_ref": 44
+  },
+  {
+    "qno": 73,
+    "question_text": "Which of the following describes the Group IV precipitate color for ZnS?",
+    "options": [
+      "Black",
+      "White",
+      "Buff",
+      "Yellow"
+    ],
+    "answer": "White",
+    "hint": "Unlike most sulphides, this one is not dark.",
+    "solution": "Evaporating the solution containing cobalt ions results in a blue anhydrous cobalt(II) chloride residue.",
+    "page_ref": 45
+  },
+  {
+    "qno": 74,
+    "question_text": "In Group IV separation, which reagent is used to dissolve ZnS and MnS while leaving NiS and CoS as a black residue?",
+    "options": [
+      "conc. HCl",
+      "dilute HCl",
+      "NaOH",
+      "NH4OH"
+    ],
+    "answer": "dilute HCl",
+    "hint": "A weak acid is enough to dissolve the more soluble sulphides.",
+    "solution": "Reaction of cobalt ions with thiocyanate in a non-aqueous solvent like amyl alcohol produces a blue complex.",
+    "page_ref": 45
+  },
+  {
+    "qno": 75,
+    "question_text": "What color is the residue when Cobalt(II) chloride is evaporated to dryness?",
+    "options": [
+      "Pink",
+      "Blue",
+      "Yellow",
+      "Green"
+    ],
+    "answer": "Blue",
+    "hint": "Anhydrous cobalt salts have this color.",
+    "solution": "Nickel(II) reacts with DMG to form a bright rosy-red complex, which is the standard confirmatory test for nickel.",
+    "page_ref": 45
+  },
+  {
+    "qno": 76,
+    "question_text": "Manganese (Mn2+) forms a precipitate with NaOH that is initially white. What color does it turn upon exposure to air?",
+    "options": [
+      "Black",
+      "Brown",
+      "Pink",
+      "Green"
+    ],
+    "answer": "Brown",
+    "hint": "Oxidation to MnO(OH)2 occurs.",
+    "solution": "Mn(OH)2 is white but rapidly oxidizes to brown hydrated manganese dioxide when exposed to atmospheric oxygen.",
+    "page_ref": 46
+  },
+  {
+    "qno": 77,
+    "question_text": "What is the color of the MnO4- ion formed in the Sodium bismuthate (NaBiO3) test?",
+    "options": [
+      "Green",
+      "Violet-red (or purple)",
+      "Yellow",
+      "Blue"
+    ],
+    "answer": "Violet-red (or purple)",
+    "hint": "Think of the color of Potassium Permanganate.",
+    "solution": "Sodium bismuthate is a very strong oxidizing agent that converts manganese(II) into permanganate ions, which are purple.",
+    "page_ref": 46
+  },
+  {
+    "qno": 78,
+    "question_text": "Which condition is required for the Sodium bismuthate test for Mn2+?",
+    "options": [
+      "Heating to boiling",
+      "Cold solution",
+      "Alkaline medium",
+      "Presence of chloride ions"
+    ],
+    "answer": "Cold solution",
+    "hint": "The reagent must be added to a cold solution.",
+    "solution": "Boiling manganese salts with lead dioxide and nitric acid oxidizes the manganese to permanganic acid, giving a violet-red color.",
+    "page_ref": 46
+  },
+  {
+    "qno": 79,
+    "question_text": "Zinc (Zn2+) forms a white gelatinous hydroxide precipitate. Is this precipitate soluble in excess NaOH?",
+    "options": [
+      "Yes",
+      "No",
+      "Only in conc. NaOH",
+      "Only on heating"
+    ],
+    "answer": "Yes",
+    "hint": "Zinc is an amphoteric metal.",
+    "solution": "Zinc is amphoteric and its hydroxide dissolves in excess strong base to form the soluble tetrahydroxozincate(II) ion.",
+    "page_ref": 47
+  },
+  {
+    "qno": 80,
+    "question_text": "What is the color of the precipitate formed when K4[Fe(CN)6] is added to Zn2+?",
+    "options": [
+      "Blue",
+      "White",
+      "Yellow",
+      "Chocolate brown"
+    ],
+    "answer": "White",
+    "hint": "The precipitate is K2Zn3[Fe(CN)6]2.",
+    "solution": "Zinc ions react with ferrocyanide to form a white precipitate of potassium zinc ferrocyanide.",
+    "page_ref": 47
+  },
+  {
+    "qno": 81,
+    "question_text": "Nickel (Ni2+) reacts with Dimethylglyoxime (DMG) in ammoniacal solution to form a precipitate of what color?",
+    "options": [
+      "Blue",
+      "Rosy red",
+      "Green",
+      "White"
+    ],
+    "answer": "Rosy red",
+    "hint": "This is a very specific and sensitive test for nickel.",
+    "solution": "DMG reacts with nickel specifically in the presence of ammonia (alkaline medium) to produce the red complex.",
+    "page_ref": 48
+  },
+  {
+    "qno": 82,
+    "question_text": "Which of the following ions also gives a red colouration with DMG (potentially causing confusion with Nickel)?",
+    "options": [
+      "Zn2+",
+      "Fe(II)",
+      "Mn2+",
+      "Cr3+"
+    ],
+    "answer": "Fe(II)",
+    "hint": "It only happens in ammoniacal solutions.",
+    "solution": "Ferrous ions also react with DMG to give a red color, though the complex is less stable than the nickel one.",
+    "page_ref": 48
+  },
+  {
+    "qno": 83,
+    "question_text": "What color is the Ni(OH)2 precipitate formed by adding NaOH to Ni2+?",
+    "options": [
+      "White",
+      "Green",
+      "Black",
+      "Blue"
+    ],
+    "answer": "Green",
+    "hint": "Typical color for simple nickel salts.",
+    "solution": "Hypochlorite oxidizes green nickel(II) hydroxide to black nickel(III) hydroxide.",
+    "page_ref": 49
+  },
+  {
+    "qno": 84,
+    "question_text": "What happens to the green Ni(OH)2 precipitate when treated with sodium hypochlorite (NaClO)?",
+    "options": [
+      "It dissolves",
+      "It turns black (Ni(OH)3)",
+      "It turns white",
+      "No reaction"
+    ],
+    "answer": "It turns black (Ni(OH)3)",
+    "hint": "Oxidation to a higher state occurs.",
+    "solution": "Nickel(II) ions react with excess ammonia to form the hexamminenickel(II) complex, which is deep blue.",
+    "page_ref": 49
+  },
+  {
+    "qno": 85,
+    "question_text": "The complex [Ni(NH3)6]2+ has what color?",
+    "options": [
+      "Green",
+      "Deep blue",
+      "Yellow",
+      "Pink"
+    ],
+    "answer": "Deep blue",
+    "hint": "Similar to the copper ammine complex color.",
+    "solution": "Nickel(II) ions initially form a green precipitate of nickel cyanide with KCN.",
+    "page_ref": 49
+  },
+  {
+    "qno": 86,
+    "question_text": "What is the color of the nickel cyanide [Ni(CN)2] precipitate formed by adding KCN to Ni2+?",
+    "options": [
+      "Green",
+      "Yellow",
+      "White",
+      "Blue"
+    ],
+    "answer": "Green",
+    "hint": "It is soluble in excess KCN.",
+    "solution": "The green nickel cyanide precipitate dissolves in excess cyanide to form a yellow solution of potassium tetracyanonickelate(II).",
+    "page_ref": 50
+  },
+  {
+    "qno": 87,
+    "question_text": "What color is the Nickel metaborate formed in the Borax bead test (oxidizing flame)?",
+    "options": [
+      "Blue",
+      "Brown",
+      "Green",
+      "Grey"
+    ],
+    "answer": "Brown",
+    "hint": "Note the difference between oxidizing and reducing flames.",
+    "solution": "Nickel produces a brown borax bead in an oxidizing flame due to the formation of nickel metaborate.",
+    "page_ref": 50
+  },
+  {
+    "qno": 88,
+    "question_text": "In the Group V flowchart, what reagent is used to precipitate Ba2+, Sr2+, and Ca2+?",
+    "options": [
+      "Na2CO3",
+      "(NH4)2CO3 in presence of NH4Cl and NH4OH",
+      "H2S",
+      "NH4OH only"
+    ],
+    "answer": "(NH4)2CO3 in presence of NH4Cl and NH4OH",
+    "hint": "Filtrate from Group IV is used.",
+    "solution": "Barium, strontium, and calcium are classified as Group 5 cations in qualitative analysis.",
+    "page_ref": 51
+  },
+  {
+    "qno": 89,
+    "question_text": "What solvent is used to dissolve the Group V carbonate precipitates?",
+    "options": [
+      "Dilute HCl",
+      "Acetic acid (CH3COOH)",
+      "Concentrated HNO3",
+      "Hot water"
+    ],
+    "answer": "Acetic acid (CH3COOH)",
+    "hint": "A weak organic acid is preferred here.",
+    "solution": "The carbonate precipitates are dissolved in acetic acid to prepare them for selective precipitation tests with chromate, sulphate, and oxalate.",
+    "page_ref": 51
+  },
+  {
+    "qno": 90,
+    "question_text": "In the Group V test sequence, which radical is tested first using K2CrO4?",
+    "options": [
+      "Ca2+",
+      "Sr2+",
+      "Ba2+",
+      "Mg2+"
+    ],
+    "answer": "Ba2+",
+    "hint": "Its chromate is the most insoluble in acetic acid.",
+    "solution": "Potassium chromate precipitates barium as yellow barium chromate, while strontium and calcium chromates remain soluble in acetic acid.",
+    "page_ref": 51
+  },
+  {
+    "qno": 91,
+    "question_text": "What precipitate confirms the presence of Strontium (Sr2+) in Group V?",
+    "options": [
+      "SrCrO4 (yellow)",
+      "SrSO4 (white)",
+      "SrC2O4 (white)",
+      "SrCO3 (white)"
+    ],
+    "answer": "SrSO4 (white)",
+    "hint": "Ammonium sulphate is used in the second part of the sequence.",
+    "solution": "Ammonium sulphate is added to the filtrate to precipitate strontium ions as white strontium sulphate.",
+    "page_ref": 51
+  },
+  {
+    "qno": 92,
+    "question_text": "What reagent is used to confirm Calcium (Ca2+) in Group V by forming a white precipitate?",
+    "options": [
+      "K2CrO4",
+      "(NH4)2SO4",
+      "(NH4)2C2O4",
+      "Na2HPO4"
+    ],
+    "answer": "(NH4)2C2O4",
+    "hint": "Think of calcium oxalate.",
+    "solution": "Calcium ions react with ammonium oxalate to form a white precipitate of calcium oxalate.",
+    "page_ref": 51
+  },
+  {
+    "qno": 93,
+    "question_text": "Barium chromate (BaCrO4) is insoluble in:",
+    "options": [
+      "Dilute HCl",
+      "Dilute acetic acid",
+      "Concentrated HNO3",
+      "Dilute H2SO4"
+    ],
+    "answer": "Dilute acetic acid",
+    "hint": "This allows separation from Strontium and Calcium.",
+    "solution": "BaCrO4 is insoluble in weak acids like acetic acid but dissolves in strong mineral acids like HCl.",
+    "page_ref": 52
+  },
+  {
+    "qno": 94,
+    "question_text": "In the Barium test, why does adding acid to K2CrO4 change the color from yellow to reddish-orange?",
+    "options": [
+      "Ba2+ is reduced",
+      "Formation of dichromate ions (Cr2O7(2-))",
+      "Formation of BaCrO4",
+      "It doesn't change color"
+    ],
+    "answer": "Formation of dichromate ions (Cr2O7(2-))",
+    "hint": "Equilibrium between chromate and dichromate is pH-dependent.",
+    "solution": "In acidic medium, chromate ions condense to form orange-colored dichromate ions.",
+    "page_ref": 52
+  },
+  {
+    "qno": 95,
+    "question_text": "Calcium (Ca2+) reacts with ammonium oxalate to form CaC2O4. This precipitate is soluble in which of the following?",
+    "options": [
+      "Acetic acid",
+      "Mineral acids (like HCl)",
+      "Ammonia solution",
+      "Water"
+    ],
+    "answer": "Mineral acids (like HCl)",
+    "hint": "Calcium oxalate is notorious for forming kidney stones; it doesn't dissolve easily.",
+    "solution": "Calcium oxalate is a salt of a weak acid and therefore dissolves in strong mineral acids.",
+    "page_ref": 53
+  },
+  {
+    "qno": 96,
+    "question_text": "What is the formula of the white precipitate formed when K4[Fe(CN)6] is added to a Calcium solution containing ammonium chloride?",
+    "options": [
+      "Ca2[Fe(CN)6]",
+      "K2Ca[Fe(CN)6]",
+      "Ca[Fe(CN)6]",
+      "KCa[Fe(CN)6]"
+    ],
+    "answer": "K2Ca[Fe(CN)6]",
+    "hint": "It is a mixed salt.",
+    "solution": "Potassium ferrocyanide reacts with calcium ions in the presence of ammonium salts to produce a white precipitate.",
+    "page_ref": 53
+  },
+  {
+    "qno": 97,
+    "question_text": "In Group VI, which reagent is added to the filtrate of Group V to detect Magnesium (Mg2+)?",
+    "options": [
+      "K2CrO4",
+      "(NH4)2CO3",
+      "Na2HPO4 in presence of NH4OH",
+      "NaOH"
+    ],
+    "answer": "Na2HPO4 in presence of NH4OH",
+    "hint": "Formation of magnesium ammonium phosphate.",
+    "solution": "The characteristic Group 6 precipitate for magnesium is magnesium ammonium phosphate.",
+    "page_ref": 54
+  },
+  {
+    "qno": 98,
+    "question_text": "What is the color of the 'Titan yellow' test result for Magnesium?",
+    "options": [
+      "Yellow",
+      "Deep red",
+      "Blue",
+      "Green"
+    ],
+    "answer": "Deep red",
+    "hint": "Titan yellow is the reagent, not the final color.",
+    "solution": "Titan yellow is adsorbed by magnesium hydroxide to produce a characteristic deep-red color or precipitate.",
+    "page_ref": 54
+  },
+  {
+    "qno": 99,
+    "question_text": "Why is NH4Cl added before NH4OH when precipitating Mg(NH4)PO4?",
+    "options": [
+      "To increase pH",
+      "To prevent precipitation of Mg(OH)2",
+      "To act as a catalyst",
+      "To dissolve the phosphate"
+    ],
+    "answer": "To prevent precipitation of Mg(OH)2",
+    "hint": "Hydroxides are generally less desirable here.",
+    "solution": "Ammonium chloride suppresses the ionization of ammonium hydroxide, keeping hydroxide concentration low enough to prevent Mg(OH)2 from precipitating.",
+    "page_ref": 54
+  },
+  {
+    "qno": 100,
+    "question_text": "Which of the following is NOT a property of the Mg(NH4)PO4 precipitate?",
+    "options": [
+      "White crystalline",
+      "Sparingly soluble in water",
+      "Soluble in acetic acid",
+      "Insoluble in mineral acids"
+    ],
+    "answer": "Insoluble in mineral acids",
+    "hint": "Most phosphates dissolve in strong acids.",
+    "solution": "Magnesium ammonium phosphate is soluble in both acetic acid and mineral acids.",
+    "page_ref": 54
+  },
+  {
+    "qno": 101,
+    "question_text": "In Group 2B, SnS is brown while SnS2 is what color?",
+    "options": [
+      "Orange",
+      "Yellow",
+      "Black",
+      "White"
+    ],
+    "answer": "Yellow",
+    "hint": "Stannic sulphide is used as 'mosaic gold'.",
+    "solution": "Stannous sulphide (SnS) is dark brown, whereas stannic sulphide (SnS2) is yellow.",
+    "page_ref": 32
+  },
+  {
+    "qno": 102,
+    "question_text": "What happens if H2S is passed through a neutral solution of MnCl2?",
+    "options": [
+      "Complete precipitation of MnS",
+      "No reaction",
+      "Incomplete precipitation due to formation of HCl",
+      "Evolution of Chlorine gas"
+    ],
+    "answer": "Incomplete precipitation due to formation of HCl",
+    "hint": "HCl formed decreases the ionisation of H2S.",
+    "solution": "Sulphides of As, Sb, and Sn dissolve in yellow ammonium sulphide to form thio-anions.",
+    "page_ref": 33
+  },
+  {
+    "qno": 103,
+    "question_text": "Which of these solvents is the FINAL choice for O.S. if others fail?",
+    "options": [
+      "dil. HCl",
+      "conc. HCl",
+      "dil. HNO3",
+      "conc. HNO3"
+    ],
+    "answer": "conc. HCl",
+    "hint": "Strongest acid mentioned in the preparation list.",
+    "solution": "Ammonium salts react with strong bases to release ammonia gas.",
+    "page_ref": 34
+  },
+  {
+    "qno": 104,
+    "question_text": "Lead iodide (PbI2) is soluble in which condition?",
+    "options": [
+      "Cold water",
+      "Boiling water",
+      "Dilute HCl",
+      "Ammonia"
+    ],
+    "answer": "Boiling water",
+    "hint": "It recrystallizes as 'golden spangles' upon cooling.",
+    "solution": "Mercuric ions react with KI to form red HgI2, which dissolves in excess KI to form the soluble colourless complex [HgI4]2-.",
+    "page_ref": 35
+  },
+  {
+    "qno": 105,
+    "question_text": "Which complex is formed when AgCl dissolves in concentrated HCl?",
+    "options": [
+      "[AgCl2]-",
+      "[Ag(NH3)2]+",
+      "Ag2O",
+      "[AgCl3]2-"
+    ],
+    "answer": "[AgCl2]-",
+    "hint": "Chlorido complex.",
+    "solution": "Zinc sulphide has a higher solubility product and requires a higher sulphide concentration provided in an alkaline medium.",
+    "page_ref": 36
+  },
+  {
+    "qno": 106,
+    "question_text": "The yellow precipitate of CdS is soluble in which of the following?",
+    "options": [
+      "Dilute HCl",
+      "Dilute H2SO4 (cold)",
+      "Hot dilute HNO3",
+      "Ammonium acetate"
+    ],
+    "answer": "Hot dilute HNO3",
+    "hint": "General solvent for Group IIA sulphides except mercury.",
+    "solution": "Al(OH)3 is basic and reacts with HCl to form a soluble salt, aluminium chloride.",
+    "page_ref": 37
+  },
+  {
+    "qno": 107,
+    "question_text": "In the copper test with KCN, why is no black precipitate of CuS formed when H2S is passed after adding excess KCN?",
+    "options": [
+      "CuS is soluble in KCN",
+      "The [Cu(CN)4]3- complex is extremely stable",
+      "Copper is reduced to Cu(0)",
+      "H2S does not react with Copper"
+    ],
+    "answer": "The [Cu(CN)4]3- complex is extremely stable",
+    "hint": "Stability is so high that S2- cannot displace CN-.",
+    "solution": "Cobalt(II) sulphide is an insoluble black precipitate formed in Group 4.",
+    "page_ref": 39
+  },
+  {
+    "qno": 108,
+    "question_text": "Concentrated HNO3 is added in Group III primarily to oxidize which ion?",
+    "options": [
+      "Fe3+ to Fe2+",
+      "Fe2+ to Fe3+",
+      "Cr3+ to Cr6+",
+      "Al3+ to Al4+"
+    ],
+    "answer": "Fe2+ to Fe3+",
+    "hint": "Check the note on the bottom of page 10.",
+    "solution": "Removing H2S ensures that the subsequent addition of ammonium carbonate only precipitates the group 5 carbonates.",
+    "page_ref": 40
+  },
+  {
+    "qno": 109,
+    "question_text": "What is the product of fusing Cr(OH)3 with a fusion mixture (KNO3 + Na2CO3)?",
+    "options": [
+      "CrCl3",
+      "Na2CrO4",
+      "Cr2O3",
+      "K2Cr2O7"
+    ],
+    "answer": "Na2CrO4",
+    "hint": "Oxidation of green chromium to yellow chromate.",
+    "solution": "Silver ions react with chromate ions to form silver chromate, which is brick-red.",
+    "page_ref": 40
+  },
+  {
+    "qno": 110,
+    "question_text": "In the dry test for Aluminium, what is the role of sodium carbonate?",
+    "options": [
+      "To form a blue mass",
+      "To produce a white infusible solid",
+      "To dissolve the sample",
+      "To act as an indicator"
+    ],
+    "answer": "To produce a white infusible solid",
+    "hint": "This solid glows when hot.",
+    "solution": "Bismuth(III) sulphide is a black precipitate formed by passing H2S through a bismuth salt solution.",
+    "page_ref": 41
+  },
+  {
+    "qno": 111,
+    "question_text": "Which reagent added to Fe3+ gives a 'yellowish-white' precipitate of FePO4?",
+    "options": [
+      "Na2HPO4",
+      "K4[Fe(CN)6]",
+      "NH4OH",
+      "CH3COONa"
+    ],
+    "answer": "Na2HPO4",
+    "hint": "Disodium hydrogen phosphate.",
+    "solution": "Manganese sulphide is notably pinkish-buff, helping distinguish it from other sulphides.",
+    "page_ref": 43
+  },
+  {
+    "qno": 112,
+    "question_text": "In the Chromium test, Lead acetate gives a yellow precipitate. What is its formula?",
+    "options": [
+      "PbCrO4",
+      "Cr(CH3COO)3",
+      "Pb(OH)2",
+      "PbCr2O7"
+    ],
+    "answer": "PbCrO4",
+    "hint": "Lead chromate.",
+    "solution": "Aluminium oxide formed in the dry test remains solid and emits light (glows) when heated strongly.",
+    "page_ref": 44
+  },
+  {
+    "qno": 113,
+    "question_text": "Chromium pentoxide (CrO5) is stabilized in which organic solvent?",
+    "options": [
+      "Ethanol",
+      "Ether or amyl alcohol",
+      "Chloroform",
+      "Benzene"
+    ],
+    "answer": "Ether or amyl alcohol",
+    "hint": "It forms a blue layer on top of water.",
+    "solution": "The reaction produces ferric ferrocyanide, a deep blue pigment.",
+    "page_ref": 44
+  },
+  {
+    "qno": 114,
+    "question_text": "In Group IV, what happens to MnS when it is exposed to air in the presence of dampness?",
+    "options": [
+      "It dissolves",
+      "It oxidizes to brown iron(III) hydroxide",
+      "It turns white",
+      "No reaction"
+    ],
+    "answer": "It oxidizes to brown iron(III) hydroxide",
+    "hint": "Wait, check the context of MnS or FeS? Look at page 12 for FeS.",
+    "solution": "Lead acetate reacts with chromate ions (obtained from Cr3+ oxidation) to form yellow lead chromate.",
+    "page_ref": 42
+  },
+  {
+    "qno": 115,
+    "question_text": "Which reagent converts Ni(OH)2 into the deep blue [Ni(NH3)6]2+ complex?",
+    "options": [
+      "NH4Cl",
+      "Excess Ammonia solution",
+      "NaOH",
+      "DMG"
+    ],
+    "answer": "Excess Ammonia solution",
+    "hint": "Ammine complex formation.",
+    "solution": "The formation of HCl as a byproduct increases the acidity, which suppresses H2S ionization and stops precipitation.",
+    "page_ref": 49
+  },
+  {
+    "qno": 116,
+    "question_text": "What is the 'violet-red' solution formed in the Mn2+ test with PbO2 and HNO3?",
+    "options": [
+      "HMnO4",
+      "Mn(NO3)2",
+      "Pb(MnO4)2",
+      "Mn(OH)2"
+    ],
+    "answer": "HMnO4",
+    "hint": "Permanganic acid.",
+    "solution": "Sodium stannite reduces bismuth hydroxide to finely divided black metallic bismuth.",
+    "page_ref": 46
+  },
+  {
+    "qno": 117,
+    "question_text": "Which radical produces a 'white turbidity' with excess water after being dissolved in aqua regia?",
+    "options": [
+      "Pb2+",
+      "Bi3+",
+      "Cu2+",
+      "Hg2+"
+    ],
+    "answer": "Bi3+",
+    "hint": "Bismuth oxychloride formation.",
+    "solution": "SnS2 is a bright yellow precipitate, unlike the brown SnS.",
+    "page_ref": 37
+  },
+  {
+    "qno": 118,
+    "question_text": "Nickel cyanide dissolves in excess KCN to form which complex?",
+    "options": [
+      "[Ni(CN)4]2-",
+      "[Ni(CN)6]4-",
+      "[Ni(CN)4]3-",
+      "Ni(CN)3"
+    ],
+    "answer": "[Ni(CN)4]2-",
+    "hint": "Tetracyanonickelate(II).",
+    "solution": "The nickel-dimethylglyoxime complex is a characteristic scarlet or rosy-red solid.",
+    "page_ref": 50
+  },
+  {
+    "qno": 119,
+    "question_text": "In the Borax bead test for Nickel, what is the color in the reducing flame?",
+    "options": [
+      "Brown",
+      "Grey",
+      "Green",
+      "Colorless"
+    ],
+    "answer": "Grey",
+    "hint": "Due to metallic nickel.",
+    "solution": "Barium chromate is specifically insoluble in acetic acid, allowing its separation from strontium and calcium.",
+    "page_ref": 50
+  },
+  {
+    "qno": 120,
+    "question_text": "Why is (NH4)2CO3 reagent for Group V added in alkaline or neutral medium?",
+    "options": [
+      "To increase the concentration of CO3(2-)",
+      "To prevent Mg2+ from precipitating",
+      "To dissolve BaCO3",
+      "To prevent NH4+ from escaping"
+    ],
+    "answer": "To prevent Mg2+ from precipitating",
+    "hint": "Magnesium remains in the filtrate if ammonium salts are present.",
+    "solution": "Magnesium ammonium phosphate is a white crystalline solid.",
+    "page_ref": 33
+  },
+  {
+    "qno": 121,
+    "question_text": "Strontium chromate (SrCrO4) solubility is higher than Barium chromate. How is it prevented from precipitating with Barium?",
+    "options": [
+      "By adding HCl",
+      "By adding acetic acid to lower CrO4(2-) concentration",
+      "By boiling",
+      "By adding excess K2CrO4"
+    ],
+    "answer": "By adding acetic acid to lower CrO4(2-) concentration",
+    "hint": "pH control is key.",
+    "solution": "H2S is the reagent used to precipitate sulphides in both acidic (Group 2) and basic (Group 4) conditions.",
+    "page_ref": 52
+  },
+  {
+    "qno": 122,
+    "question_text": "Which Group V radical's confirmatory test involves (NH4)2SO4?",
+    "options": [
+      "Ba2+",
+      "Sr2+",
+      "Ca2+",
+      "Mg2+"
+    ],
+    "answer": "Sr2+",
+    "hint": "Forms a white sulphate.",
+    "solution": "Copper ions react with excess cyanide to form a very stable, colourless tetracyanocuprate(I) complex.",
+    "page_ref": 51
+  },
+  {
+    "qno": 123,
+    "question_text": "What is the formula of 'Magnesium ammonium phosphate'?",
+    "options": [
+      "MgNH4PO4",
+      "Mg3(PO4)2",
+      "Mg(NH4)2PO4",
+      "Mg2P2O7"
+    ],
+    "answer": "MgNH4PO4",
+    "hint": "Crystalline precipitate of Group VI.",
+    "solution": "Ferric ions react with thiocyanate to form the characteristic red complex.",
+    "page_ref": 32
+  },
+  {
+    "qno": 124,
+    "question_text": "What is the result of the Titan yellow test on Barium and Calcium ions?",
+    "options": [
+      "Deep red precipitate",
+      "They do not react but intensify the color",
+      "They form yellow precipitates",
+      "They bleach the color"
+    ],
+    "answer": "They do not react but intensify the color",
+    "hint": "Check the very last line of the document.",
+    "solution": "In a reducing flame, nickel compounds in the borax bead are reduced to grey metallic nickel.",
+    "page_ref": 54
+  },
+  {
+    "qno": 125,
+    "question_text": "Which complex is formed when Nickel ions react with excess KCN?",
+    "options": [
+      "[Ni(CN)4]2-",
+      "[Ni(CN)6]4-",
+      "[Ni(CN)4]3-",
+      "NiCN"
+    ],
+    "answer": "[Ni(CN)4]2-",
+    "hint": "It is a yellow solution.",
+    "solution": "Magnesium remains in solution because its carbonate is more soluble, especially in the presence of ammonium salts.",
+    "page_ref": 50
+  },
+  {
+    "qno": 126,
+    "question_text": "What is the color of bismuth sulphide (Bi2S3)?",
+    "options": [
+      "Yellow",
+      "Black",
+      "Orange",
+      "White"
+    ],
+    "answer": "Black",
+    "hint": "Group IIA sulphide.",
+    "solution": "Ammonium hydroxide in the presence of ammonium chloride precipitates Group 3 cations as hydroxides.",
+    "page_ref": 37
+  },
+  {
+    "qno": 127,
+    "question_text": "Which reagent is used to distinguish between Fe2+ and Fe3+?",
+    "options": [
+      "NH4OH",
+      "K3[Fe(CN)6]",
+      "NaOH",
+      "dil. HCl"
+    ],
+    "answer": "K3[Fe(CN)6]",
+    "hint": "Ferricyanide reacts differently with Ferrous and Ferric ions.",
+    "solution": "Copper(II) ions react with excess ammonia to produce a very deep blue solution.",
+    "page_ref": 42
+  },
+  {
+    "qno": 128,
+    "question_text": "What is the 'Brick red' precipitate in silver analysis?",
+    "options": [
+      "AgCl",
+      "Ag2CrO4",
+      "AgI",
+      "Ag3PO4"
+    ],
+    "answer": "Ag2CrO4",
+    "hint": "Formed with potassium chromate.",
+    "solution": "Lead chloride dissolves in hot water but precipitates upon cooling.",
+    "page_ref": 36
+  },
+  {
+    "qno": 129,
+    "question_text": "What happens if you add excess NH4Cl during the Group III analysis?",
+    "options": [
+      "Nothing",
+      "Mn may be precipitated",
+      "Cr may form a colloidal solution",
+      "Al will dissolve"
+    ],
+    "answer": "Cr may form a colloidal solution",
+    "hint": "Check the note on the bottom of page 10.",
+    "solution": "MnS is a flesh-colored or buff-pink precipitate.",
+    "page_ref": 40
+  },
+  {
+    "qno": 130,
+    "question_text": "Which sulphide in Group 2B is Orange?",
+    "options": [
+      "As2S3",
+      "Sb2S3",
+      "SnS",
+      "SnS2"
+    ],
+    "answer": "Sb2S3",
+    "hint": "Antimony.",
+    "solution": "Ammonium salts react with sodium hydroxide to evolve ammonia, which can be detected by its smell or with Nessler's reagent.",
+    "page_ref": 32
+  },
+  {
+    "qno": 131,
+    "question_text": "Why is Lead chloride separated in hot water?",
+    "options": [
+      "It is insoluble in hot water",
+      "It is soluble in hot water but insoluble in cold",
+      "It reacts with hot water",
+      "Hot water makes it black"
+    ],
+    "answer": "It is soluble in hot water but insoluble in cold",
+    "hint": "Physical property used for separation.",
+    "solution": "Nickel hydroxide does not dissolve in excess sodium hydroxide but reacts with ammonia to form a soluble complex.",
+    "page_ref": 34
+  },
+  {
+    "qno": 132,
+    "question_text": "What is the color of the [Cu(NH3)4]2+ complex?",
+    "options": [
+      "Light blue",
+      "Intense blue",
+      "Green",
+      "Yellow"
+    ],
+    "answer": "Intense blue",
+    "hint": "Ammonia addition to copper.",
+    "solution": "Silver chromate is a characteristic brick-red solid.",
+    "page_ref": 39
+  },
+  {
+    "qno": 133,
+    "question_text": "In the reaction of Mn2+ with NaOH and Br2 water, what is the black precipitate formed?",
+    "options": [
+      "Mn(OH)2",
+      "MnO2",
+      "MnS",
+      "Mn3O4"
+    ],
+    "answer": "MnO2",
+    "hint": "Oxidation of manganese hydroxide.",
+    "solution": "Aluminium hydroxide formed with NH4OH adsorbs coloring matter (like blue litmus) to form a 'lake'.",
+    "page_ref": 46
+  },
+  {
+    "qno": 134,
+    "question_text": "Which of these is NOT a Group IV radical?",
+    "options": [
+      "Zn2+",
+      "Mn2+",
+      "Co2+",
+      "Fe2+"
+    ],
+    "answer": "Fe2+",
+    "hint": "It belongs to Group III (after oxidation).",
+    "solution": "Bismuth hydroxide is a white precipitate formed with ammonium hydroxide.",
+    "page_ref": 32
+  },
+  {
+    "qno": 135,
+    "question_text": "The yellow solution of Na2CrO4 turns orange upon adding acid. Why?",
+    "options": [
+      "Reduction to Cr3+",
+      "Formation of Cr2O7(2-)",
+      "Formation of CrO5",
+      "Precipitation of Cr(OH)3"
+    ],
+    "answer": "Formation of Cr2O7(2-)",
+    "hint": "Dichromate is orange.",
+    "solution": "PbI2 dissolves in boiling water to form a colourless solution.",
+    "page_ref": 44
+  },
+  {
+    "qno": 136,
+    "question_text": "Which reagent is used for the Cobalt thiocyanate test for Mercury?",
+    "options": [
+      "CoCl2 + NH4SCN",
+      "Co(NO3)2 + KCN",
+      "CoSO4 + NaOH",
+      "AgNO3 + SCN-"
+    ],
+    "answer": "CoCl2 + NH4SCN",
+    "hint": "Cobalt(II) and thiocyanate are needed.",
+    "solution": "Nickel cyanide initially precipitates and then dissolves in excess cyanide to form a yellow solution.",
+    "page_ref": 38
+  },
+  {
+    "qno": 137,
+    "question_text": "What color is the precipitate of SnS?",
+    "options": [
+      "Yellow",
+      "Brown",
+      "Black",
+      "White"
+    ],
+    "answer": "Brown",
+    "hint": "Stannous sulphide.",
+    "solution": "Chromium(III) ions form a green gelatinous precipitate with Group 3 reagents.",
+    "page_ref": 37
+  },
+  {
+    "qno": 138,
+    "question_text": "Lead (Pb2+) reacts with H2SO4 to form a white precipitate. This precipitate is soluble in:",
+    "options": [
+      "Dilute HCl",
+      "Hot water",
+      "Ammonium acetate",
+      "Ammonia"
+    ],
+    "answer": "Ammonium acetate",
+    "hint": "Forms a soluble acetate complex.",
+    "solution": "Barium carbonate is a white precipitate formed in Group 5.",
+    "page_ref": 35
+  },
+  {
+    "qno": 139,
+    "question_text": "Which cation gives a 'Gelatinous white' precipitate with NH4OH in the presence of NH4Cl?",
+    "options": [
+      "Fe3+",
+      "Al3+",
+      "Cr3+",
+      "Zn2+"
+    ],
+    "answer": "Al3+",
+    "hint": "Aluminum.",
+    "solution": "Nickel imparts a brown color to the borax bead in an oxidizing flame.",
+    "page_ref": 41
+  },
+  {
+    "qno": 140,
+    "question_text": "What is 'mosaic gold' chemically?",
+    "options": [
+      "SnS",
+      "SnS2",
+      "As2S3",
+      "CdS"
+    ],
+    "answer": "SnS2",
+    "hint": "It's the yellow sulphide of tin.",
+    "solution": "Silver iodide is a bright yellow precipitate that is insoluble in ammonia.",
+    "page_ref": 32
+  },
+  {
+    "qno": 141,
+    "question_text": "In the dry test for Al3+, the blue color is due to which compound?",
+    "options": [
+      "Al2O3",
+      "CoAl2O4",
+      "Co3O4",
+      "NaAlO2"
+    ],
+    "answer": "CoAl2O4",
+    "hint": "Thenard's Blue.",
+    "solution": "H2S reduces ferric ions to ferrous ions in acidic medium.",
+    "page_ref": 41
+  },
+  {
+    "qno": 142,
+    "question_text": "What color is the Ni(dmg)2 precipitate?",
+    "options": [
+      "Blue",
+      "Rosy red",
+      "Green",
+      "Yellow"
+    ],
+    "answer": "Rosy red",
+    "hint": "Nickel-DMG complex.",
+    "solution": "Copper sulphide is a highly insoluble black precipitate.",
+    "page_ref": 48
+  },
+  {
+    "qno": 143,
+    "question_text": "Which ion is tested using the 'Borax bead test' producing a brown bead in oxidizing flame?",
+    "options": [
+      "Co2+",
+      "Ni2+",
+      "Cu2+",
+      "Cr3+"
+    ],
+    "answer": "Ni2+",
+    "hint": "Nickel.",
+    "solution": "Magnesium is precipitated as magnesium ammonium phosphate using this reagent.",
+    "page_ref": 50
+  },
+  {
+    "qno": 144,
+    "question_text": "What happens when excess NH4OH is added to the green Cr(OH)3 precipitate?",
+    "options": [
+      "It turns black",
+      "It dissolves to form a pink/violet solution",
+      "No reaction",
+      "It dissolves to form a yellow solution"
+    ],
+    "answer": "It dissolves to form a pink/violet solution",
+    "hint": "Ammine complex of chromium.",
+    "solution": "Chromium forms a green or grey-green gelatinous hydroxide.",
+    "page_ref": 44
+  },
+  {
+    "qno": 145,
+    "question_text": "In the Group II flowchart, what is used to separate IIA and IIB?",
+    "options": [
+      "dil. HCl",
+      "Yellow Ammonium Sulphide (YAS)",
+      "NaOH",
+      "Hot water"
+    ],
+    "answer": "Yellow Ammonium Sulphide (YAS)",
+    "hint": "Solubility in this reagent is the dividing factor.",
+    "solution": "SnS is a dark brown precipitate.",
+    "page_ref": 37
+  },
+  {
+    "qno": 146,
+    "question_text": "What is the formula for 'Basic Ferric Acetate'?",
+    "options": [
+      "Fe(CH3COO)3",
+      "[Fe3(OH)2(CH3COO)6]+",
+      "Fe(OH)3",
+      "Fe2O3"
+    ],
+    "answer": "[Fe3(OH)2(CH3COO)6]+",
+    "hint": "Check page 13 for the complex cation formula.",
+    "solution": "Thenard's blue is the cobalt aluminate mass formed in the aluminium dry test.",
+    "page_ref": 43
+  },
+  {
+    "qno": 147,
+    "question_text": "What is the result of the reaction between Ag+ and excess KCN?",
+    "options": [
+      "White precipitate of AgCN",
+      "Soluble complex [Ag(CN)2]-",
+      "Silver mirror",
+      "Black Ag2O"
+    ],
+    "answer": "Soluble complex [Ag(CN)2]-",
+    "hint": "Dicyanoargentate(I).",
+    "solution": "Tetramminecopper(II) has an extremely characteristic deep blue color.",
+    "page_ref": 36
+  },
+  {
+    "qno": 148,
+    "question_text": "Which cation's precipitate with NaOH turns from white to brown upon shaking with air?",
+    "options": [
+      "Fe2+",
+      "Mn2+",
+      "Zn2+",
+      "Mg2+"
+    ],
+    "answer": "Mn2+",
+    "hint": "Manganese.",
+    "solution": "Lead chromate is a bright yellow precipitate.",
+    "page_ref": 46
+  },
+  {
+    "qno": 149,
+    "question_text": "What is the color of BaCrO4?",
+    "options": [
+      "White",
+      "Yellow",
+      "Red",
+      "Green"
+    ],
+    "answer": "Yellow",
+    "hint": "Barium chromate color.",
+    "solution": "Potassium ferrocyanide reacts with copper ions to form chocolate-brown copper ferrocyanide.",
+    "page_ref": 51
+  },
+  {
+    "qno": 150,
+    "question_text": "Which acid is used to dissolve the Group V carbonates in the sequence of tests?",
+    "options": [
+      "dil. HCl",
+      "CH3COOH",
+      "dil. HNO3",
+      "conc. H2SO4"
+    ],
+    "answer": "CH3COOH",
+    "hint": "Acetic acid.",
+    "solution": "Nickel gives a brown bead in the oxidizing flame.",
+    "page_ref": 51
+  },
+  {
+    "qno": 151,
+    "question_text": "What is the color of the [Co(SCN)4]2- complex in alcohol?",
+    "options": [
+      "Pink",
+      "Blue",
+      "Yellow",
+      "Green"
+    ],
+    "answer": "Blue",
+    "hint": "Cobalt thiocyanate color in non-aqueous medium.",
+    "solution": "Dimethylglyoxime is the specific reagent for confirming nickel ions.",
+    "page_ref": 45
+  },
+  {
+    "qno": 152,
+    "question_text": "Which radical is confirmed by the formation of 'Prussian blue'?",
+    "options": [
+      "Fe2+",
+      "Fe3+",
+      "Cu2+",
+      "Zn2+"
+    ],
+    "answer": "Fe3+",
+    "hint": "Ferric ion.",
+    "solution": "Strontium sulphate is a white insoluble precipitate.",
+    "page_ref": 42
+  },
+  {
+    "qno": 153,
+    "question_text": "What is the color of the AgCl precipitate?",
+    "options": [
+      "White",
+      "Yellow",
+      "Black",
+      "Red"
+    ],
+    "answer": "White",
+    "hint": "Silver chloride.",
+    "solution": "Ferric ions react with ferrocyanide to form Prussian blue.",
+    "page_ref": 36
+  },
+  {
+    "qno": 154,
+    "question_text": "In the test for Mg2+, what is 'Titan yellow'?",
+    "options": [
+      "A metal salt",
+      "A water soluble yellow dyestuff",
+      "A precipitate",
+      "A gas"
+    ],
+    "answer": "A water soluble yellow dyestuff",
+    "hint": "Definition of the reagent.",
+    "solution": "Mercuric iodide is a scarlet-red precipitate.",
+    "page_ref": 54
+  },
+  {
+    "qno": 155,
+    "question_text": "Which cation forms a white precipitate with K4[Fe(CN)6]?",
+    "options": [
+      "Cu2+",
+      "Zn2+",
+      "Fe3+",
+      "Ni2+"
+    ],
+    "answer": "Zn2+",
+    "hint": "Zinc.",
+    "solution": "Hydrogen sulphide gas is used to precipitate Group 2 cations as sulphides in an acidic solution.",
+    "page_ref": 47
+  },
+  {
+    "qno": 156,
+    "question_text": "What color is stannous sulphide (SnS)?",
+    "options": [
+      "Yellow",
+      "Brown",
+      "Orange",
+      "White"
+    ],
+    "answer": "Brown",
+    "hint": "Tin (II) sulphide.",
+    "solution": "Silver chloride is a white precipitate that turns purple in sunlight.",
+    "page_ref": 37
+  },
+  {
+    "qno": 157,
+    "question_text": "What is the role of NH4Cl in Group 5 precipitation?",
+    "options": [
+      "To increase pH",
+      "To keep Mg2+ in solution",
+      "To dissolve BaCO3",
+      "To oxidise the ions"
+    ],
+    "answer": "To keep Mg2+ in solution",
+    "hint": "Prevents Mg(OH)2 or MgCO3 from falling out early.",
+    "solution": "Magnesium ions form a white crystalline precipitate of magnesium ammonium phosphate.",
+    "page_ref": 33
+  },
+  {
+    "qno": 158,
+    "question_text": "Which gas is evolved in the Zero group test?",
+    "options": [
+      "CO2",
+      "NH3",
+      "H2S",
+      "SO2"
+    ],
+    "answer": "NH3",
+    "hint": "Ammonia.",
+    "solution": "Chromium(III) is oxidized to chromate(VI) in alkaline medium with bromine.",
+    "page_ref": 32
+  },
+  {
+    "qno": 159,
+    "question_text": "What is the color of PbI2?",
+    "options": [
+      "White",
+      "Yellow",
+      "Black",
+      "Orange"
+    ],
+    "answer": "Yellow",
+    "hint": "Lead iodide.",
+    "solution": "Antimony(III) sulphide is a characteristic orange precipitate.",
+    "page_ref": 35
+  },
+  {
+    "qno": 160,
+    "question_text": "What is the reagent for Group 6?",
+    "options": [
+      "(NH4)2CO3",
+      "Na2HPO4",
+      "H2S",
+      "KI"
+    ],
+    "answer": "Na2HPO4",
+    "hint": "Disodium hydrogen phosphate.",
+    "solution": "Sodium bismuthate oxidizes manganese(II) to purple permanganate.",
+    "page_ref": 32
+  },
+  {
+    "qno": 161,
+    "question_text": "Which of these is soluble in excess of its own group reagent (NH4OH in presence of NH4Cl)?",
+    "options": [
+      "Al(OH)3",
+      "Fe(OH)3",
+      "Cr(OH)3",
+      "None of these"
+    ],
+    "answer": "Cr(OH)3",
+    "hint": "It is slightly soluble, forming a pink solution.",
+    "solution": "The hydrolyzed product of ferric acetate is a reddish-brown precipitate.",
+    "page_ref": 44
+  },
+  {
+    "qno": 162,
+    "question_text": "What color is the precipitate of MnS?",
+    "options": [
+      "White",
+      "Buff/Pink",
+      "Black",
+      "Green"
+    ],
+    "answer": "Buff/Pink",
+    "hint": "Manganese sulphide.",
+    "solution": "Most common iodide precipitates like AgI and PbI2 are yellow.",
+    "page_ref": 46
+  },
+  {
+    "qno": 163,
+    "question_text": "What is the formula for 'Turnbull's blue'?",
+    "options": [
+      "Fe4[Fe(CN)6]3",
+      "Fe3[Fe(CN)6]2",
+      "KFe[Fe(CN)6]",
+      "Fe[Fe(CN)6]"
+    ],
+    "answer": "Fe3[Fe(CN)6]2",
+    "hint": "Ferrous ferricyanide.",
+    "solution": "Nickel-DMG complex is rosy-red.",
+    "page_ref": 43
+  },
+  {
+    "qno": 164,
+    "question_text": "Which cation's chromate is yellow and insoluble in acetic acid?",
+    "options": [
+      "Sr2+",
+      "Ba2+",
+      "Ca2+",
+      "Mg2+"
+    ],
+    "answer": "Ba2+",
+    "hint": "Barium.",
+    "solution": "YAS dissolves sulphides of As, Sb, and Sn, separating them from other Group 2 sulphides.",
+    "page_ref": 52
+  },
+  {
+    "qno": 165,
+    "question_text": "What is the group reagent for Group 4?",
+    "options": [
+      "H2S in HCl",
+      "H2S in NH4OH",
+      "dil. HCl",
+      "NaOH"
+    ],
+    "answer": "H2S in NH4OH",
+    "hint": "Basic medium H2S.",
+    "solution": "Silver oxide is a brown precipitate.",
+    "page_ref": 32
+  },
+  {
+    "qno": 166,
+    "question_text": "What is the color of Cu2I2?",
+    "options": [
+      "Brown",
+      "White",
+      "Black",
+      "Blue"
+    ],
+    "answer": "White",
+    "hint": "Copper (I) iodide.",
+    "solution": "SnS is a brown precipitate.",
+    "page_ref": 39
+  },
+  {
+    "qno": 167,
+    "question_text": "Which reagent is used to confirm the presence of NH4+ directly from the salt?",
+    "options": [
+      "HCl",
+      "NaOH",
+      "KI",
+      "K4[Fe(CN)6]"
+    ],
+    "answer": "NaOH",
+    "hint": "Base releases ammonia.",
+    "solution": "Silver chromate is brick-red.",
+    "page_ref": 34
+  },
+  {
+    "qno": 168,
+    "question_text": "What is the color of silver iodide (AgI)?",
+    "options": [
+      "White",
+      "Bright yellow",
+      "Brick red",
+      "Black"
+    ],
+    "answer": "Bright yellow",
+    "hint": "Forms with KI.",
+    "solution": "The iron(III) thiocyanate complex is blood-red.",
+    "page_ref": 36
+  },
+  {
+    "qno": 169,
+    "question_text": "Which of these cations is NOT in Group 1?",
+    "options": [
+      "Ag+",
+      "Pb2+",
+      "Hg2+",
+      "Hg2(2+)"
+    ],
+    "answer": "Hg2+",
+    "hint": "Mercury(II) is in Group 2.",
+    "solution": "Lead sulphate is a white precipitate.",
+    "page_ref": 32
+  },
+  {
+    "qno": 170,
+    "question_text": "What color is the CrO5 complex in ether?",
+    "options": [
+      "Green",
+      "Yellow",
+      "Blue",
+      "Orange"
+    ],
+    "answer": "Blue",
+    "hint": "Acidified H2O2 test.",
+    "solution": "Cr(OH)3 dissolves slightly in excess ammonia to give a pinkish-violet solution.",
+    "page_ref": 44
+  },
+  {
+    "qno": 171,
+    "question_text": "Lead chromate (PbCrO4) is yellow. What color is Silver chromate (Ag2CrO4)?",
+    "options": [
+      "Yellow",
+      "Red",
+      "White",
+      "Green"
+    ],
+    "answer": "Red",
+    "hint": "Chromate colors vary with metals.",
+    "solution": "Zinc sulphide is white.",
+    "page_ref": 36
+  },
+  {
+    "qno": 172,
+    "question_text": "Which group's cations are precipitated as carbonates?",
+    "options": [
+      "Group 1",
+      "Group 3",
+      "Group 5",
+      "Group 6"
+    ],
+    "answer": "Group 5",
+    "hint": "Ba, Sr, Ca.",
+    "solution": "Copper(II) ferrocyanide is chocolate-brown.",
+    "page_ref": 32
+  },
+  {
+    "qno": 173,
+    "question_text": "What color is the precipitate formed by Hg2+ with KI?",
+    "options": [
+      "Red",
+      "White",
+      "Black",
+      "Green"
+    ],
+    "answer": "Red",
+    "hint": "Mercury(II) iodide.",
+    "solution": "Bi(OH)3 is white.",
+    "page_ref": 38
+  },
+  {
+    "qno": 174,
+    "question_text": "Which cation gives a chocolate brown precipitate with K4[Fe(CN)6]?",
+    "options": [
+      "Fe3+",
+      "Cu2+",
+      "Zn2+",
+      "Ni2+"
+    ],
+    "answer": "Cu2+",
+    "hint": "Copper.",
+    "solution": "Heating ammonium salts with base releases ammonia.",
+    "page_ref": 39
+  },
+  {
+    "qno": 175,
+    "question_text": "What color is the precipitate of CoS?",
+    "options": [
+      "White",
+      "Black",
+      "Pink",
+      "Yellow"
+    ],
+    "answer": "Black",
+    "hint": "Cobalt sulphide.",
+    "solution": "Cadmium sulphide is yellow.",
+    "page_ref": 45
+  },
+  {
+    "qno": 176,
+    "question_text": "Which reagent is used to confirm Sr2+ in the presence of Ca2+ in Group 5?",
+    "options": [
+      "K2CrO4",
+      "(NH4)2SO4",
+      "(NH4)2C2O4",
+      "dil. HCl"
+    ],
+    "answer": "(NH4)2SO4",
+    "hint": "Strontium sulphate is more insoluble than calcium sulphate.",
+    "solution": "Silver is a Group 1 cation.",
+    "page_ref": 51
+  },
+  {
+    "qno": 177,
+    "question_text": "What is the color of the [Fe(SCN)]2+ complex?",
+    "options": [
+      "Blood red",
+      "Prussian blue",
+      "Yellow",
+      "Green"
+    ],
+    "answer": "Blood red",
+    "hint": "Iron-thiocyanate complex.",
+    "solution": "Al(OH)3 is gelatinous white.",
+    "page_ref": 43
+  },
+  {
+    "qno": 178,
+    "question_text": "Why is the filtrate of Group 2 boiled with conc. HNO3 before Group 3?",
+    "options": [
+      "To remove Cl- ions",
+      "To oxidise Fe2+ to Fe3+",
+      "To dissolve CdS",
+      "To increase pH"
+    ],
+    "answer": "To oxidise Fe2+ to Fe3+",
+    "hint": "Crucial for iron precipitation.",
+    "solution": "Barium is in Group 5.",
+    "page_ref": 40
+  },
+  {
+    "qno": 179,
+    "question_text": "Which radical forms a white precipitate with NH4OH that is soluble in excess NH4OH?",
+    "options": [
+      "Al3+",
+      "Fe3+",
+      "Zn2+",
+      "Ni2+"
+    ],
+    "answer": "Zn2+",
+    "hint": "Forms a tetraamminezinc(II) complex.",
+    "solution": "Lead chromate is yellow.",
+    "page_ref": 47
+  },
+  {
+    "qno": 180,
+    "question_text": "What color is the precipitate of Sb2S3?",
+    "options": [
+      "Orange",
+      "Yellow",
+      "Black",
+      "Brown"
+    ],
+    "answer": "Orange",
+    "hint": "Antimony sulphide.",
+    "solution": "Iron(III) is a Group 3 cation.",
+    "page_ref": 37
+  },
+  {
+    "qno": 181,
+    "question_text": "Which of these is used in the 'Dry test' for Aluminium?",
+    "options": [
+      "Potassium chromate",
+      "Cobalt nitrate",
+      "Silver nitrate",
+      "Barium chloride"
+    ],
+    "answer": "Cobalt nitrate",
+    "hint": "Thenard's blue test.",
+    "solution": "Hexamminenickel(II) is deep blue.",
+    "page_ref": 41
+  },
+  {
+    "qno": 182,
+    "question_text": "What color is the basic ferric acetate precipitate?",
+    "options": [
+      "Reddish brown",
+      "Blue",
+      "Yellow",
+      "Green"
+    ],
+    "answer": "Reddish brown",
+    "hint": "Formed by boiling ferric acetate solution.",
+    "solution": "Disodium hydrogen phosphate is the Group 6 reagent.",
+    "page_ref": 43
+  },
+  {
+    "qno": 183,
+    "question_text": "Which ion gives a yellow precipitate with Na2HPO4 in neutral solution?",
+    "options": [
+      "Mg2+",
+      "Ag+",
+      "Ba2+",
+      "Pb2+"
+    ],
+    "answer": "Ag+",
+    "hint": "Silver phosphate.",
+    "solution": "AgI is yellow.",
+    "page_ref": 36
+  },
+  {
+    "qno": 184,
+    "question_text": "What happens to the [Ni(CN)4]2- complex when treated with Bromine water and NaOH?",
+    "options": [
+      "Nothing",
+      "It forms a black precipitate of Ni(OH)3",
+      "It turns colorless",
+      "It forms NiS"
+    ],
+    "answer": "It forms a black precipitate of Ni(OH)3",
+    "hint": "Oxidative decomposition of the cyanide complex.",
+    "solution": "SnS2 is yellow.",
+    "page_ref": 50
+  },
+  {
+    "qno": 185,
+    "question_text": "What is the color of bismuth hydroxide Bi(OH)3?",
+    "options": [
+      "White",
+      "Black",
+      "Yellow",
+      "Brown"
+    ],
+    "answer": "White",
+    "hint": "Formed in Group IIA flowchart.",
+    "solution": "BiOCl is white.",
+    "page_ref": 37
+  },
+  {
+    "qno": 186,
+    "question_text": "Which gas is used for Group 2 and Group 4 radicals?",
+    "options": [
+      "CO2",
+      "NH3",
+      "H2S",
+      "Cl2"
+    ],
+    "answer": "H2S",
+    "hint": "Sulphide precipitation.",
+    "solution": "Zinc is a Group 4 cation.",
+    "page_ref": 32
+  },
+  {
+    "qno": 187,
+    "question_text": "What is the color of the precipitate formed by Lead and Potassium Chromate?",
+    "options": [
+      "White",
+      "Yellow",
+      "Red",
+      "Black"
+    ],
+    "answer": "Yellow",
+    "hint": "PbCrO4.",
+    "solution": "MnS is buff or light pink.",
+    "page_ref": 35
+  },
+  {
+    "qno": 188,
+    "question_text": "Which cation's sulphide is soluble in hot dilute HNO3 but NOT in YAS?",
+    "options": [
+      "As3+",
+      "Cu2+",
+      "Sn2+",
+      "Sb3+"
+    ],
+    "answer": "Cu2+",
+    "hint": "Group IIA.",
+    "solution": "Copper(II) ferrocyanide is chocolate-brown.",
+    "page_ref": 39
+  },
+  {
+    "qno": 189,
+    "question_text": "What is the result of the Titan yellow test if Mg2+ is present?",
+    "options": [
+      "Yellow solution",
+      "Deep red precipitate/color",
+      "Blue precipitate",
+      "Colorless solution"
+    ],
+    "answer": "Deep red precipitate/color",
+    "hint": "Adsorption on Mg(OH)2.",
+    "solution": "PbI2 is yellow.",
+    "page_ref": 54
+  },
+  {
+    "qno": 190,
+    "question_text": "Which radical belongs to Group 6?",
+    "options": [
+      "Ca2+",
+      "Mg2+",
+      "Ba2+",
+      "Sr2+"
+    ],
+    "answer": "Mg2+",
+    "hint": "Last one in the scheme.",
+    "solution": "CrO5 gives a blue color in the organic layer.",
+    "page_ref": 32
+  },
+  {
+    "qno": 191,
+    "question_text": "What color is the [Co(NH3)6]2+ complex solution?",
+    "options": [
+      "Blue",
+      "Pink",
+      "Green",
+      "Yellow"
+    ],
+    "answer": "Pink",
+    "hint": "Formed with excess ammonia.",
+    "solution": "Copper belongs to subgroup 2A.",
+    "page_ref": 45
+  },
+  {
+    "qno": 192,
+    "question_text": "What color is stannic sulphide SnS2?",
+    "options": [
+      "Brown",
+      "Yellow",
+      "Orange",
+      "Black"
+    ],
+    "answer": "Yellow",
+    "hint": "Group IIB.",
+    "solution": "The complex is blue.",
+    "page_ref": 37
+  },
+  {
+    "qno": 193,
+    "question_text": "Which reagent is used to confirm the presence of Bismuth by reducing it to black metallic Bi?",
+    "options": [
+      "Na2SnO2 (Sodium stannite)",
+      "KI",
+      "NaOH",
+      "NH4OH"
+    ],
+    "answer": "Na2SnO2 (Sodium stannite)",
+    "hint": "Check the Bismuth part of the Group IIA flowchart.",
+    "solution": "SrCO3 is white.",
+    "page_ref": 37
+  },
+  {
+    "qno": 194,
+    "question_text": "What is the formula for the 'White turbidity' in the Calcium test?",
+    "options": [
+      "CaCO3",
+      "CaC2O4",
+      "Ca(OH)2",
+      "CaSO4"
+    ],
+    "answer": "CaC2O4",
+    "hint": "Ammonium oxalate reagent.",
+    "solution": "Ammonium is a Zero group radical.",
+    "page_ref": 51
+  },
+  {
+    "qno": 195,
+    "question_text": "Which ion gives a yellow precipitate with ammonium molybdate (implied context of As)?",
+    "options": [
+      "Pb2+",
+      "As3+",
+      "Cu2+",
+      "Cd2+"
+    ],
+    "answer": "As3+",
+    "hint": "Commonly used for phosphate and arsenate.",
+    "solution": "Ag2CrO4 is brick-red.",
+    "page_ref": 32
+  },
+  {
+    "qno": 196,
+    "question_text": "What is the color of the Hg2Cl2 precipitate?",
+    "options": [
+      "White",
+      "Black",
+      "Yellow",
+      "Red"
+    ],
+    "answer": "White",
+    "hint": "Calomel.",
+    "solution": "Fe(OH)3 is reddish-brown.",
+    "page_ref": 32
+  },
+  {
+    "qno": 197,
+    "question_text": "Which cation's presence is indicated by a 'Buff' colored sulphide?",
+    "options": [
+      "Zn2+",
+      "Ni2+",
+      "Mn2+",
+      "Co2+"
+    ],
+    "answer": "Mn2+",
+    "hint": "Manganese.",
+    "solution": "Tin belongs to subgroup 2B.",
+    "page_ref": 46
+  },
+  {
+    "qno": 198,
+    "question_text": "What color is the [Ni(NH3)6]2+ complex?",
+    "options": [
+      "Green",
+      "Blue",
+      "Deep blue",
+      "Violet"
+    ],
+    "answer": "Deep blue",
+    "hint": "Nickel hexammine.",
+    "solution": "The precipitate is white.",
+    "page_ref": 49
+  },
+  {
+    "qno": 199,
+    "question_text": "Which reagent is used for Group 3 to suppress the ionisation of NH4OH?",
+    "options": [
+      "NH4Cl",
+      "HCl",
+      "NaCl",
+      "KCl"
+    ],
+    "answer": "NH4Cl",
+    "hint": "Common ion effect reagent.",
+    "solution": "H2S is the source of sulphide ions.",
+    "page_ref": 33
+  },
+  {
+    "qno": 200,
+    "question_text": "What is the color of the Cr(OH)3 precipitate?",
+    "options": [
+      "Reddish brown",
+      "Green",
+      "White",
+      "Yellow"
+    ],
+    "answer": "Green",
+    "hint": "Chromium(III) hydroxide.",
+    "solution": "Cr(OH)3 is green.",
+    "page_ref": 44
+  }
+]
