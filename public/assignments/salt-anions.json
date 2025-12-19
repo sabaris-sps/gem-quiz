@@ -1,0 +1,2802 @@
+[
+  {
+    "qno": 1,
+    "question_text": "What is the primary factor used to divide anions into Class A and Class B in qualitative analysis?",
+    "options": [
+      "Solubility in water",
+      "Formation of volatile products with acids",
+      "Color of their silver salts",
+      "The oxidation state of the central atom"
+    ],
+    "answer": "Formation of volatile products with acids",
+    "hint": "Consider the very first test usually performed in a lab—adding acid to see if a gas is evolved.",
+    "solution": "Anions are divided into two classes based on their tendency to form volatile products (gases) upon reaction with acids.",
+    "page_ref": 2
+  },
+  {
+    "qno": 2,
+    "question_text": "Which of the following reagents is used to identify anions belonging to Class A, Subgroup I?",
+    "options": [
+      "Concentrated H2SO4",
+      "Dilute HCl or Dilute H2SO4",
+      "BaCl2 solution",
+      "AgNO3 solution"
+    ],
+    "answer": "Dilute HCl or Dilute H2SO4",
+    "hint": "Subgroup I contains anions that are less stable and decompose even with a weaker proton donor.",
+    "solution": "Class A Subgroup I anions are identified by their reaction with dilute HCl or dilute H2SO4.",
+    "page_ref": 3
+  },
+  {
+    "qno": 3,
+    "question_text": "Anions that do not form volatile products with acids are categorized under which class?",
+    "options": [
+      "Class A",
+      "Class B",
+      "Group 0",
+      "Class C"
+    ],
+    "answer": "Class B",
+    "hint": "If an anion stays in solution without bubbling out as a gas when acidified, it belongs to this 'reaction-in-solution' class.",
+    "solution": "Class B anions do not form volatile products with acids and are identified by reactions in aqueous solution.",
+    "page_ref": 3
+  },
+  {
+    "qno": 4,
+    "question_text": "Which reagent is specifically used to identify Class A, Subgroup II anions?",
+    "options": [
+      "Dilute HCl",
+      "Dilute H2SO4",
+      "Concentrated H2SO4",
+      "Distilled Water"
+    ],
+    "answer": "Concentrated H2SO4",
+    "hint": "These anions require a stronger acid to force them into a volatile state compared to carbonates or sulphides.",
+    "solution": "Subgroup 2 of Class A requires the stronger, dehydrating environment of concentrated H2SO4.",
+    "page_ref": 3
+  },
+  {
+    "qno": 5,
+    "question_text": "Class B, Subgroup I anions are primarily identified by which observation?",
+    "options": [
+      "Gas evolution",
+      "Precipitate formation",
+      "Redox reaction in solution",
+      "Change in color of the salt"
+    ],
+    "answer": "Precipitate formation",
+    "hint": "Think of the Barium Chloride test for sulphates; does it bubble or form a solid?",
+    "solution": "Class B is further divided; Subgroup I is identified by precipitate formation (like BaSO4).",
+    "page_ref": 3
+  },
+  {
+    "qno": 6,
+    "question_text": "Which of these anions belongs to Class A, Subgroup I and evolves CO2 gas with dilute acid?",
+    "options": [
+      "Cl-",
+      "NO3-",
+      "CO3 2-",
+      "SO4 2-"
+    ],
+    "answer": "CO3 2-",
+    "hint": "Recall which ion comes from the unstable carbonic acid.",
+    "solution": "Carbonate (CO3 2-) reacts with H+ from dilute acids to evolve CO2.",
+    "page_ref": 4
+  },
+  {
+    "qno": 7,
+    "question_text": "When Thiosulphate (S2O3 2-) reacts with dilute acid, what products are formed?",
+    "options": [
+      "Only SO2 gas",
+      "Only H2S gas",
+      "Sulphur (S) and SO2 gas",
+      "Sulphuric acid"
+    ],
+    "answer": "Sulphur (S) and SO2 gas",
+    "hint": "This reaction produces both a pungent gas and a cloudy solid in the test tube.",
+    "solution": "S2O3 2- + H+ -> S + SO2. This results in yellow/white turbidity due to elemental sulphur.",
+    "page_ref": 4
+  },
+  {
+    "qno": 8,
+    "question_text": "Which gas is evolved when Nitrite (NO2-) reacts with dilute acid?",
+    "options": [
+      "NH3",
+      "N2",
+      "NO2",
+      "N2O"
+    ],
+    "answer": "NO2",
+    "hint": "Think of a gas that is reddish-brown and is the immediate product of nitrous acid decomposition.",
+    "solution": "According to the Class A chart, NO2- evolves NO2 gas.",
+    "page_ref": 4
+  },
+  {
+    "qno": 9,
+    "question_text": "Identify the volatile product formed when Fluoride (F-) reacts with concentrated H2SO4.",
+    "options": [
+      "F2",
+      "HF",
+      "SiF4",
+      "OF2"
+    ],
+    "answer": "HF",
+    "hint": "Recall that fluorides form a weak, highly volatile acid when treated with strong acids.",
+    "solution": "F- reacts with conc. H2SO4 to form Hydrogen Fluoride (HF).",
+    "page_ref": 4
+  },
+  {
+    "qno": 10,
+    "question_text": "Oxalate ion (C2O4 2-) reacts with concentrated H2SO4 to produce which gas(es)?",
+    "options": [
+      "CO only",
+      "CO2 only",
+      "CO + CO2",
+      "O2"
+    ],
+    "answer": "CO + CO2",
+    "hint": "Decomposition of this organic ion involves the removal of H2O, leaving behind two different oxides of carbon.",
+    "solution": "C2O4 2- + conc. H2SO4 (acting as a dehydrating agent) yields a mixture of CO and CO2.",
+    "page_ref": 4
+  },
+  {
+    "qno": 11,
+    "question_text": "Which of the following anions belongs to Class B, Subgroup II?",
+    "options": [
+      "SO4 2-",
+      "PO4 3-",
+      "MnO4 -",
+      "AsO3 3-"
+    ],
+    "answer": "MnO4 -",
+    "hint": "Subgroup II of Class B involves species that are strong oxidizers and change color during redox reactions.",
+    "solution": "MnO4-, CrO4 2-, and Cr2O7 2- are in Class B Subgroup II.",
+    "page_ref": 5
+  },
+  {
+    "qno": 12,
+    "question_text": "What are the characteristics of the gas evolved from Carbonate ions on treatment with acid?",
+    "options": [
+      "Colorless, pungent smell",
+      "Brown color, odorless",
+      "Colorless, odorless, turns lime water milky",
+      "Rotten egg smell"
+    ],
+    "answer": "Colorless, odorless, turns lime water milky",
+    "hint": "Think about the primary gas produced in respiration and its classic test.",
+    "solution": "CO2 is odorless, colorless, and evolves with brisk effervescence, turning lime water milky.",
+    "page_ref": 5
+  },
+  {
+    "qno": 13,
+    "question_text": "Sulphite ions (SO3 2-) evolve a gas with a pungent smell similar to:",
+    "options": [
+      "Rotten eggs",
+      "Burning sulphur",
+      "Vinegar",
+      "Ammonia"
+    ],
+    "answer": "Burning sulphur",
+    "hint": "Sulphur dioxide gas has a very sharp, choking smell found near volcanoes or burning matches.",
+    "solution": "SO2 gas is evolved with a pungent smell like burning sulphur.",
+    "page_ref": 6
+  },
+  {
+    "qno": 14,
+    "question_text": "What is the color change observed when SO2 gas is passed through acidified potassium dichromate solution?",
+    "options": [
+      "Green to Orange",
+      "Colorless to Blue",
+      "Orange to Green",
+      "Pink to Colorless"
+    ],
+    "answer": "Orange to Green",
+    "hint": "Consider the reduction of Chromium from +6 to +3 in an acidic environment.",
+    "solution": "SO2 reduces the orange Cr2O7 2- to green Cr 3+ ions.",
+    "page_ref": 6
+  },
+  {
+    "qno": 15,
+    "question_text": "H2S gas is characterized by which of the following?",
+    "options": [
+      "Fishy smell",
+      "Vinegar smell",
+      "Rotten egg smell",
+      "Sweet smell"
+    ],
+    "answer": "Rotten egg smell",
+    "hint": "This smell is often associated with biological decay or swamp gas.",
+    "solution": "H2S is a colorless gas with a highly distinctive rotten egg smell.",
+    "page_ref": 6
+  },
+  {
+    "qno": 16,
+    "question_text": "Which test paper is turned black by H2S gas?",
+    "options": [
+      "Starch paper",
+      "Lead acetate paper",
+      "Litmus paper",
+      "Filter paper soaked in KI"
+    ],
+    "answer": "Lead acetate paper",
+    "hint": "Think about the formation of a black metal sulphide like PbS.",
+    "solution": "H2S gas reacts with lead acetate to form black lead sulphide (PbS).",
+    "page_ref": 6
+  },
+  {
+    "qno": 17,
+    "question_text": "NO2 gas evolved from Nitrites turns acidified KI solution containing starch to which color?",
+    "options": [
+      "Red",
+      "Green",
+      "Blue",
+      "Yellow"
+    ],
+    "answer": "Blue",
+    "hint": "Think of the color produced when starch meets liberated iodine.",
+    "solution": "NO2 gas oxidizes KI to I2, which then forms a blue complex with starch.",
+    "page_ref": 6
+  },
+  {
+    "qno": 18,
+    "question_text": "Which anion evolves colorless fumes with a vinegar smell when treated with acid?",
+    "options": [
+      "CH3COO-",
+      "Cl-",
+      "NO2-",
+      "S2-"
+    ],
+    "answer": "CH3COO-",
+    "hint": "Vinegar is essentially a dilute version of this ion's parent acid.",
+    "solution": "Acetate (CH3COO-) evolves acetic acid (CH3COOH) which has the smell of vinegar.",
+    "page_ref": 7
+  },
+  {
+    "qno": 19,
+    "question_text": "When a glass rod dipped in NH4OH is brought near the mouth of a test tube evolving HCl gas, what is observed?",
+    "options": [
+      "No change",
+      "Dense white fumes",
+      "Brown fumes",
+      "Yellow precipitate"
+    ],
+    "answer": "Dense white fumes",
+    "hint": "Recall the reaction between an acid gas and a base gas to form a solid salt in the air.",
+    "solution": "HCl reacts with NH3 (from NH4OH) to form fine solid particles of NH4Cl (dense white fumes).",
+    "page_ref": 7
+  },
+  {
+    "qno": 20,
+    "question_text": "Bromine (Br2) gas evolved from Bromides is characterized by:",
+    "options": [
+      "Violet color",
+      "Reddish brown fumes",
+      "Colorless pungent fumes",
+      "Greenish yellow gas"
+    ],
+    "answer": "Reddish brown fumes",
+    "hint": "This element is a liquid at room temperature but its vapours share a color with Nitrogen Dioxide.",
+    "solution": "Bromine (Br2) is evolved as reddish-brown fumes.",
+    "page_ref": 7
+  },
+  {
+    "qno": 21,
+    "question_text": "What is the color of the gas evolved from Iodides (I-) upon reaction with concentrated H2SO4?",
+    "options": [
+      "Brown",
+      "Violet",
+      "Colorless",
+      "Green"
+    ],
+    "answer": "Violet",
+    "hint": "Think of the color of pure iodine crystals when they sublimate.",
+    "solution": "Iodine (I2) is evolved as a beautiful violet gas.",
+    "page_ref": 7
+  },
+  {
+    "qno": 22,
+    "question_text": "Which of the following evolved products burns with a blue flame?",
+    "options": [
+      "H2S",
+      "NO2",
+      "CO + CO2",
+      "HCl"
+    ],
+    "answer": "CO + CO2",
+    "hint": "Consider the presence of Carbon Monoxide, a known flammable gas that burns blue.",
+    "solution": "The mixture of CO and CO2 from oxalates contains CO, which burns with a characteristic blue flame.",
+    "page_ref": 8
+  },
+  {
+    "qno": 23,
+    "question_text": "How can you distinguish between reddish brown fumes of Br2 and NO2 using an aqueous solution?",
+    "options": [
+      "Br2 imparts brown color to the solution, NO2 does not",
+      "NO2 imparts brown color, Br2 does not",
+      "Both impart brown color",
+      "Neither imparts color"
+    ],
+    "answer": "Br2 imparts brown color to the solution, NO2 does not",
+    "hint": "Bromine is a halogen that dissolves in water to form 'bromine water', whereas NO2 dissolves to form colorless acids.",
+    "solution": "Brown fumes of Br2 impart a brown color when dissolved in water; NO2 does not.",
+    "page_ref": 8
+  },
+  {
+    "qno": 24,
+    "question_text": "Which of the following anions CANNOT be detected using Soda Extract solution?",
+    "options": [
+      "Cl-",
+      "SO4 2-",
+      "CO3 2- and HCO3-",
+      "NO3-"
+    ],
+    "answer": "CO3 2- and HCO3-",
+    "hint": "Consider the chemical composition of Soda Extract (Sodium Carbonate) itself.",
+    "solution": "Soda extract contains Na2CO3, making it impossible to distinguish added carbonate/bicarbonate from the reagent.",
+    "page_ref": 9
+  },
+  {
+    "qno": 25,
+    "question_text": "Which cation is NOT identified by its original solution according to the notes?",
+    "options": [
+      "Pb2+",
+      "Cu2+",
+      "NH4+",
+      "Fe3+"
+    ],
+    "answer": "NH4+",
+    "hint": "Think of the only common cation that behaves like an alkali metal but is actually a group of non-metals.",
+    "solution": "NH4+ is the exception; it is typically identified using NaOH rather than the original solution tests.",
+    "page_ref": 9
+  },
+  {
+    "qno": 26,
+    "question_text": "Regarding Group I Carbonate salts, which statement is true about their solubility?",
+    "options": [
+      "All are insoluble",
+      "All are soluble",
+      "All are soluble except Li2CO3 which is sparingly soluble",
+      "Only Na2CO3 is soluble"
+    ],
+    "answer": "All are soluble except Li2CO3 which is sparingly soluble",
+    "hint": "Alkali metals usually form soluble salts, but the smallest member of the group often shows anomalies.",
+    "solution": "Most alkali metal carbonates are soluble, but Lithium Carbonate (Li2CO3) is only sparingly soluble.",
+    "page_ref": 9
+  },
+  {
+    "qno": 27,
+    "question_text": "Which of the following sulphites are water soluble?",
+    "options": [
+      "All sulphites",
+      "Only alkali metal and ammonium sulphites",
+      "Only BaSO3",
+      "None"
+    ],
+    "answer": "Only alkali metal and ammonium sulphites",
+    "hint": "Sulphites share solubility trends with carbonates—the most ionic ones dissolve best.",
+    "solution": "Only the sulphites of alkali metals and ammonium are water soluble.",
+    "page_ref": 10
+  },
+  {
+    "qno": 28,
+    "question_text": "According to the solubility chart, which nitrite is notably sparingly soluble in water?",
+    "options": [
+      "KNO3",
+      "NaNO3",
+      "AgNO2",
+      "Ba(NO3)2"
+    ],
+    "answer": "AgNO2",
+    "hint": "Recall that Silver salts are often insoluble or have limited solubility unless they are nitrates.",
+    "solution": "While most nitrites are soluble, AgNO2 is an exception and is only sparingly soluble.",
+    "page_ref": 10
+  },
+  {
+    "qno": 29,
+    "question_text": "Which halide is sparingly soluble in cold water but readily soluble in boiling water?",
+    "options": [
+      "AgCl",
+      "PbCl2",
+      "Hg2Cl2",
+      "CuCl"
+    ],
+    "answer": "PbCl2",
+    "hint": "This is the classic test used to separate the first group of cations in qualitative analysis.",
+    "solution": "Lead chloride (PbCl2) solubility increases significantly with temperature.",
+    "page_ref": 10
+  },
+  {
+    "qno": 30,
+    "question_text": "Which iodide is notably soluble in water?",
+    "options": [
+      "AgI",
+      "KI",
+      "PbI2",
+      "CuI"
+    ],
+    "answer": "KI",
+    "hint": "Think of common laboratory stock solutions for Iodide ions.",
+    "solution": "Potassium Iodide (KI) is highly soluble; AgI, PbI2, and CuI are classic insoluble precipitates.",
+    "page_ref": 10
+  },
+  {
+    "qno": 31,
+    "question_text": "In the Lime water test for Carbonates, what happens on prolonged passage of CO2 gas?",
+    "options": [
+      "Milkiness increases",
+      "Milkiness disappears",
+      "A red precipitate forms",
+      "The solution turns blue"
+    ],
+    "answer": "Milkiness disappears",
+    "hint": "Excess CO2 converts the insoluble carbonate into a soluble hydrogen carbonate.",
+    "solution": "CaCO3 + CO2 + H2O -> Ca(HCO3)2 (which is soluble and colorless).",
+    "page_ref": 11
+  },
+  {
+    "qno": 32,
+    "question_text": "Which salt gives a white precipitate with Magnesium sulphate (MgSO4) in the cold?",
+    "options": [
+      "Bicarbonate",
+      "Carbonate",
+      "Sulphate",
+      "Chloride"
+    ],
+    "answer": "Carbonate",
+    "hint": "Bicarbonates are generally more soluble and require heat to decompose into the insoluble carbonate.",
+    "solution": "Carbonates precipitate MgCO3 in the cold; bicarbonates do not precipitate unless heated.",
+    "page_ref": 11
+  },
+  {
+    "qno": 33,
+    "question_text": "What is the color of the precipitate formed when Carbonate reacts with Mercury(II) chloride?",
+    "options": [
+      "White",
+      "Yellow",
+      "Reddish-brown",
+      "Black"
+    ],
+    "answer": "Reddish-brown",
+    "hint": "Mercury(II) often forms colored basic salts with carbonates.",
+    "solution": "A reddish-brown precipitate of basic mercury(II) carbonate is formed.",
+    "page_ref": 11
+  },
+  {
+    "qno": 34,
+    "question_text": "Which of the following carbonates does NOT decompose on heating into an oxide and CO2?",
+    "options": [
+      "Li2CO3",
+      "CaCO3",
+      "Na2CO3",
+      "MgCO3"
+    ],
+    "answer": "Na2CO3",
+    "hint": "The carbonates of the most electropositive Group I metals (except Li) are thermally stable.",
+    "solution": "Carbonates of Na, K, Rb, and Cs are stable and do not decompose on heating.",
+    "page_ref": 11
+  },
+  {
+    "qno": 35,
+    "question_text": "Which gas also turns lime water milky, similar to CO2?",
+    "options": [
+      "H2S",
+      "SO2",
+      "NO2",
+      "NH3"
+    ],
+    "answer": "SO2",
+    "hint": "Think of another oxide that forms an insoluble salt with Calcium.",
+    "solution": "SO2 forms Calcium Sulphite, which is also white and insoluble, causing milkiness.",
+    "page_ref": 11
+  },
+  {
+    "qno": 36,
+    "question_text": "The Sodium nitroprusside test for Sulphide ions results in which specific coloration?",
+    "options": [
+      "Green",
+      "Purple",
+      "Yellow",
+      "Blue"
+    ],
+    "answer": "Purple",
+    "hint": "This test involves the formation of a complex with a color similar to dark grapes or potassium permanganate.",
+    "solution": "Sulphide reacts with sodium nitroprusside to give a distinct purple coloration.",
+    "page_ref": 12
+  },
+  {
+    "qno": 37,
+    "question_text": "Cadmium carbonate suspension turns into which color in the presence of H2S?",
+    "options": [
+      "Black",
+      "White",
+      "Yellow",
+      "Orange"
+    ],
+    "answer": "Yellow",
+    "hint": "Think of the color of the toxic pigment 'Cadmium Yellow'.",
+    "solution": "H2S reacts with Cadmium to form Cadmium Sulphide (CdS), which is yellow.",
+    "page_ref": 12
+  },
+  {
+    "qno": 38,
+    "question_text": "Which sensitive test for soluble sulphides involves the formation of a blue dyestuff?",
+    "options": [
+      "Brown ring test",
+      "Methylene blue test",
+      "Chromyl chloride test",
+      "Baryta water test"
+    ],
+    "answer": "Methylene blue test",
+    "hint": "The name of the test itself contains the color of the final product.",
+    "solution": "The Methylene blue test is a sensitive specific test for detecting soluble sulphides.",
+    "page_ref": 12
+  },
+  {
+    "qno": 39,
+    "question_text": "What transient color is produced when dilute acid is added to a solid Nitrite in the cold?",
+    "options": [
+      "Pale pink",
+      "Pale blue",
+      "Brown",
+      "Yellow"
+    ],
+    "answer": "Pale blue",
+    "hint": "This is due to the presence of N2O3 (dinitrogen trioxide) which exists as a liquid of this color at low temperatures.",
+    "solution": "Dilute acid and solid nitrite in the cold produce a transient pale blue liquid.",
+    "page_ref": 13
+  },
+  {
+    "qno": 40,
+    "question_text": "The addition of a nitrite solution to KI and starch in the presence of acid produces:",
+    "options": [
+      "No color",
+      "Red color",
+      "Blue color",
+      "Yellow precipitate"
+    ],
+    "answer": "Blue color",
+    "hint": "Nitrite acts as an oxidizing agent here, liberating iodine from the iodide.",
+    "solution": "Nitrite oxidizes Iodide to Iodine; Iodine turns starch blue.",
+    "page_ref": 13
+  },
+  {
+    "qno": 41,
+    "question_text": "In the Brown Ring test for Nitrite, the color is due to the formation of which complex?",
+    "options": [
+      "[Fe(H2O)6] 2+",
+      "[Fe(H2O)5NO]SO4",
+      "Fe4[Fe(CN)6]3",
+      "Na2[Fe(CN)5NO]"
+    ],
+    "answer": "[Fe(H2O)5NO]SO4",
+    "hint": "This complex contains a Nitrosyl (NO) group bonded to an Iron atom.",
+    "solution": "The brown color is specifically due to the formation of the nitrosyl complex [Fe(H2O)5NO]SO4.",
+    "page_ref": 13
+  },
+  {
+    "qno": 42,
+    "question_text": "Which test for Nitrites involves the formation of a 'blood red coloration'?",
+    "options": [
+      "Methylene blue test",
+      "Thiourea test",
+      "Starch iodide test",
+      "Silver nitrate test"
+    ],
+    "answer": "Thiourea test",
+    "hint": "The color is due to the formation of Ferric Thiocyanate (Fe(SCN)3).",
+    "solution": "In the Thiourea test, nitrous acid reacts to eventually form HSCN, which gives a blood red color with FeCl3.",
+    "page_ref": 13
+  },
+  {
+    "qno": 43,
+    "question_text": "What happens to the pink color of KMnO4 solution when treated with an acidified nitrite solution?",
+    "options": [
+      "Turns green",
+      "Turns blue",
+      "Decolourized",
+      "Remains pink"
+    ],
+    "answer": "Decolourized",
+    "hint": "Nitrite is a reducing agent that converts purple Mn(VII) into colorless Mn(II).",
+    "solution": "Acidified KMnO4 is decolourised as it is reduced by the nitrite ions.",
+    "page_ref": 13
+  },
+  {
+    "qno": 44,
+    "question_text": "Which of the following is NOT an observation when Chloride (Cl-) is treated with concentrated H2SO4?",
+    "options": [
+      "Colorless pungent gas (HCl)",
+      "Dense white fumes with NH4OH",
+      "Evolution of greenish-yellow Cl2 gas (with MnO2)",
+      "Evolution of violet vapours"
+    ],
+    "answer": "Evolution of violet vapours",
+    "hint": "Violet vapours are characteristic of Iodine, which is heavier and more easily oxidized than Chlorine.",
+    "solution": "Chlorides produce HCl or Cl2; they do not produce violet vapours (that's Iodide).",
+    "page_ref": 14
+  },
+  {
+    "qno": 45,
+    "question_text": "In the Chromyl Chloride test, what is the color of the vapours formed?",
+    "options": [
+      "Violet",
+      "Deep red",
+      "Green",
+      "Yellow"
+    ],
+    "answer": "Deep red",
+    "hint": "Chromyl Chloride (CrO2Cl2) has a color similar to a dark red ink or concentrated dichromate.",
+    "solution": "Chromyl chloride gas is characterized by its deep red vapours.",
+    "page_ref": 14
+  },
+  {
+    "qno": 46,
+    "question_text": "When deep red vapours from the chromyl chloride test are passed into NaOH solution, what color solution is formed?",
+    "options": [
+      "Yellow solution",
+      "Red solution",
+      "Green solution",
+      "Colorless solution"
+    ],
+    "answer": "Yellow solution",
+    "hint": "Chromate ions (CrO4 2-) in basic solution have this characteristic sunny color.",
+    "solution": "CrO2Cl2 reacts with NaOH to form sodium chromate (Na2CrO4), which is yellow.",
+    "page_ref": 14
+  },
+  {
+    "qno": 47,
+    "question_text": "Which of the following chlorides do NOT respond to the Chromyl Chloride test?",
+    "options": [
+      "NaCl",
+      "KCl",
+      "Hg2Cl2, HgCl2, SnCl2",
+      "CaCl2"
+    ],
+    "answer": "Hg2Cl2, HgCl2, SnCl2",
+    "hint": "The test fails for metal chlorides that are highly covalent and do not release Cl- ions easily.",
+    "solution": "Heavy metal chlorides like Hg and Sn chlorides do not respond due to their covalent character.",
+    "page_ref": 14
+  },
+  {
+    "qno": 48,
+    "question_text": "Bromide (Br-) ions react with concentrated H2SO4 to first form a:",
+    "options": [
+      "Colorless gas only",
+      "Reddish-brown solution",
+      "Violet gas",
+      "Yellow precipitate"
+    ],
+    "answer": "Reddish-brown solution",
+    "hint": "Unlike Chloride, Bromide is oxidized by concentrated H2SO4, releasing the halogen into the liquid phase.",
+    "solution": "The reaction produces Br2 which dissolves in the acid mixture, creating a reddish-brown solution.",
+    "page_ref": 15
+  },
+  {
+    "qno": 49,
+    "question_text": "What is the color of the precipitate formed when Bromide reacts with Silver Nitrate?",
+    "options": [
+      "White",
+      "Pale yellow",
+      "Bright yellow",
+      "Black"
+    ],
+    "answer": "Pale yellow",
+    "hint": "Consider the trend: Chloride is white, Bromide is slightly colored, and Iodide is deeply colored.",
+    "solution": "Silver bromide (AgBr) is a pale yellow (creamy) precipitate.",
+    "page_ref": 15
+  },
+  {
+    "qno": 50,
+    "question_text": "Which statement about Silver Bromide (AgBr) precipitate solubility is correct?",
+    "options": [
+      "Completely soluble in dilute ammonia",
+      "Partially soluble in dilute ammonia, but readily in concentrated",
+      "Completely insoluble in ammonia",
+      "Soluble in dilute HCl"
+    ],
+    "answer": "Partially soluble in dilute ammonia, but readily in concentrated",
+    "hint": "AgBr is moderately soluble; it requires a higher concentration of the complexing agent (NH3) to dissolve than AgCl.",
+    "solution": "AgBr is only partially soluble in dilute ammonia but dissolves easily in concentrated ammonia.",
+    "page_ref": 15
+  },
+  {
+    "qno": 51,
+    "question_text": "In the chlorine water test for Bromide, what color does the organic layer turn?",
+    "options": [
+      "Violet",
+      "Yellow",
+      "Reddish brown",
+      "Green"
+    ],
+    "answer": "Reddish brown",
+    "hint": "Free bromine element dissolved in organic solvents maintains its characteristic rusty color.",
+    "solution": "Liberated Br2 dissolves in the organic layer to give a reddish-brown color.",
+    "page_ref": 15
+  },
+  {
+    "qno": 52,
+    "question_text": "Iodide (I-) ions react with concentrated H2SO4 to evolve:",
+    "options": [
+      "HCl gas",
+      "H2S gas",
+      "Pungent smelling violet vapours",
+      "Reddish brown vapours"
+    ],
+    "answer": "Pungent smelling violet vapours",
+    "hint": "Iodide is the easiest halide to oxidize; it releases its elemental form which turns into gas upon heating.",
+    "solution": "Iodine (I2) vapours are violet and have a pungent smell.",
+    "page_ref": 16
+  },
+  {
+    "qno": 53,
+    "question_text": "The addition of Chlorine water to an Iodide solution (layer test) turns the organic layer:",
+    "options": [
+      "Reddish brown",
+      "Violet",
+      "Blue",
+      "Orange"
+    ],
+    "answer": "Violet",
+    "hint": "Consider the color of elemental iodine in non-polar solvents like CCl4 or CHCl3.",
+    "solution": "I2 dissolves in non-polar organic solvents to give a beautiful violet color.",
+    "page_ref": 16
+  },
+  {
+    "qno": 54,
+    "question_text": "What color are the 'spangles' formed when Lead acetate is added to a hot iodide solution and then cooled?",
+    "options": [
+      "Silver",
+      "Golden yellow",
+      "Red",
+      "White"
+    ],
+    "answer": "Golden yellow",
+    "hint": "This is often called the 'Golden Rain' experiment due to the glittering appearance of the crystals.",
+    "solution": "Lead iodide (PbI2) forms glittering golden-yellow plates (spangles) upon slow cooling.",
+    "page_ref": 16
+  },
+  {
+    "qno": 55,
+    "question_text": "Which Silver halide is 'completely insoluble' in ammonia solution?",
+    "options": [
+      "AgCl",
+      "AgBr",
+      "AgI",
+      "None of these"
+    ],
+    "answer": "AgI",
+    "hint": "As you go down the halogen group, the silver salt becomes more covalent and harder to dissolve with ammonia.",
+    "solution": "AgI is insoluble in both dilute and concentrated ammonia.",
+    "page_ref": 16
+  },
+  {
+    "qno": 56,
+    "question_text": "Sulphate (SO4 2-) ions give a white precipitate with Barium chloride that is:",
+    "options": [
+      "Soluble in dilute HCl",
+      "Insoluble in warm dilute HNO3 and HCl",
+      "Soluble in acetic acid",
+      "Soluble in ammonia"
+    ],
+    "answer": "Insoluble in warm dilute HNO3 and HCl",
+    "hint": "This is a key diagnostic test—very few white precipitates remain solid in strong mineral acids.",
+    "solution": "BaSO4 is highly insoluble and does not dissolve in dilute acids.",
+    "page_ref": 17
+  },
+  {
+    "qno": 57,
+    "question_text": "Which test for Sulphate involves a wooden splinter and sodium nitroprusside?",
+    "options": [
+      "Match stick test",
+      "Brown ring test",
+      "Flame test",
+      "Silver nitrate test"
+    ],
+    "answer": "Match stick test",
+    "hint": "Think about reducing the sulphate with carbon on a tiny piece of wood.",
+    "solution": "The Match stick test involves reducing sulphate to sulphide and then testing for the sulphide.",
+    "page_ref": 17
+  },
+  {
+    "qno": 58,
+    "question_text": "What is the product of the reaction between Silver nitrate and Sulphate ions?",
+    "options": [
+      "No precipitate",
+      "Ag2SO4 white precipitate",
+      "Ag2S black precipitate",
+      "AgCl white precipitate"
+    ],
+    "answer": "Ag2SO4 white precipitate",
+    "hint": "Silver sulphate is a white solid that only forms in relatively concentrated solutions.",
+    "solution": "Silver nitrate gives a white precipitate of Ag2SO4 with sulphate ions.",
+    "page_ref": 17
+  },
+  {
+    "qno": 59,
+    "question_text": "Reddish brown NO2 evolution from Nitrates is intensified by the addition of:",
+    "options": [
+      "Water",
+      "Copper turnings",
+      "Silver nitrate",
+      "Lead acetate"
+    ],
+    "answer": "Copper turnings",
+    "hint": "The metal acts as a reducing agent, converting more of the acid into gas.",
+    "solution": "Copper reduces nitric acid to produce more NO2 gas, darkening the fumes.",
+    "page_ref": 18
+  },
+  {
+    "qno": 60,
+    "question_text": "In the Brown Ring test for Nitrate, which of the following interferes?",
+    "options": [
+      "Chloride",
+      "Nitrite",
+      "Sulphate",
+      "Phosphate"
+    ],
+    "answer": "Nitrite",
+    "hint": "This ion gives a similar test because it also produces NO when acidified.",
+    "solution": "Nitrite must be removed first because it also forms a brown ring with FeSO4/acid.",
+    "page_ref": 18
+  },
+  {
+    "qno": 61,
+    "question_text": "The Diphenyl amine test for Nitrates results in which observation?",
+    "options": [
+      "Red ring",
+      "Blue ring",
+      "Green solution",
+      "White fumes"
+    ],
+    "answer": "Blue ring",
+    "hint": "Diphenylamine is oxidized to a deeply colored blue-violet product by Nitrates.",
+    "solution": "A blue ring is formed at the junction in the diphenylamine test for nitrates.",
+    "page_ref": 18
+  },
+  {
+    "qno": 62,
+    "question_text": "Which gas develops a blue-black color on starch-iodide paper 'immediately'?",
+    "options": [
+      "Br2",
+      "NO2",
+      "Both",
+      "Neither"
+    ],
+    "answer": "NO2",
+    "hint": "Nitrogen Dioxide is a more powerful and rapid oxidizer than Bromine vapour.",
+    "solution": "NO2 oxidizes iodide instantly, turning starch blue-black immediately.",
+    "page_ref": 18
+  },
+  {
+    "qno": 63,
+    "question_text": "What happens when Bromine gas is brought into contact with starch paper?",
+    "options": [
+      "Turns blue-black",
+      "Develops orange-red spots",
+      "Turns green",
+      "Turns black"
+    ],
+    "answer": "Develops orange-red spots",
+    "hint": "This color reflects the physical color of the halogen itself when adsorbed.",
+    "solution": "Bromine develops characteristic orange-red colour spots on starch paper.",
+    "page_ref": 18
+  },
+  {
+    "qno": 64,
+    "question_text": "Which anion is identified by 'redox reaction in aqueous solution' in Class B?",
+    "options": [
+      "SO4 2-",
+      "PO4 3-",
+      "Cr2O7 2-",
+      "AsO4 3-"
+    ],
+    "answer": "Cr2O7 2-",
+    "hint": "Look for an anion that is already a colored oxidizing agent.",
+    "solution": "Chromate and Dichromate are identified through redox changes in solution.",
+    "page_ref": 5
+  },
+  {
+    "qno": 65,
+    "question_text": "A gas that turns lime water milky but does NOT affect acidified potassium dichromate is:",
+    "options": [
+      "SO2",
+      "CO2",
+      "NO2",
+      "HCl"
+    ],
+    "answer": "CO2",
+    "hint": "Only the reducing gas will change the color of the orange dichromate.",
+    "solution": "CO2 is not a reducing agent and won't affect K2Cr2O7, unlike SO2.",
+    "page_ref": 5
+  },
+  {
+    "qno": 66,
+    "question_text": "What is the result of adding MnO2 to the concentrated H2SO4 test for Bromide?",
+    "options": [
+      "Dense white fumes",
+      "Dense reddish brown fumes",
+      "Violet vapours",
+      "No change"
+    ],
+    "answer": "Dense reddish brown fumes",
+    "hint": "MnO2 helps oxidize the halide into the elemental halogen gas.",
+    "solution": "MnO2 forces the oxidation of Br- into dense Br2 fumes.",
+    "page_ref": 15
+  },
+  {
+    "qno": 67,
+    "question_text": "Which of the following is NOT a Class B Subgroup I anion?",
+    "options": [
+      "SO4 2-",
+      "PO4 3-",
+      "MnO4 -",
+      "AsO3 3-"
+    ],
+    "answer": "MnO4 -",
+    "hint": "Class B Subgroup I anions are identified by precipitation, not redox.",
+    "solution": "Permanganate is a Class B Subgroup II anion because it is identified by redox reactions.",
+    "page_ref": 5
+  },
+  {
+    "qno": 68,
+    "question_text": "Bicarbonates give a white precipitate with MgSO4 only upon:",
+    "options": [
+      "Cooling",
+      "Heating",
+      "Adding NaOH",
+      "Adding HCl"
+    ],
+    "answer": "Heating",
+    "hint": "Think about how hard water (containing bicarbonates) forms 'scale' when boiled.",
+    "solution": "Heating converts soluble bicarbonate to insoluble carbonate, forming MgCO3.",
+    "page_ref": 11
+  },
+  {
+    "qno": 69,
+    "question_text": "The decomposition of Ag2CO3 by heat results in:",
+    "options": [
+      "Ag2O + CO2",
+      "2Ag + CO2 + 1/2 O2",
+      "Ag + CO",
+      "Ag2C2 + O2"
+    ],
+    "answer": "2Ag + CO2 + 1/2 O2",
+    "hint": "Silver oxide is unstable at high temperatures and further breaks down into the metal.",
+    "solution": "Silver carbonate first forms Ag2O, which then decomposes into metallic silver and oxygen.",
+    "page_ref": 11
+  },
+  {
+    "qno": 70,
+    "question_text": "Carbonate reacts with Silver Nitrate to form a white precipitate that turns black upon boiling because of:",
+    "options": [
+      "Impurity",
+      "Formation of Silver Oxide",
+      "Reduction to metallic silver",
+      "Formation of Silver Sulphide"
+    ],
+    "answer": "Formation of Silver Oxide",
+    "hint": "Think about the transition from white carbonate to a darker oxide state with heat.",
+    "solution": "Ag2CO3 decomposes into brown/black Ag2O upon boiling in water.",
+    "page_ref": 11
+  },
+  {
+    "qno": 71,
+    "question_text": "H2S gas is evolved when which of the following reacts with dilute acid?",
+    "options": [
+      "SO3 2-",
+      "S 2-",
+      "S2O3 2-",
+      "SO4 2-"
+    ],
+    "answer": "S 2-",
+    "hint": "The name of the gas (Hydrogen Sulphide) tells you the name of the starting ion.",
+    "solution": "Sulphide (S 2-) reacts with H+ to produce H2S gas.",
+    "page_ref": 4
+  },
+  {
+    "qno": 72,
+    "question_text": "Acetic acid fumes, which have a vinegar smell, are detected by reacting with:",
+    "options": [
+      "Dilute acid",
+      "Oxalic acid",
+      "Concentrated acid",
+      "Caustic soda"
+    ],
+    "answer": "Concentrated acid",
+    "hint": "Recall the Class A Subgroup II classification for Acetates.",
+    "solution": "Acetates require concentrated H2SO4 to release detectible CH3COOH fumes.",
+    "page_ref": 4
+  },
+  {
+    "qno": 73,
+    "question_text": "Which acid type is primarily used for identifying Class A, Subgroup I anions?",
+    "options": [
+      "Concentrated mineral acids",
+      "Dilute mineral acids",
+      "Organic acids",
+      "Weak bases"
+    ],
+    "answer": "Dilute mineral acids",
+    "hint": "These anions decompose easily, so a high concentration of acid is unnecessary and could be dangerous.",
+    "solution": "Subgroup 1 is identified by dil. HCl or dil. H2SO4.",
+    "page_ref": 3
+  },
+  {
+    "qno": 74,
+    "question_text": "The gas mixture from Oxalates burns with a blue flame due to the presence of:",
+    "options": [
+      "Hydrogen",
+      "Carbon Monoxide",
+      "Methane",
+      "Oxygen"
+    ],
+    "answer": "Carbon Monoxide",
+    "hint": "This gas is a common product of partial carbon combustion and is highly flammable.",
+    "solution": "Oxalates produce CO and CO2; CO burns with the characteristic blue flame.",
+    "page_ref": 8
+  },
+  {
+    "qno": 75,
+    "question_text": "Bromine vapours impart a brown color to water, but ____ fumes do not color the water.",
+    "options": [
+      "I2",
+      "NO2",
+      "Cl2",
+      "SO2"
+    ],
+    "answer": "NO2",
+    "hint": "Nitrogen oxides react with water to form colorless nitric and nitrous acids.",
+    "solution": "NO2 reacts with water to form acids rather than remaining as a colored dissolved gas.",
+    "page_ref": 8
+  },
+  {
+    "qno": 76,
+    "question_text": "Soda extract is useful for anions but cannot be used to detect:",
+    "options": [
+      "Halides",
+      "Sulphates",
+      "Carbonates",
+      "Nitrates"
+    ],
+    "answer": "Carbonates",
+    "hint": "You cannot test for a component that is already present in your reagent.",
+    "solution": "Soda extract is made from Sodium Carbonate, so it naturally contains CO3 2- ions.",
+    "page_ref": 9
+  },
+  {
+    "qno": 77,
+    "question_text": "Which of the following is a soluble carbonate?",
+    "options": [
+      "CaCO3",
+      "MgCO3",
+      "BaCO3",
+      "K2CO3"
+    ],
+    "answer": "K2CO3",
+    "hint": "Alkali metal salts (Group 1) are almost always soluble.",
+    "solution": "Only alkali metal and ammonium carbonates are soluble in water.",
+    "page_ref": 9
+  },
+  {
+    "qno": 78,
+    "question_text": "Lithium carbonate (Li2CO3) solubility is described as:",
+    "options": [
+      "Highly soluble",
+      "Insoluble",
+      "Sparingly soluble",
+      "Only soluble in alcohol"
+    ],
+    "answer": "Sparingly soluble",
+    "hint": "Think of the small size of the Lithium ion, which creates a high lattice energy compared to other alkali metals.",
+    "solution": "Li2CO3 is the exception among Group 1 carbonates, being only sparingly soluble.",
+    "page_ref": 9
+  },
+  {
+    "qno": 79,
+    "question_text": "Most Chlorides are soluble, but a major exception is:",
+    "options": [
+      "NaCl",
+      "AgCl",
+      "KCl",
+      "MgCl2"
+    ],
+    "answer": "AgCl",
+    "hint": "Recall the classic white precipitate formed during halide testing.",
+    "solution": "Silver chloride (AgCl) is a well-known insoluble salt.",
+    "page_ref": 10
+  },
+  {
+    "qno": 80,
+    "question_text": "The milkiness in the lime water test is chemically:",
+    "options": [
+      "Calcium Bicarbonate",
+      "Calcium Oxide",
+      "Calcium Carbonate",
+      "Calcium Hydroxide"
+    ],
+    "answer": "Calcium Carbonate",
+    "hint": "This is the same chemical found in chalk or limestone.",
+    "solution": "The gas reacts with lime water to precipitate insoluble CaCO3.",
+    "page_ref": 11
+  },
+  {
+    "qno": 81,
+    "question_text": "Soluble carbonates turn phenolphthalein:",
+    "options": [
+      "Colorless",
+      "Pink",
+      "Blue",
+      "Yellow"
+    ],
+    "answer": "Pink",
+    "hint": "Carbonates are the salts of a weak acid and a strong base, making their solutions basic.",
+    "solution": "Carbonate ions hydrolyze to create basic solutions, which turn phenolphthalein pink.",
+    "page_ref": 11
+  },
+  {
+    "qno": 82,
+    "question_text": "Which of the following decomposes into an Oxide and CO2 when heated?",
+    "options": [
+      "K2CO3",
+      "Na2CO3",
+      "MgCO3",
+      "Cs2CO3"
+    ],
+    "answer": "MgCO3",
+    "hint": "Look for an alkaline earth metal carbonate.",
+    "solution": "Magnesium carbonate (and others in Group 2) decompose easily on heating.",
+    "page_ref": 11
+  },
+  {
+    "qno": 83,
+    "question_text": "The reaction between Sulphide ions and Lead acetate yields a precipitate of:",
+    "options": [
+      "PbSO4",
+      "PbS",
+      "Pb(OH)2",
+      "PbCO3"
+    ],
+    "answer": "PbS",
+    "hint": "Consider the formation of a very stable, black metal sulphide.",
+    "solution": "Sulphide reacts with Lead to form black Lead Sulphide (PbS).",
+    "page_ref": 12
+  },
+  {
+    "qno": 84,
+    "question_text": "In the sodium nitroprusside test for sulphide, the purple color is due to a ligand change where NO+ is converted to:",
+    "options": [
+      "NO2-",
+      "(NOS)-",
+      "NH3",
+      "CN-"
+    ],
+    "answer": "(NOS)-",
+    "hint": "The sulphide ion (S 2-) joins the nitrosyl group to form a thio-nitrosyl complex.",
+    "solution": "The reaction is [Fe(CN)5(NO)]2- + S2- → [Fe(CN)5(NOS)]4-.",
+    "page_ref": 12
+  },
+  {
+    "qno": 85,
+    "question_text": "Why might a salt fail the Sodium Nitroprusside test even if it contains S 2- ions?",
+    "options": [
+      "The salt is too basic",
+      "The concentration of S 2- is below 0.1 M",
+      "The salt contains sodium already",
+      "H2S gas is too heavy"
+    ],
+    "answer": "The concentration of S 2- is below 0.1 M",
+    "hint": "Chemical tests have sensitivity limits; if the ion count is too low, the color isn't visible.",
+    "solution": "The note on page 12 states the test fails if solubility is low (< 0.1 M) or Ka is too small.",
+    "page_ref": 12
+  },
+  {
+    "qno": 86,
+    "question_text": "What color is the 'Methylene Blue' produced in the specific sensitive test for sulphides?",
+    "options": [
+      "Light Green",
+      "Deep Blue",
+      "Purple",
+      "Colorless"
+    ],
+    "answer": "Deep Blue",
+    "hint": "The name of the test product itself describes the expected observation.",
+    "solution": "The test involves NN-Dimethyl-p-phenylenediamine and iron(III) chloride to form methylene blue.",
+    "page_ref": 12
+  },
+  {
+    "qno": 87,
+    "question_text": "The transient pale blue liquid produced when treating solid Nitrite with cold dilute acid is due to:",
+    "options": [
+      "NO2 gas",
+      "N2O3",
+      "HNO3",
+      "Cu2+ impurities"
+    ],
+    "answer": "N2O3",
+    "hint": "Nitrous acid (HNO2) exists in equilibrium with its blue-colored anhydride.",
+    "solution": "The pale blue color is attributed to free nitrous acid or its anhydride, N2O3.",
+    "page_ref": 13
+  },
+  {
+    "qno": 88,
+    "question_text": "What happens when starch-iodide paper is moistened with a dilute acid and exposed to Nitrite?",
+    "options": [
+      "It turns yellow",
+      "It remains white",
+      "It turns blue",
+      "It turns red"
+    ],
+    "answer": "It turns blue",
+    "hint": "Nitrite is an oxidizer that frees iodine; think of the classic iodine-starch reaction.",
+    "solution": "The liberation of iodine by nitrite results in a blue starch-iodine adsorption complex.",
+    "page_ref": 13
+  },
+  {
+    "qno": 89,
+    "question_text": "In the Thiourea test for Nitrite, the 'blood red' color is caused by the reaction of FeCl3 with:",
+    "options": [
+      "N2 gas",
+      "HSCN (Thiocyanic acid)",
+      "NH3",
+      "Sulphur"
+    ],
+    "answer": "HSCN (Thiocyanic acid)",
+    "hint": "Ferric ions (Fe 3+) and thiocyanate (SCN-) are a famous pair for producing this deep red color.",
+    "solution": "Nitrite reacts with thiourea to form HSCN, which then reacts with FeCl3 to give Fe(SCN)3.",
+    "page_ref": 13
+  },
+  {
+    "qno": 90,
+    "question_text": "Acidified potassium permanganate (KMnO4) is decolourised by Nitrite. What gas is evolved during this process?",
+    "options": [
+      "NO2",
+      "O2",
+      "No gas is evolved",
+      "N2"
+    ],
+    "answer": "No gas is evolved",
+    "hint": "This is a redox reaction in solution where the ions stay dissolved; it's not a decomposition.",
+    "solution": "Nitrite reduces MnO4- to Mn2+; the equation on page 13 shows no gaseous products.",
+    "page_ref": 13
+  },
+  {
+    "qno": 91,
+    "question_text": "Silver nitrate gives a white precipitate with Nitrite. This precipitate is:",
+    "options": [
+      "AgNO3",
+      "AgNO2",
+      "Ag2O",
+      "AgCl"
+    ],
+    "answer": "AgNO2",
+    "hint": "Nitrite salts of heavy metals like silver are generally less soluble than their nitrate counterparts.",
+    "solution": "Silver nitrite (AgNO2) forms as a white crystalline precipitate from concentrated solutions.",
+    "page_ref": 13
+  },
+  {
+    "qno": 92,
+    "question_text": "When Chloride reacts with conc. H2SO4, a pungent gas is evolved. What is its effect on litmus paper?",
+    "options": [
+      "Turns it blue",
+      "Turns it red",
+      "No effect",
+      "Bleaches it"
+    ],
+    "answer": "Turns it red",
+    "hint": "The evolved gas is Hydrogen Chloride; consider its behavior when dissolved in the moisture of the paper.",
+    "solution": "HCl is an acidic gas and will turn blue litmus paper red.",
+    "page_ref": 14
+  },
+  {
+    "qno": 93,
+    "question_text": "Adding MnO2 to a chloride salt and conc. H2SO4 produces a greenish-yellow gas. This gas is:",
+    "options": [
+      "HCl",
+      "Cl2",
+      "ClO2",
+      "O2"
+    ],
+    "answer": "Cl2",
+    "hint": "MnO2 is a strong oxidizer that can pull electrons from chloride ions to create the elemental halogen.",
+    "solution": "The oxidation of Cl- by MnO2 in acidic medium produces Chlorine gas (Cl2).",
+    "page_ref": 14
+  },
+  {
+    "qno": 94,
+    "question_text": "The white precipitate of AgCl is soluble in aqueous ammonia. What complex is formed?",
+    "options": [
+      "[Ag(NH3)2]Cl",
+      "AgNH2",
+      "[Ag(NH3)4]Cl",
+      "Ag(OH)"
+    ],
+    "answer": "[Ag(NH3)2]Cl",
+    "hint": "Silver likes to form linear complexes with two nitrogen-containing ligands.",
+    "solution": "AgCl + 2NH4OH → [Ag(NH3)2]Cl + 2H2O. This complex is soluble.",
+    "page_ref": 14
+  },
+  {
+    "qno": 95,
+    "question_text": "Silver arsenite (Ag3AsO3) is a yellow precipitate. Why is it mentioned in the Chloride section?",
+    "options": [
+      "It is an impurity",
+      "To distinguish it from AgCl/AgBr",
+      "It makes AgCl yellow",
+      "It is the same as AgCl"
+    ],
+    "answer": "To distinguish it from AgCl/AgBr",
+    "hint": "In qualitative analysis, different anions can sometimes produce precipitates with similar conditions; knowing their colors helps.",
+    "solution": "Sodium arsenite converts AgCl to yellow Ag3AsO3 to distinguish it from other silver halides.",
+    "page_ref": 14
+  },
+  {
+    "qno": 96,
+    "question_text": "What is the physical state of Chromyl Chloride (CrO2Cl2) at room temperature based on its behavior in tests?",
+    "options": [
+      "Solid",
+      "Liquid/Vapour",
+      "Highly soluble salt",
+      "Metal"
+    ],
+    "answer": "Liquid/Vapour",
+    "hint": "It is described as evolving as 'deep red vapours' from the reaction mixture.",
+    "solution": "Chromyl chloride is a volatile covalent compound that forms vapours upon heating.",
+    "page_ref": 14
+  },
+  {
+    "qno": 97,
+    "question_text": "Bromide and Iodide interfere with the Chromyl Chloride test because they are:",
+    "options": [
+      "Too stable",
+      "Oxidized by dichromate to free halogens",
+      "Insoluble",
+      "Basic"
+    ],
+    "answer": "Oxidized by dichromate to free halogens",
+    "hint": "Unlike chloride, these heavier halides are easily stripped of electrons, creating dark vapours (Br2, I2) that mask the red CrO2Cl2.",
+    "solution": "Br- and I- are oxidized to Br2 and I2, which interfere with the detection of chromyl chloride.",
+    "page_ref": 14
+  },
+  {
+    "qno": 98,
+    "question_text": "In the chromyl chloride test, why must the test be carried out in a dry test tube?",
+    "options": [
+      "To prevent explosions",
+      "To avoid the hydrolysis of CrO2Cl2",
+      "To save reagents",
+      "To keep it cold"
+    ],
+    "answer": "To avoid the hydrolysis of CrO2Cl2",
+    "hint": "Chromyl chloride reacts instantly with moisture to form chromic acid and HCl.",
+    "solution": "Water would hydrolyze the chromyl chloride vapours before they could be passed into the NaOH.",
+    "page_ref": 14
+  },
+  {
+    "qno": 99,
+    "question_text": "In the Bromide test with conc. H2SO4, what is the 'fuming' observed in moist air?",
+    "options": [
+      "Br2 vapours",
+      "HBr gas",
+      "SO2 gas",
+      "H2O vapours"
+    ],
+    "answer": "HBr gas",
+    "hint": "Similar to HCl, this hydrogen halide gas is highly hygroscopic and creates a mist with atmospheric water.",
+    "solution": "HBr gas fumes in moist air; some of it is then oxidized to reddish-brown Br2.",
+    "page_ref": 15
+  },
+  {
+    "qno": 100,
+    "question_text": "Bromide reacts with Lead Acetate to form a white crystalline precipitate of PbBr2. This precipitate dissolves in:",
+    "options": [
+      "Cold water",
+      "Boiling water",
+      "Alcohol",
+      "Dilute H2SO4"
+    ],
+    "answer": "Boiling water",
+    "hint": "Lead halides are known for being much more soluble in hot water than cold water.",
+    "solution": "PbBr2 is white and crystalline, and it is soluble in boiling water.",
+    "page_ref": 15
+  },
+  {
+    "qno": 101,
+    "question_text": "In the Chlorine water test, why is CCl4 or CHCl3 added?",
+    "options": [
+      "To catalyze the reaction",
+      "To act as a solvent for the liberated halogen",
+      "To neutralize the acid",
+      "To precipitate the salt"
+    ],
+    "answer": "To act as a solvent for the liberated halogen",
+    "hint": "Halogens like Br2 and I2 are more soluble in non-polar organic liquids than in water, concentrating their color.",
+    "solution": "Organic solvents are used to extract and concentrate the halogen to see the characteristic color layer.",
+    "page_ref": 15
+  },
+  {
+    "qno": 102,
+    "question_text": "What happens if you add 'excess' chlorine water to the Bromide layer test?",
+    "options": [
+      "Color disappears",
+      "Color turns purple",
+      "Bromine is converted to yellow bromine monochloride",
+      "Layer turns black"
+    ],
+    "answer": "Bromine is converted to yellow bromine monochloride",
+    "hint": "A high concentration of the oxidizer (chlorine) can react further with the liberated bromine.",
+    "solution": "Excess chlorine water converts Br2 into yellow BrCl, resulting in a pale yellow solution.",
+    "page_ref": 15
+  },
+  {
+    "qno": 103,
+    "question_text": "What is the color of the starch-bromine adsorption complex?",
+    "options": [
+      "Blue-black",
+      "Orange-red",
+      "Yellow",
+      "Violet"
+    ],
+    "answer": "Orange-red",
+    "hint": "Think of the natural color of bromine (red-brown) being slightly altered when stuck to starch.",
+    "solution": "Bromine vapours turn starch paper orange-red.",
+    "page_ref": 15
+  },
+  {
+    "qno": 104,
+    "question_text": "When solid bromide is heated with K2Cr2O7 and conc. H2SO4, what is the 'orange red' solution obtained?",
+    "options": [
+      "Chromyl bromide",
+      "Bromine dissolved in the acid",
+      "Sodium chromate",
+      "Dichromic acid"
+    ],
+    "answer": "Bromine dissolved in the acid",
+    "hint": "Unlike chloride, bromide does not form a 'chromyl' compound; it just releases the free halogen.",
+    "solution": "No CrO2Br2 is formed; the orange-red color is simply due to liberated Br2 vapours.",
+    "page_ref": 15
+  },
+  {
+    "qno": 105,
+    "question_text": "Iodide reacts with conc. H2SO4 to produce violet vapours and a 'dark violet' liquid. What is the liquid?",
+    "options": [
+      "HI",
+      "I2",
+      "H2SO3",
+      "Sulphur"
+    ],
+    "answer": "I2",
+    "hint": "Iodine is a solid at room temperature; in a hot reaction mixture, it can exist as a melted liquid or gas.",
+    "solution": "The violet vapours and dark violet liquid are both elemental iodine (I2).",
+    "page_ref": 16
+  },
+  {
+    "qno": 106,
+    "question_text": "In the Iodide test with conc. H2SO4, why might you smell rotten eggs (H2S)?",
+    "options": [
+      "Impurity",
+      "Iodide reduces H2SO4 all the way to H2S",
+      "The salt is a sulphide",
+      "Iodine reacts with water"
+    ],
+    "answer": "Iodide reduces H2SO4 all the way to H2S",
+    "hint": "Iodide is such a powerful reducing agent that it can force the sulphur in sulphuric acid (+6) down to its lowest state (-2).",
+    "solution": "Iodide reduces H2SO4 to various products, including SO2, S, and H2S.",
+    "page_ref": 16
+  },
+  {
+    "qno": 107,
+    "question_text": "How does silver nitrate distinguish Iodide from Bromide and Chloride?",
+    "options": [
+      "By the speed of reaction",
+      "By the color (bright yellow) and total insolubility in NH3",
+      "By being soluble",
+      "By evolving gas"
+    ],
+    "answer": "By the color (bright yellow) and total insolubility in NH3",
+    "hint": "Focus on the intensity of the yellow color and the lack of complex formation with ammonia.",
+    "solution": "AgI is bright yellow and does not dissolve in dilute or concentrated ammonia.",
+    "page_ref": 16
+  },
+  {
+    "qno": 108,
+    "question_text": "Which salt of Iodide is famously known for its solubility in 'hot water' and crystallization as 'spangles'?",
+    "options": [
+      "AgI",
+      "PbI2",
+      "HgI2",
+      "CuI"
+    ],
+    "answer": "PbI2",
+    "hint": "Think of the 'Golden Rain' demonstration.",
+    "solution": "Lead iodide (PbI2) dissolves in hot water and forms golden-yellow 'spangles' on cooling.",
+    "page_ref": 16
+  },
+  {
+    "qno": 109,
+    "question_text": "Does Iodide form a 'Chromyl' compound like Chloride does?",
+    "options": [
+      "Yes, violet vapours",
+      "No, it is oxidized to I2",
+      "Only with dilute acid",
+      "Yes, a yellow liquid"
+    ],
+    "answer": "No, it is oxidized to I2",
+    "hint": "The reducing power of Iodide is too great for the 'chromyl' intermediate to survive.",
+    "solution": "Potassium dichromate and acid liberate I2 from iodides; no chromyl iodide is formed.",
+    "page_ref": 16
+  },
+  {
+    "qno": 110,
+    "question_text": "Based on the halide solubility table, which halide is 'partially soluble' in NH3?",
+    "options": [
+      "AgCl",
+      "AgBr",
+      "AgI",
+      "All are soluble"
+    ],
+    "answer": "AgBr",
+    "hint": "It sits in the middle: AgCl is very soluble, AgI is insoluble, so AgBr is in between.",
+    "solution": "AgCl is completely soluble, AgBr is partially soluble, and AgI is insoluble in NH3.",
+    "page_ref": 16
+  },
+  {
+    "qno": 111,
+    "question_text": "Which solvent besides ammonia can dissolve AgCl, AgBr, and AgI?",
+    "options": [
+      "Water",
+      "HNO3",
+      "Na2S2O3",
+      "HCl"
+    ],
+    "answer": "Na2S2O3",
+    "hint": "Think of 'hypo' solution used in traditional photography to 'fix' the image by dissolving silver halides.",
+    "solution": "Sodium thiosulphate dissolves all three silver halides by forming soluble complexes.",
+    "page_ref": 16
+  },
+  {
+    "qno": 112,
+    "question_text": "Sulphate ions give a white precipitate with Barium chloride. This precipitate is described as insoluble in:",
+    "options": [
+      "Only water",
+      "Dilute HCl and HNO3",
+      "NaOH",
+      "Ammonia"
+    ],
+    "answer": "Dilute HCl and HNO3",
+    "hint": "The Ba-SO4 bond is exceptionally strong and resists protonation by standard laboratory acids.",
+    "solution": "BaSO4 is insoluble in warm dilute HNO3 and HCl.",
+    "page_ref": 17
+  },
+  {
+    "qno": 113,
+    "question_text": "PbSO4 is a white precipitate. In which reagent can it be dissolved to prove its identity?",
+    "options": [
+      "Cold water",
+      "Ammonium acetate",
+      "Dilute HCl",
+      "Alcohol"
+    ],
+    "answer": "Ammonium acetate",
+    "hint": "Lead likes to form a soluble complex with acetate ions, which 'pulls' the lead out of the sulphate precipitate.",
+    "solution": "PbSO4 dissolves in excess hot ammonium acetate due to complex formation.",
+    "page_ref": 17
+  },
+  {
+    "qno": 114,
+    "question_text": "In the match stick test, what is the 'reducing flame' used for?",
+    "options": [
+      "To heat it up",
+      "To remove oxygen and reduce sulphate to sulphide",
+      "To see the flame color",
+      "To dry the paste"
+    ],
+    "answer": "To remove oxygen and reduce sulphate to sulphide",
+    "hint": "Redox 101: reduction is the loss of oxygen, which happens best in an oxygen-poor (reducing) part of a flame.",
+    "solution": "Sulphate is reduced to sulphide (BaS) by carbon in the reducing flame.",
+    "page_ref": 17
+  },
+  {
+    "qno": 115,
+    "question_text": "Silver nitrate gives a white precipitate with Sulphate ions. How does this precipitate differ from AgCl?",
+    "options": [
+      "It is crystalline",
+      "It only forms in concentrated solutions",
+      "It is soluble in HNO3",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "hint": "Silver sulphate is much more soluble than silver chloride, meaning it needs more 'crowded' ions to appear.",
+    "solution": "Ag2SO4 is a white ppt, soluble in HNO3, and usually requires concentrated solutions to form.",
+    "page_ref": 17
+  },
+  {
+    "qno": 116,
+    "question_text": "Nitrate (NO3-) reacts with conc. H2SO4 to evolve NO2. What color is this gas?",
+    "options": [
+      "Colorless",
+      "Reddish-brown",
+      "Violet",
+      "Green"
+    ],
+    "answer": "Reddish-brown",
+    "hint": "Think of the color of smog or the gas seen in a car's exhaust.",
+    "solution": "The evolution of reddish-brown NO2 gas is the standard test for nitrates.",
+    "page_ref": 18
+  },
+  {
+    "qno": 117,
+    "question_text": "Adding copper turnings to the Nitrate test intensifies the brown fumes. What is the role of copper?",
+    "options": [
+      "Catalyst",
+      "Reducing agent",
+      "Oxidizing agent",
+      "Dehydrating agent"
+    ],
+    "answer": "Reducing agent",
+    "hint": "Copper gives up electrons to the nitric acid, forcing more of it to turn into NO2 gas.",
+    "solution": "Copper reduces HNO3 to NO, which then reacts with air to form more brown NO2.",
+    "page_ref": 18
+  },
+  {
+    "qno": 118,
+    "question_text": "In the brown ring test, where does the brown ring specifically appear?",
+    "options": [
+      "Throughout the solution",
+      "At the bottom",
+      "At the junction of the two layers",
+      "At the top"
+    ],
+    "answer": "At the junction of the two layers",
+    "hint": "The reaction happens only where the heavy acid meets the lighter iron sulphate solution.",
+    "solution": "The brown ring is obtained at the junction of the two liquid layers.",
+    "page_ref": 18
+  },
+  {
+    "qno": 119,
+    "question_text": "Why must you NOT shake or warm the test tube during the Brown Ring test?",
+    "options": [
+      "It might spill",
+      "The brown complex is unstable and will decompose",
+      "The acid will react with glass",
+      "The ring will turn blue"
+    ],
+    "answer": "The brown complex is unstable and will decompose",
+    "hint": "The NO-Iron bond is weak and can be broken by the energy of heat or motion.",
+    "solution": "Warming or shaking causes the NO to escape and the ring to disappear.",
+    "page_ref": 18
+  },
+  {
+    "qno": 120,
+    "question_text": "Bromides and Iodides interfere with the Brown Ring test. How?",
+    "options": [
+      "They prevent the ring from forming",
+      "They produce liberated halogens (Br2, I2) which obscure the ring",
+      "They make the solution basic",
+      "They precipitate the iron"
+    ],
+    "answer": "They produce liberated halogens (Br2, I2) which obscure the ring",
+    "hint": "The dark brown or violet colors of the halogens are too similar to the brown ring to distinguish them.",
+    "solution": "Liberated halogens obscure the brown ring, making the test unreliable.",
+    "page_ref": 18
+  },
+  {
+    "qno": 121,
+    "question_text": "Which reagent can be used to remove Nitrite (NO2-) before testing for Nitrate (NO3-)?",
+    "options": [
+      "NaOH",
+      "Urea or Sulphamic acid",
+      "Distilled water",
+      "HCl"
+    ],
+    "answer": "Urea or Sulphamic acid",
+    "hint": "These nitrogenous compounds react specifically with nitrous acid to release N2 gas, 'cleaning' the solution.",
+    "solution": "Nitrites interfere and can be removed by adding urea or sulphamic acid.",
+    "page_ref": 18
+  },
+  {
+    "qno": 122,
+    "question_text": "Which of these gases is the most powerful oxidizing agent according to the starch-iodide paper test?",
+    "options": [
+      "Br2",
+      "NO2",
+      "SO2",
+      "CO2"
+    ],
+    "answer": "NO2",
+    "hint": "It causes the blue color 'immediately' while others are slower or don't do it at all.",
+    "solution": "NO2 is a strong oxidizing agent; Br2 is a weaker one.",
+    "page_ref": 18
+  },
+  {
+    "qno": 123,
+    "question_text": "What color is developed by Bromine on starch paper?",
+    "options": [
+      "Blue-black",
+      "Orange-red",
+      "Colorless",
+      "Green"
+    ],
+    "answer": "Orange-red",
+    "hint": "Think of the elemental color of bromine appearing on the paper.",
+    "solution": "Bromine develops orange-red spots on starch paper.",
+    "page_ref": 18
+  },
+  {
+    "qno": 124,
+    "question_text": "According to the solubility chart, which of these is the ONLY soluble sulphite?",
+    "options": [
+      "CaSO3",
+      "MgSO3",
+      "Na2SO3",
+      "BaSO3"
+    ],
+    "answer": "Na2SO3",
+    "hint": "Check the alkali metal rule.",
+    "solution": "Only alkali metal and ammonium sulphites are water soluble.",
+    "page_ref": 10
+  },
+  {
+    "qno": 125,
+    "question_text": "Which of the following describes the solubility of AgCl?",
+    "options": [
+      "Soluble in water",
+      "Soluble in boiling water",
+      "Insoluble in water and HNO3",
+      "Soluble in dilute HCl"
+    ],
+    "answer": "Insoluble in water and HNO3",
+    "hint": "Silver halides are notoriously resistant to acids.",
+    "solution": "AgCl is insoluble in water and dilute nitric acid.",
+    "page_ref": 10
+  },
+  {
+    "qno": 126,
+    "question_text": "Lead bromide (PbBr2) is sparingly soluble in cold water. In what condition is it more soluble?",
+    "options": [
+      "In ammonia",
+      "In boiling water",
+      "In dilute HCl",
+      "In salt water"
+    ],
+    "answer": "In boiling water",
+    "hint": "Think of the PbCl2 rule; the trend holds for Bromide too.",
+    "solution": "Lead bromide is more soluble in boiling water.",
+    "page_ref": 10
+  },
+  {
+    "qno": 127,
+    "question_text": "Which sulphate is insoluble in water?",
+    "options": [
+      "Na2SO4",
+      "MgSO4",
+      "BaSO4",
+      "FeSO4"
+    ],
+    "answer": "BaSO4",
+    "hint": "Think of the heaviest Group 2 metals.",
+    "solution": "Sulphates of Barium, Silver, and Lead are insoluble.",
+    "page_ref": 10
+  },
+  {
+    "qno": 128,
+    "question_text": "Which phosphate is water-soluble?",
+    "options": [
+      "Ca3(PO4)2",
+      "Ag3PO4",
+      "Na3PO4",
+      "FePO4"
+    ],
+    "answer": "Na3PO4",
+    "hint": "Alkali metals are the 'universal keys' to solubility.",
+    "solution": "Phosphates of alkali metals (except Li) and ammonium are soluble.",
+    "page_ref": 10
+  },
+  {
+    "qno": 129,
+    "question_text": "Which nitrite is sparingly soluble?",
+    "options": [
+      "KNO2",
+      "NaNO2",
+      "AgNO2",
+      "Ba(NO2)2"
+    ],
+    "answer": "AgNO2",
+    "hint": "Look for the silver salt exception.",
+    "solution": "AgNO2 is sparingly soluble in water.",
+    "page_ref": 10
+  },
+  {
+    "qno": 130,
+    "question_text": "What gas is evolved when a carbonate is heated?",
+    "options": [
+      "O2",
+      "CO",
+      "CO2",
+      "H2"
+    ],
+    "answer": "CO2",
+    "hint": "Think of the chemical composition (CO3).",
+    "solution": "Carbonates (except alkali metals) decompose to release CO2.",
+    "page_ref": 11
+  },
+  {
+    "qno": 131,
+    "question_text": "Which carbonate decomposes to give a metal, not an oxide, upon heating?",
+    "options": [
+      "CaCO3",
+      "MgCO3",
+      "Ag2CO3",
+      "Li2CO3"
+    ],
+    "answer": "Ag2CO3",
+    "hint": "Silver oxide is unstable at high heat.",
+    "solution": "Ag2CO3 → 2Ag + CO2 + 1/2 O2.",
+    "page_ref": 11
+  },
+  {
+    "qno": 132,
+    "question_text": "In the lime water test, what is the chemical formula of the white precipitate?",
+    "options": [
+      "CaO",
+      "Ca(OH)2",
+      "CaCO3",
+      "Ca(HCO3)2"
+    ],
+    "answer": "CaCO3",
+    "hint": "It's a carbonate salt.",
+    "solution": "CO2 + Ca(OH)2 → CaCO3 + H2O.",
+    "page_ref": 11
+  },
+  {
+    "qno": 133,
+    "question_text": "Which anion is identified by their redox reaction in Class B Subgroup II?",
+    "options": [
+      "SO4 2-",
+      "PO4 3-",
+      "CrO4 2-",
+      "Cl-"
+    ],
+    "answer": "CrO4 2-",
+    "hint": "Think of colored ions that can change oxidation states.",
+    "solution": "MnO4-, CrO4 2-, and Cr2O7 2- are in Class B Subgroup II.",
+    "page_ref": 5
+  },
+  {
+    "qno": 134,
+    "question_text": "Which of these is a property of H2S gas?",
+    "options": [
+      "Sweet smell",
+      "Colorless",
+      "Turns lead acetate paper white",
+      "Acidic and violet"
+    ],
+    "answer": "Colorless",
+    "hint": "It is an invisible but smelly gas.",
+    "solution": "H2S is a colorless gas with a rotten egg smell.",
+    "page_ref": 6
+  },
+  {
+    "qno": 135,
+    "question_text": "SO2 gas turns acidified potassium dichromate to which color?",
+    "options": [
+      "Orange",
+      "Yellow",
+      "Green",
+      "Blue"
+    ],
+    "answer": "Green",
+    "hint": "The Chromium is reduced to Cr 3+.",
+    "solution": "Acidified K2Cr2O7 turns green due to reduction by SO2.",
+    "page_ref": 6
+  },
+  {
+    "qno": 136,
+    "question_text": "Which anion gives white fumes with NH4OH when treated with acid?",
+    "options": [
+      "F-",
+      "Cl-",
+      "Br-",
+      "I-"
+    ],
+    "answer": "Cl-",
+    "hint": "HCl gas + Ammonia gas = solid cloud.",
+    "solution": "Cl- evolves HCl which gives dense white fumes of NH4Cl.",
+    "page_ref": 7
+  },
+  {
+    "qno": 137,
+    "question_text": "Which halogen gas is violet?",
+    "options": [
+      "Fluorine",
+      "Chlorine",
+      "Bromine",
+      "Iodine"
+    ],
+    "answer": "Iodine",
+    "hint": "Commonly known property of this heavy halogen.",
+    "solution": "I2 is evolved as a violet gas.",
+    "page_ref": 7
+  },
+  {
+    "qno": 138,
+    "question_text": "Which mixture burns with a blue flame?",
+    "options": [
+      "H2S + air",
+      "CO + CO2",
+      "HCl + NH3",
+      "NO2 + O2"
+    ],
+    "answer": "CO + CO2",
+    "hint": "Carbon monoxide is the flammable fuel here.",
+    "solution": "The mixture of CO and CO2 burns with a blue flame.",
+    "page_ref": 8
+  },
+  {
+    "qno": 139,
+    "question_text": "Which anion is NOT identified from the original solution?",
+    "options": [
+      "Pb2+",
+      "NH4+",
+      "Cu2+",
+      "Fe3+"
+    ],
+    "answer": "NH4+",
+    "hint": "It's the only polyatomic cation in the common list.",
+    "solution": "All cations are identified by original solution except NH4+.",
+    "page_ref": 9
+  },
+  {
+    "qno": 140,
+    "question_text": "In group 1, which carbonate is sparingly soluble?",
+    "options": [
+      "Na2CO3",
+      "K2CO3",
+      "Li2CO3",
+      "Rb2CO3"
+    ],
+    "answer": "Li2CO3",
+    "hint": "The smallest member of the group.",
+    "solution": "In group 1, Li2CO3 is sparingly soluble.",
+    "page_ref": 9
+  },
+  {
+    "qno": 141,
+    "question_text": "Is Soda Extract used to detect Bicarbonate?",
+    "options": [
+      "Yes",
+      "No",
+      "Only if heated",
+      "Only for heavy metals"
+    ],
+    "answer": "No",
+    "hint": "The reagent itself is a carbonate solution.",
+    "solution": "Soda extract is used for all except carbonate and bicarbonate.",
+    "page_ref": 9
+  },
+  {
+    "qno": 142,
+    "question_text": "Which gas has the smell of vinegar?",
+    "options": [
+      "HCl",
+      "H2S",
+      "CH3COOH",
+      "NH3"
+    ],
+    "answer": "CH3COOH",
+    "hint": "Acetic acid is the main component of vinegar.",
+    "solution": "Acetate evolves CH3COOH with acid, which smells like vinegar.",
+    "page_ref": 7
+  },
+  {
+    "qno": 143,
+    "question_text": "Which paper turns black when exposed to H2S?",
+    "options": [
+      "Filter paper",
+      "Lead acetate paper",
+      "Starch paper",
+      "Litmus paper"
+    ],
+    "answer": "Lead acetate paper",
+    "hint": "Forms black Lead Sulphide.",
+    "solution": "H2S turns lead acetate paper black.",
+    "page_ref": 6
+  },
+  {
+    "qno": 144,
+    "question_text": "What color change does NO2 cause in acidified KI containing starch?",
+    "options": [
+      "White to Yellow",
+      "Colorless to Blue",
+      "Orange to Green",
+      "Blue to Colorless"
+    ],
+    "answer": "Colorless to Blue",
+    "hint": "Classic Iodine-Starch test.",
+    "solution": "NO2 turns acidified KI containing starch to blue color.",
+    "page_ref": 6
+  },
+  {
+    "qno": 145,
+    "question_text": "Which reagent gives 'blood red' color with Nitrite in the thiourea test?",
+    "options": [
+      "NaOH",
+      "FeCl3",
+      "KMnO4",
+      "AgNO3"
+    ],
+    "answer": "FeCl3",
+    "hint": "Think of the SCN- and Fe 3+ reaction.",
+    "solution": "FeCl3 + 3HSCN → Fe(SCN)3 (blood red coloration).",
+    "page_ref": 13
+  },
+  {
+    "qno": 146,
+    "question_text": "What is the role of MnO2 in the Bromide test?",
+    "options": [
+      "Reducing agent",
+      "Oxidizing agent",
+      "Catalyst",
+      "Base"
+    ],
+    "answer": "Oxidizing agent",
+    "hint": "It pulls electrons from Bromide to make Bromine gas.",
+    "solution": "Addition of MnO2 gives dense reddish brown fumes of Br2.",
+    "page_ref": 7
+  },
+  {
+    "qno": 147,
+    "question_text": "What is the formula of Chromyl Chloride?",
+    "options": [
+      "CrCl3",
+      "CrO2Cl2",
+      "Na2CrO4",
+      "PbCrO4"
+    ],
+    "answer": "CrO2Cl2",
+    "hint": "A 'yl' compound containing Chromium, Oxygen, and Chlorine.",
+    "solution": "Chromyl chloride is CrO2Cl2.",
+    "page_ref": 14
+  },
+  {
+    "qno": 148,
+    "question_text": "Which metal turnings are added to the Nitrate test?",
+    "options": [
+      "Iron",
+      "Zinc",
+      "Copper",
+      "Silver"
+    ],
+    "answer": "Copper",
+    "hint": "Used to produce more NO2 fumes.",
+    "solution": "Addition of bright copper turnings intensifies the evolution of brown NO2 gas.",
+    "page_ref": 18
+  },
+  {
+    "qno": 149,
+    "question_text": "What color is the 'ring' in the nitrate test?",
+    "options": [
+      "Blue",
+      "Brown",
+      "Red",
+      "Violet"
+    ],
+    "answer": "Brown",
+    "hint": "Standard name: 'Brown Ring Test'.",
+    "solution": "A brown ring is obtained at the junction.",
+    "page_ref": 18
+  },
+  {
+    "qno": 150,
+    "question_text": "Is AgI soluble in concentrated ammonia?",
+    "options": [
+      "Yes",
+      "No",
+      "Partially",
+      "Only on heating"
+    ],
+    "answer": "No",
+    "hint": "Check the most covalent halide rule.",
+    "solution": "AgI is insoluble in concentrated NH3.",
+    "page_ref": 16
+  },
+  {
+    "qno": 151,
+    "question_text": "Which anion requires boiling water to dissolve its Lead salt?",
+    "options": [
+      "Cl-",
+      "SO4 2-",
+      "NO3-",
+      "CO3 2-"
+    ],
+    "answer": "Cl-",
+    "hint": "PbCl2 solubility trend.",
+    "solution": "PbCl2 is soluble in boiling water.",
+    "page_ref": 10
+  },
+  {
+    "qno": 152,
+    "question_text": "What color is AgBr?",
+    "options": [
+      "White",
+      "Pale yellow",
+      "Bright yellow",
+      "Black"
+    ],
+    "answer": "Pale yellow",
+    "hint": "Middle of the halide color sequence.",
+    "solution": "AgBr is a pale yellow precipitate.",
+    "page_ref": 15
+  },
+  {
+    "qno": 153,
+    "question_text": "Which anion evolves HF gas with conc. H2SO4?",
+    "options": [
+      "Cl-",
+      "Br-",
+      "F-",
+      "I-"
+    ],
+    "answer": "F-",
+    "hint": "Hydrogen + Fluoride.",
+    "solution": "Fluoride (F-) evolves HF gas.",
+    "page_ref": 4
+  },
+  {
+    "qno": 154,
+    "question_text": "Can SO2 turn lime water milky?",
+    "options": [
+      "Yes",
+      "No",
+      "Only if pure",
+      "Only in sunlight"
+    ],
+    "answer": "Yes",
+    "hint": "Forms insoluble calcium sulphite.",
+    "solution": "Lime water milky test is also shown by SO2.",
+    "page_ref": 11
+  },
+  {
+    "qno": 155,
+    "question_text": "What is the color of the silver nitrite precipitate?",
+    "options": [
+      "Yellow",
+      "Red",
+      "White",
+      "Black"
+    ],
+    "answer": "White",
+    "hint": "It is crystalline and forms from concentrate.",
+    "solution": "AgNO2 is a white crystalline precipitate.",
+    "page_ref": 13
+  },
+  {
+    "qno": 156,
+    "question_text": "Which halide is 'partially soluble' in dilute ammonia?",
+    "options": [
+      "AgCl",
+      "AgBr",
+      "AgI",
+      "None"
+    ],
+    "answer": "AgBr",
+    "hint": "In-between solubility.",
+    "solution": "AgBr is partially soluble in dilute NH4OH.",
+    "page_ref": 15
+  },
+  {
+    "qno": 157,
+    "question_text": "What is the product of the match stick test before dipping in nitroprusside?",
+    "options": [
+      "BaSO4",
+      "BaS",
+      "Na2SO4",
+      "Ag2S"
+    ],
+    "answer": "BaS",
+    "hint": "Product of reduction of sulphate.",
+    "solution": "BaSO4 is reduced to BaS.",
+    "page_ref": 17
+  },
+  {
+    "qno": 158,
+    "question_text": "The diphenylamine test for Nitrate gives what color?",
+    "options": [
+      "Red",
+      "Green",
+      "Blue",
+      "Brown"
+    ],
+    "answer": "Blue",
+    "hint": "Think of a 'Blue Ring'.",
+    "solution": "Diphenyl amine test gives a Blue ring at the junction.",
+    "page_ref": 18
+  },
+  {
+    "qno": 159,
+    "question_text": "What is the formula of the brown ring complex?",
+    "options": [
+      "[Fe(H2O)5NO] 2+",
+      "[Fe(CN)5NO] 2-",
+      "Fe(NO)3",
+      "FeSO4"
+    ],
+    "answer": "[Fe(H2O)5NO] 2+",
+    "hint": "Iron with 5 waters and one Nitrosyl.",
+    "solution": "The brown complex is [Fe(H2O)5NO] 2+.",
+    "page_ref": 18
+  },
+  {
+    "qno": 160,
+    "question_text": "Does SO2 turn starch blue?",
+    "options": [
+      "Yes",
+      "No",
+      "Only if acidified",
+      "Only with sugar"
+    ],
+    "answer": "No",
+    "hint": "It's a reducer, not an oxidizer like NO2.",
+    "solution": "Only NO2 gas turns KI-starch paper blue.",
+    "page_ref": 18
+  },
+  {
+    "qno": 161,
+    "question_text": "Which of these is used to distinguish Br2 and NO2 using an aqueous solution?",
+    "options": [
+      "Litmus",
+      "Water color",
+      "Density",
+      "Taste"
+    ],
+    "answer": "Water color",
+    "hint": "Halogens color water, nitrogen oxides don't.",
+    "solution": "Br2 imparts brown color to aq. solution; NO2 does not.",
+    "page_ref": 8
+  },
+  {
+    "qno": 162,
+    "question_text": "What is the color of PbI2?",
+    "options": [
+      "White",
+      "Yellow",
+      "Red",
+      "Blue"
+    ],
+    "answer": "Yellow",
+    "hint": "Golden rain.",
+    "solution": "PbI2 is golden yellow.",
+    "page_ref": 16
+  },
+  {
+    "qno": 163,
+    "question_text": "Which reagent decolourises KMnO4 but evolves no gas?",
+    "options": [
+      "Carbonate",
+      "Sulphide",
+      "Nitrite",
+      "Sulphate"
+    ],
+    "answer": "Nitrite",
+    "hint": "Check the Class A Subgroup 1 redox test.",
+    "solution": "Acidified KMnO4 is decolourised by NO2- without gas evolution.",
+    "page_ref": 13
+  },
+  {
+    "qno": 164,
+    "question_text": "What is the effect of excess CO2 on lime water?",
+    "options": [
+      "Milkiness stays",
+      "Milkiness disappears",
+      "Solution turns red",
+      "Precipitate turns black"
+    ],
+    "answer": "Milkiness disappears",
+    "hint": "Bicarbonate formation.",
+    "solution": "On prolonged passage of CO2, milkiness disappears.",
+    "page_ref": 11
+  },
+  {
+    "qno": 165,
+    "question_text": "Which anion is in Class B Subgroup I?",
+    "options": [
+      "MnO4 -",
+      "SO4 2-",
+      "CrO4 2-",
+      "NO2 -"
+    ],
+    "answer": "SO4 2-",
+    "hint": "Identified by precipitation.",
+    "solution": "SO4 2- is in Class B Subgroup I.",
+    "page_ref": 5
+  },
+  {
+    "qno": 166,
+    "question_text": "What color are Boric acid fumes?",
+    "options": [
+      "Brown",
+      "Violet",
+      "White",
+      "Colorless"
+    ],
+    "answer": "White",
+    "hint": "H3BO3 property.",
+    "solution": "H3BO3 gives white fumes.",
+    "page_ref": 8
+  },
+  {
+    "qno": 167,
+    "question_text": "Which halide is least soluble in water?",
+    "options": [
+      "AgCl",
+      "AgBr",
+      "AgI",
+      "NaCl"
+    ],
+    "answer": "AgI",
+    "hint": "Most covalent silver halide.",
+    "solution": "AgI is among the least soluble salts.",
+    "page_ref": 10
+  },
+  {
+    "qno": 168,
+    "question_text": "What is the pungent smell of SO2 compared to?",
+    "options": [
+      "Rotten eggs",
+      "Vinegar",
+      "Burning sulphur",
+      "Ammonia"
+    ],
+    "answer": "Burning sulphur",
+    "hint": "The element itself is burning.",
+    "solution": "SO2 smells like burning sulphur.",
+    "page_ref": 6
+  },
+  {
+    "qno": 169,
+    "question_text": "What turns starch-iodide paper blue black 'immediately'?",
+    "options": [
+      "Br2",
+      "NO2",
+      "Cl2",
+      "I2"
+    ],
+    "answer": "NO2",
+    "hint": "Strongest oxidizer in the group.",
+    "solution": "NO2 develops blue black color immediately.",
+    "page_ref": 18
+  },
+  {
+    "qno": 170,
+    "question_text": "Which sulphate is soluble in water?",
+    "options": [
+      "BaSO4",
+      "PbSO4",
+      "MgSO4",
+      "Ag2SO4"
+    ],
+    "answer": "MgSO4",
+    "hint": "Standard rule for Group 2 sulphates.",
+    "solution": "Most sulphates are soluble except Ba, Pb, Ag.",
+    "page_ref": 10
+  },
+  {
+    "qno": 171,
+    "question_text": "What happens to the Ag2CO3 precipitate upon boiling?",
+    "options": [
+      "Dissolves",
+      "Turns black",
+      "Turns blue",
+      "Explodes"
+    ],
+    "answer": "Turns black",
+    "hint": "Formation of silver oxide.",
+    "solution": "Precipitate becomes brown or black upon boiling due to silver oxide.",
+    "page_ref": 11
+  },
+  {
+    "qno": 172,
+    "question_text": "Which anion evolves gas with a rotten egg smell?",
+    "options": [
+      "CO3 2-",
+      "SO3 2-",
+      "S 2-",
+      "NO2 -"
+    ],
+    "answer": "S 2-",
+    "hint": "H2S property.",
+    "solution": "Sulphide evolves H2S gas.",
+    "page_ref": 6
+  },
+  {
+    "qno": 173,
+    "question_text": "What is the final yellow precipitate in the chromyl chloride test?",
+    "options": [
+      "Na2CrO4",
+      "PbCrO4",
+      "CrO2Cl2",
+      "AgCl"
+    ],
+    "answer": "PbCrO4",
+    "hint": "Reaction with Lead Acetate.",
+    "solution": "Pb 2+ + CrO4 2- → PbCrO4 (yellow).",
+    "page_ref": 14
+  },
+  {
+    "qno": 174,
+    "question_text": "Which halide evolves violet gas?",
+    "options": [
+      "Cl-",
+      "Br-",
+      "I-",
+      "F-"
+    ],
+    "answer": "I-",
+    "hint": "I2 gas color.",
+    "solution": "I- evolves violet I2 gas.",
+    "page_ref": 7
+  },
+  {
+    "qno": 175,
+    "question_text": "Can AgCl dissolve in concentrated HCl?",
+    "options": [
+      "Yes",
+      "No",
+      "Only if boiled",
+      "Only in vacuum"
+    ],
+    "answer": "No",
+    "hint": "Silver halides are acid-resistant.",
+    "solution": "AgCl is insoluble in HNO3 and HCl.",
+    "page_ref": 16
+  },
+  {
+    "qno": 176,
+    "question_text": "What gas is evolved from oxalates?",
+    "options": [
+      "CO2",
+      "CO",
+      "CO + CO2",
+      "O2"
+    ],
+    "answer": "CO + CO2",
+    "hint": "Dicarboxylic acid salt.",
+    "solution": "Oxalate evolves CO and CO2.",
+    "page_ref": 8
+  },
+  {
+    "qno": 177,
+    "question_text": "Which of these is a Class B Subgroup II anion?",
+    "options": [
+      "PO4 3-",
+      "MnO4 -",
+      "SO4 2-",
+      "AsO3 3-"
+    ],
+    "answer": "MnO4 -",
+    "hint": "Identified by redox.",
+    "solution": "MnO4 - is in Class B Subgroup II.",
+    "page_ref": 5
+  },
+  {
+    "qno": 178,
+    "question_text": "Which gas turns acidified K2Cr2O7 green?",
+    "options": [
+      "CO2",
+      "SO2",
+      "NO2",
+      "NH3"
+    ],
+    "answer": "SO2",
+    "hint": "Reducing gas.",
+    "solution": "SO2 turns K2Cr2O7 solution green.",
+    "page_ref": 6
+  },
+  {
+    "qno": 179,
+    "question_text": "Which anion is detected by the Methylene Blue test?",
+    "options": [
+      "NO3-",
+      "S 2-",
+      "Cl-",
+      "SO4 2-"
+    ],
+    "answer": "S 2-",
+    "hint": "Sensitive test for sulphides.",
+    "solution": "Methylene blue test is sensitive for soluble sulphides.",
+    "page_ref": 12
+  },
+  {
+    "qno": 180,
+    "question_text": "Does Li2CO3 decompose upon heating?",
+    "options": [
+      "Yes",
+      "No",
+      "Only above 2000C",
+      "Only in presence of catalyst"
+    ],
+    "answer": "Yes",
+    "hint": "It is an exception in Group 1.",
+    "solution": "Li2CO3 decomposes to Li2O + CO2.",
+    "page_ref": 11
+  },
+  {
+    "qno": 181,
+    "question_text": "What is the color of the silver sulphate precipitate?",
+    "options": [
+      "White",
+      "Yellow",
+      "Red",
+      "Black"
+    ],
+    "answer": "White",
+    "hint": "Ag2SO4 color.",
+    "solution": "Ag2SO4 is a white precipitate.",
+    "page_ref": 17
+  },
+  {
+    "qno": 182,
+    "question_text": "Which paper turns orange red with Bromine?",
+    "options": [
+      "Litmus",
+      "Filter paper",
+      "Starch paper",
+      "Lead acetate paper"
+    ],
+    "answer": "Starch paper",
+    "hint": "Specific color for bromine on starch.",
+    "solution": "Bromine develops orange-red spots on starch paper.",
+    "page_ref": 18
+  },
+  {
+    "qno": 183,
+    "question_text": "Are all nitrates soluble?",
+    "options": [
+      "Yes",
+      "No",
+      "Only alkali nitrates",
+      "Only in acid"
+    ],
+    "answer": "Yes",
+    "hint": "Universal solubility rule.",
+    "solution": "Almost all nitrites and nitrates are soluble.",
+    "page_ref": 10
+  },
+  {
+    "qno": 184,
+    "question_text": "When Bicarbonates are heated, the gas released is:",
+    "options": [
+      "CO2",
+      "O2",
+      "H2",
+      "NO2"
+    ],
+    "answer": "CO2",
+    "hint": "Bicarbonates decompose into Carbonates, water, and this carbon oxide gas.",
+    "solution": "Thermal decomposition of hydrogen carbonates releases CO2 gas.",
+    "page_ref": 11
+  },
+  {
+    "qno": 185,
+    "question_text": "The Diphenylamine test, resulting in a blue ring, is specific for:",
+    "options": [
+      "Nitrate",
+      "Sulphate",
+      "Chloride",
+      "Acetate"
+    ],
+    "answer": "Nitrate",
+    "hint": "This is a sensitive organic reagent used to detect oxidizing acidic anions like Nitrates.",
+    "solution": "Diphenylamine is oxidized to a blue color by Nitrates in the presence of acid.",
+    "page_ref": 18
+  },
+  {
+    "qno": 186,
+    "question_text": "Which anion forms a black precipitate with Silver Nitrate (AgNO3)?",
+    "options": [
+      "Cl-",
+      "S 2-",
+      "CO3 2-",
+      "SO4 2-"
+    ],
+    "answer": "S 2-",
+    "hint": "Think about the extreme insolubility and dark color of Silver Sulphide.",
+    "solution": "Silver nitrate reacts with sulphides to form black Ag2S.",
+    "page_ref": 12
+  },
+  {
+    "qno": 187,
+    "question_text": "The Match stick test requires which solid reagent to make the paste?",
+    "options": [
+      "BaCl2",
+      "Na2CO3",
+      "AgNO3",
+      "HCl"
+    ],
+    "answer": "Na2CO3",
+    "hint": "This reagent provides the sodium needed to form sodium sulphide upon reduction.",
+    "solution": "Solid sodium carbonate is mixed with the sulphate to perform the reduction on the match stick.",
+    "page_ref": 17
+  },
+  {
+    "qno": 188,
+    "question_text": "Bromine vapour turns starch paper which color?",
+    "options": [
+      "Blue",
+      "Orange-red",
+      "Yellow",
+      "Colorless"
+    ],
+    "answer": "Orange-red",
+    "hint": "Unlike Iodine, Bromine forms a complex with starch that is a variation of its own elemental color.",
+    "solution": "Bromine imparts an orange-red color rather than blue to starch.",
+    "page_ref": 18
+  },
+  {
+    "qno": 189,
+    "question_text": "Which silver halide is NOT soluble in even concentrated ammonia?",
+    "options": [
+      "AgCl",
+      "AgBr",
+      "AgI",
+      "None"
+    ],
+    "answer": "AgI",
+    "hint": "The most covalent and yellowest silver halide is the hardest to dissolve.",
+    "solution": "Silver iodide (AgI) is completely insoluble in ammonia.",
+    "page_ref": 16
+  },
+  {
+    "qno": 190,
+    "question_text": "HCl gas gives white dense fumes with which reagent?",
+    "options": [
+      "NaOH",
+      "NH4OH",
+      "HNO3",
+      "H2SO4"
+    ],
+    "answer": "NH4OH",
+    "hint": "Consider the formation of ammonium chloride solid in the air.",
+    "solution": "HCl and NH3 react to form solid NH4Cl particles, appearing as dense white fumes.",
+    "page_ref": 7
+  },
+  {
+    "qno": 191,
+    "question_text": "Which of these anions is classified in Class B Subgroup I?",
+    "options": [
+      "PO4 3-",
+      "MnO4 -",
+      "Cr2O7 2-",
+      "Cl-"
+    ],
+    "answer": "PO4 3-",
+    "hint": "Look for an anion that forms a precipitate (like with ammonium molybdate) but doesn't bubble with acid.",
+    "solution": "Phosphate is a Class B Subgroup I anion because it is identified by precipitation.",
+    "page_ref": 5
+  },
+  {
+    "qno": 192,
+    "question_text": "The 'vinegar smell' evolved upon acidification is characteristic of which acid?",
+    "options": [
+      "Acetic acid",
+      "Hydrochloric acid",
+      "Sulphurous acid",
+      "Nitric acid"
+    ],
+    "answer": "Acetic acid",
+    "hint": "Vinegar is basically a 5% solution of this specific organic acid.",
+    "solution": "Acetates release Acetic Acid (CH3COOH) which smells like vinegar.",
+    "page_ref": 7
+  },
+  {
+    "qno": 193,
+    "question_text": "Class A Subgroup I identification reagents are:",
+    "options": [
+      "Dilute acids",
+      "Concentrated acids",
+      "Water",
+      "Solid salts"
+    ],
+    "answer": "Dilute acids",
+    "hint": "These anions are less stable and require only a low concentration of H+ to decompose.",
+    "solution": "Dilute HCl and H2SO4 are used to identify Subgroup I of Class A.",
+    "page_ref": 3
+  },
+  {
+    "qno": 194,
+    "question_text": "The formula [Fe(H2O)5NO] 2+ corresponds to which test product?",
+    "options": [
+      "Brown ring",
+      "Purple solution",
+      "Blue precipitate",
+      "White fumes"
+    ],
+    "answer": "Brown ring",
+    "hint": "This complex forms a layer at the interface of two liquids in the Nitrate/Nitrite test.",
+    "solution": "The brown ring is composed of the pentaaquanitrosyliron(II) complex.",
+    "page_ref": 18
+  },
+  {
+    "qno": 195,
+    "question_text": "Which pair is evolved from Thiosulphate when treated with acid?",
+    "options": [
+      "H2S + S",
+      "S + SO2",
+      "SO3 + H2O",
+      "H2 + SO2"
+    ],
+    "answer": "S + SO2",
+    "hint": "This reaction produces a gas that smells like matches and a solid yellow precipitate.",
+    "solution": "Acidification of thiosulphate leads to disproportionation into sulphur and sulphur dioxide.",
+    "page_ref": 4
+  },
+  {
+    "qno": 196,
+    "question_text": "Lead acetate paper/solution test for Sulphide gives a:",
+    "options": [
+      "White ppt",
+      "Black ppt",
+      "Yellow ppt",
+      "No ppt"
+    ],
+    "answer": "Black ppt",
+    "hint": "Lead Sulphide is a notoriously black mineral often found in nature as galena.",
+    "solution": "Lead reacts with H2S or S 2- to form black PbS.",
+    "page_ref": 12
+  },
+  {
+    "qno": 197,
+    "question_text": "Sodium chromate, formed in the chromyl chloride test, is which color?",
+    "options": [
+      "Red",
+      "Yellow",
+      "Green",
+      "Blue"
+    ],
+    "answer": "Yellow",
+    "hint": "Recall the color of the chromate ion in a basic (NaOH) environment.",
+    "solution": "Na2CrO4 is a bright yellow solution.",
+    "page_ref": 14
+  },
+  {
+    "qno": 198,
+    "question_text": "Which Class B anion is identified specifically through its oxidation-reduction behavior?",
+    "options": [
+      "MnO4 -",
+      "CO3 2-",
+      "SO4 2-",
+      "Cl-"
+    ],
+    "answer": "MnO4 -",
+    "hint": "Look for the anion that acts as a classic purple oxidizer in titrations.",
+    "solution": "Permanganate is a Subgroup II anion because it is identified by its redox color change.",
+    "page_ref": 5
+  },
+  {
+    "qno": 199,
+    "question_text": "Which gas evolved during oxalate testing burns with a blue flame?",
+    "options": [
+      "CO",
+      "CO2",
+      "NO2",
+      "SO2"
+    ],
+    "answer": "CO",
+    "hint": "Carbon monoxide is the flammable component in the evolved gas mixture.",
+    "solution": "Oxalates produce CO, which burns blue when ignited at the mouth of the tube.",
+    "page_ref": 8
+  },
+  {
+    "qno": 200,
+    "question_text": "How can you uniquely distinguish AgI from AgCl and AgBr?",
+    "options": [
+      "It is soluble in dilute ammonia",
+      "It is insoluble in concentrated ammonia",
+      "It is white",
+      "It is soluble in HNO3"
+    ],
+    "answer": "It is insoluble in concentrated ammonia",
+    "hint": "Iodine's silver salt is the only one in this halide group that refuses to form a soluble complex with NH3.",
+    "solution": "AgI remains insoluble even in concentrated NH3, whereas AgCl and AgBr dissolve.",
+    "page_ref": 16
+  }
+]

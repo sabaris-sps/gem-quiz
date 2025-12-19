@@ -6,5 +6,13 @@
     "has_pg_ref": true,
     "has_hints": true,
     "has_solutions": true
+  },
+  {
+    "asgn-unique-name": "salt-anions",
+    "asgn-display-name": "Salt - Anions *Unofficial",
+    "num_of_questions": 200,
+    "has_pg_ref": true,
+    "has_hints": true,
+    "has_solutions": true
   }
 ]
