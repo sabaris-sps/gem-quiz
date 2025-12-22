@@ -12,9 +12,9 @@ import {
 } from "./types";
 import { onAuthStateChanged } from "firebase/auth";
 import assignmentsList from "./assignmentsData.json";
-import { SYNC_DEBOUNCE_MS } from "./constants";
 
 const STORAGE_KEY_PREFIX = "quiz_progress_v3_";
+const STORAGE_KEY_THEME = "quiz_theme";
 
 const App: React.FC = () => {
   const [user, setUser] = useState<UserState | null>(null);
@@ -28,8 +28,26 @@ const App: React.FC = () => {
   );
   const [isSyncing, setIsSyncing] = useState(false);
   const [currentPath, setCurrentPath] = useState(window.location.pathname);
+  const [darkMode, setDarkMode] = useState<boolean>(() => {
+    const saved = localStorage.getItem(STORAGE_KEY_THEME);
+    if (saved !== null) return saved === "dark";
+    return window.matchMedia("(prefers-color-scheme: dark)").matches;
+  });
 
   const syncTimeoutRef = useRef<Record<string, number>>({});
+
+  // Theme effect
+  useEffect(() => {
+    if (darkMode) {
+      document.documentElement.classList.add("dark");
+      localStorage.setItem(STORAGE_KEY_THEME, "dark");
+    } else {
+      document.documentElement.classList.remove("dark");
+      localStorage.setItem(STORAGE_KEY_THEME, "light");
+    }
+  }, [darkMode]);
+
+  const toggleTheme = () => setDarkMode((prev) => !prev);
 
   // Routing Handler
   useEffect(() => {
@@ -89,7 +107,6 @@ const App: React.FC = () => {
 
   // Sync selected assignment with current path
   useEffect(() => {
-    // Standardize path by removing trailing slash if present (except for root)
     let sanitizedPath = currentPath;
     if (sanitizedPath.length > 1 && sanitizedPath.endsWith("/")) {
       sanitizedPath = sanitizedPath.slice(0, -1);
@@ -101,7 +118,7 @@ const App: React.FC = () => {
       return;
     }
 
-    const assignmentId = sanitizedPath.substring(1); // Remove leading slash
+    const assignmentId = sanitizedPath.substring(1);
     const found = (assignmentsList as Assignment[]).find(
       (a) => a["asgn-unique-name"] === assignmentId
     );
@@ -117,7 +134,6 @@ const App: React.FC = () => {
   const loadAssignmentData = async (asgn: Assignment) => {
     setAssignmentLoading(true);
     try {
-      // Use absolute path starting with / to ensure it works on sub-routes
       const response = await fetch(
         `/assignments/${asgn["asgn-unique-name"]}.json`
       );
@@ -130,7 +146,6 @@ const App: React.FC = () => {
       setSelectedAssignment(asgn);
     } catch (err) {
       console.error("Failed to load assignment:", err);
-      // Only redirect home if it truly failed to find the assignment
       if (!selectedAssignment) {
         window.history.pushState({}, "", "/");
         setCurrentPath("/");
@@ -179,19 +194,18 @@ const App: React.FC = () => {
       await dbService.saveAssignmentProgress(user.uid, asgnId, asgnProgress);
       setIsSyncing(false);
       delete syncTimeoutRef.current[asgnId];
-    }, SYNC_DEBOUNCE_MS);
+    }, 2000);
   };
 
-  // Show global loader until auth state is known
   if (
     !authInitialized ||
     (currentPath !== "/" && currentPath !== "" && assignmentLoading)
   ) {
     return (
-      <div className="h-screen w-screen flex items-center justify-center bg-slate-50">
+      <div className="h-screen w-screen flex items-center justify-center bg-slate-50 dark:bg-slate-950 transition-colors">
         <div className="flex flex-col items-center gap-4">
-          <div className="w-12 h-12 border-4 border-gemini-200 border-t-gemini-600 rounded-full animate-spin"></div>
-          <p className="text-slate-400 font-medium text-sm animate-pulse">
+          <div className="w-12 h-12 border-4 border-gemini-200 dark:border-slate-800 border-t-gemini-600 rounded-full animate-spin"></div>
+          <p className="text-slate-400 dark:text-slate-600 font-medium text-sm animate-pulse">
             Loading experience...
           </p>
         </div>
@@ -200,7 +214,13 @@ const App: React.FC = () => {
   }
 
   if (!user) {
-    return <Login onLoginSuccess={() => {}} />;
+    return (
+      <Login
+        onLoginSuccess={() => {}}
+        darkMode={darkMode}
+        toggleTheme={toggleTheme}
+      />
+    );
   }
 
   if (selectedAssignment && assignmentQuestions.length > 0) {
@@ -216,6 +236,8 @@ const App: React.FC = () => {
         onBack={handleGoBack}
         onLogout={() => authService.logout()}
         isSyncing={isSyncing}
+        darkMode={darkMode}
+        toggleTheme={toggleTheme}
       />
     );
   }
@@ -227,6 +249,8 @@ const App: React.FC = () => {
       onSelect={handleSelectAssignment}
       onLogout={() => authService.logout()}
       userEmail={user.email}
+      darkMode={darkMode}
+      toggleTheme={toggleTheme}
     />
   );
 };
