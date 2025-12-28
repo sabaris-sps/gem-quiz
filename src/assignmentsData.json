@@ -1,4 +1,11 @@
-[
+[{
+    "asgn-unique-name": "d-f-block1",
+    "asgn-display-name": "D & F Block 1",
+    "num_of_questions": 100,
+    "has_pg_ref": true,
+    "has_hints": true,
+    "has_solutions": true
+  },
   {
     "asgn-unique-name": "salt-analysis2",
     "asgn-display-name": "Salt Analysis 2",

@@ -1,0 +1,902 @@
+[
+  {
+    "qno": 1,
+    "question_text": "According to the IUPAC definition, which of the following is NOT regarded as a transition metal?",
+    "options": ["Iron", "Copper", "Silver", "Zinc"],
+    "answer": "Zinc",
+    "hint": "Transition metals are defined as metals which have an incomplete d subshell in their neutral atom or ions.",
+    "solution": "Group 12 elements (Zn, Cd, Hg) have a full d10 configuration in both their ground state and common oxidation states.",
+    "page_ref": 89
+  },
+  {
+    "qno": 2,
+    "question_text": "The electronic configuration of Chromium (Z=24) in its ground state is:",
+    "options": ["3d4 4s2", "3d5 4s1", "3d6 4s0", "3d4 4s1"],
+    "answer": "3d5 4s1",
+    "hint": "Half-filled and completely filled sets of orbitals are relatively more stable.",
+    "solution": "Cr adopts a 3d5 4s1 configuration to maximize stability through a half-filled d-shell.",
+    "page_ref": 90
+  },
+  {
+    "qno": 3,
+    "question_text": "Which element in the 3d series has the highest number of unpaired electrons in its ground state?",
+    "options": ["Mn", "Fe", "Cr", "V"],
+    "answer": "Cr",
+    "hint": "Consider the 4s orbital involvement in the configuration for this specific period 4 element.",
+    "solution": "Chromium has 6 unpaired electrons ([Ar] 3d5 4s1), while Manganese has only 5 ([Ar] 3d5 4s2).",
+    "page_ref": 90
+  },
+  {
+    "qno": 4,
+    "question_text": "The electronic configuration of Palladium (Z=46) is unique because it has:",
+    "options": ["5s2", "5s1", "5s0", "4d9"],
+    "answer": "5s0",
+    "hint": "It is an exception to the general (n-1)d ns configuration rule in the 4d series.",
+    "solution": "Palladium has the configuration [Kr] 4d10 5s0.",
+    "page_ref": 90
+  },
+  {
+    "qno": 5,
+    "question_text": "On what ground is Scandium (Z=21) classified as a transition element, but Zinc (Z=30) is not?",
+    "options": ["Sc is a metal, Zn is not", "Sc has incomplete 3d orbitals, Zn has filled 3d orbitals", "Sc is harder than Zn", "Zn has a higher melting point"],
+    "answer": "Sc has incomplete 3d orbitals, Zn has filled 3d orbitals",
+    "hint": "Look at the occupancy of the d-shell in the ground state.",
+    "solution": "Sc has a 3d1 configuration (incomplete), whereas Zn has a 3d10 configuration (complete) in ground and common ionic states.",
+    "page_ref": 91
+  },
+  {
+    "qno": 6,
+    "question_text": "In a given transition series, the melting points usually rise to a maximum at which d-electron configuration?",
+    "options": ["d0", "d5", "d10", "d1"],
+    "answer": "d5",
+    "hint": "Maximum melting point is associated with the involvement of the greatest number of electrons in interatomic metallic bonding.",
+    "solution": "The melting points rise to a maximum at d5 (except for Mn and Tc) and fall regularly as atomic number increases.",
+    "page_ref": 92
+  },
+  {
+    "qno": 7,
+    "question_text": "Which of the following elements has the lowest enthalpy of atomisation in the 3d series?",
+    "options": ["Sc", "Cu", "Zn", "Fe"],
+    "answer": "Zn",
+    "hint": "This element does not use d-electrons for metallic bonding as its d-shell is full.",
+    "solution": "Zinc has the lowest enthalpy of atomisation (126 kJ/mol) because it has no unpaired electrons for metallic bonding.",
+    "page_ref": 94
+  },
+  {
+    "qno": 8,
+    "question_text": "The significant increase in density from Titanium (Z=22) to Copper (Z=29) is due to:",
+    "options": ["Increase in atomic radius", "Decrease in metallic radius and increase in atomic mass", "Decrease in number of shells", "Formation of interstitial compounds"],
+    "answer": "Decrease in metallic radius and increase in atomic mass",
+    "hint": "Density is mass per unit volume; consider what happens to the size and weight as we move across the period.",
+    "solution": "The decrease in metallic radius coupled with increase in atomic mass results in a general increase in density.",
+    "page_ref": 94
+  },
+  {
+    "qno": 9,
+    "question_text": "Lanthanoid contraction is responsible for the fact that:",
+    "options": ["Zr and Y have same radius", "Zr and Nb have similar oxidation states", "Zr and Hf have similar radii", "Zr and Zn have similar properties"],
+    "answer": "Zr and Hf have similar radii",
+    "hint": "This effect occurs due to the filling of 4f orbitals before the 5d series.",
+    "solution": "The filling of 4f before 5d results in a regular decrease in radii, making the 4d and 5d series elements (like Zr and Hf) nearly identical in size.",
+    "page_ref": 94
+  },
+  {
+    "qno": 10,
+    "question_text": "In transition elements, which electrons are lost first when forming ions?",
+    "options": ["(n-1)d electrons", "ns electrons", "np electrons", "Inner core electrons"],
+    "answer": "ns electrons",
+    "hint": "Think about which shell is the 'outermost' in terms of the principal quantum number.",
+    "solution": "When d-block elements form ions, ns electrons are lost before (n-1) d electrons.",
+    "page_ref": 95
+  },
+  {
+    "qno": 11,
+    "question_text": "Why does the trend of steady increase in the second ionisation enthalpy show a break for Manganese?",
+    "options": ["Mn has a d10 configuration", "Mn2+ has a stable d5 configuration", "Mn is a noble gas", "Mn has no unpaired electrons"],
+    "answer": "Mn2+ has a stable d5 configuration",
+    "hint": "Stability is achieved when a subshell is half-filled.",
+    "solution": "The second IE involves removing an electron from 4s1. For Mn, this results in the extra stable half-filled d5 configuration of Mn2+.",
+    "page_ref": 95
+  },
+  {
+    "qno": 12,
+    "question_text": "The third ionisation enthalpy of Manganese (Mn) is very high because it involves:",
+    "options": ["Removal of an electron from 4s", "Removal of an electron from a stable d5 configuration", "Removal of an electron from a stable d10 configuration", "Addition of an electron"],
+    "answer": "Removal of an electron from a stable d5 configuration",
+    "hint": "Mn2+ has a half-filled d-subshell.",
+    "solution": "Mn2+ is [Ar] 3d5. Removing a third electron requires breaking this stable, half-filled configuration.",
+    "page_ref": 96
+  },
+  {
+    "qno": 13,
+    "question_text": "Which element in the 3d series exhibits the largest number of oxidation states?",
+    "options": ["Sc", "Ti", "Mn", "Cu"],
+    "answer": "Mn",
+    "hint": "This element is in the middle of the 3d series and can lose up to 7 electrons.",
+    "solution": "Manganese exhibits all oxidation states from +2 to +7.",
+    "page_ref": 97
+  },
+  {
+    "qno": 14,
+    "question_text": "Unlike p-block elements where oxidation states usually differ by two, transition metal oxidation states differ by:",
+    "options": ["Four", "Three", "Unity (One)", "Zero"],
+    "answer": "Unity (One)",
+    "hint": "Example: VII, VIII, VIV, VV.",
+    "solution": "Variability arises out of incomplete filling of d orbitals so that oxidation states differ by unity.",
+    "page_ref": 97
+  },
+  {
+    "qno": 15,
+    "question_text": "In which of the following compounds is the oxidation state of the transition metal zero?",
+    "options": ["KMnO4", "Cr2O3", "Ni(CO)4", "FeSO4"],
+    "answer": "Ni(CO)4",
+    "hint": "This happens with ligands capable of pi-acceptor character.",
+    "solution": "In metal carbonyls like Ni(CO)4 and Fe(CO)5, the oxidation state of the metal is zero.",
+    "page_ref": 97
+  },
+  {
+    "qno": 16,
+    "question_text": "In Group 6, which elements are found to be more stable in the +6 oxidation state than Chromium?",
+    "options": ["Mo and W", "V and Nb", "Mn and Tc", "Fe and Co"],
+    "answer": "Mo and W",
+    "hint": "In d-block, higher oxidation states are more stable for heavier members, unlike the p-block.",
+    "solution": "Mo(VI) and W(VI) are more stable than Cr(VI); thus Cr(VI) in the form of dichromate is a strong oxidant.",
+    "page_ref": 97
+  },
+  {
+    "qno": 17,
+    "question_text": "Copper (Cu) has a unique E° (M2+/M) value in the 3d series because it is:",
+    "options": ["Negative", "Zero", "Positive", "Highly unstable"],
+    "answer": "Positive",
+    "hint": "This accounts for its inability to liberate H2 from acids.",
+    "solution": "The E° for Cu is +0.34V. High energy to transform Cu(s) to Cu2+(aq) is not balanced by its hydration enthalpy.",
+    "page_ref": 98
+  },
+  {
+    "qno": 18,
+    "question_text": "Why is Cr2+ a strong reducing agent while Mn3+ is a strong oxidising agent, despite both having d4 configuration?",
+    "options": ["Cr2+ becomes d5", "Cr2+ becomes d3 (stable t2g half-filled)", "Mn3+ becomes d0", "Mn3+ becomes d10"],
+    "answer": "Cr2+ becomes d3 (stable t2g half-filled)",
+    "hint": "Consider the splitting of d-orbitals in an aqueous (octahedral) environment.",
+    "solution": "Cr2+ to Cr3+ changes configuration from d4 to d3 (half-filled t2g). Mn3+ to Mn2+ results in a half-filled d5 configuration.",
+    "page_ref": 98
+  },
+  {
+    "qno": 19,
+    "question_text": "The highest oxidation numbers are achieved by transition metals in their:",
+    "options": ["Chlorides", "Fluorides and Oxides", "Bromides", "Sulphides"],
+    "answer": "Fluorides and Oxides",
+    "hint": "These are highly electronegative elements capable of stabilizing high oxidation states.",
+    "solution": "The ability of fluorine and oxygen to stabilize high oxidation states is due to high lattice energy or bond enthalpy.",
+    "page_ref": 99
+  },
+  {
+    "qno": 20,
+    "question_text": "Why are Cu(II) halides known, but Cu(II) iodide is not?",
+    "options": ["CuI2 is too large", "Cu2+ oxidises I- to I2", "Iodine is a metal", "CuI2 is a gas"],
+    "answer": "Cu2+ oxidises I- to I2",
+    "hint": "Consider the redox reaction between the copper ion and the iodide ion.",
+    "solution": "2Cu2+ + 4I- -> Cu2I2(s) + I2. Cu2+ reduces to Cu+ in the presence of iodide.",
+    "page_ref": 100
+  },
+  {
+    "qno": 21,
+    "question_text": "The highest oxidation number in oxides coincides with the group number and is attained up to which element?",
+    "options": ["Fe", "Mn", "Cr", "V"],
+    "answer": "Mn",
+    "hint": "The highest oxide is M2O7.",
+    "solution": "The trend of attaining group number oxidation state in oxides (Sc2O3 to Mn2O7) stops at Group 7.",
+    "page_ref": 100
+  },
+  {
+    "qno": 22,
+    "question_text": "The spin-only magnetic moment is calculated using the formula:",
+    "options": ["sqrt(n(n+1))", "sqrt(n(n+2))", "sqrt(n(n+3))", "n(n+2)"],
+    "answer": "sqrt(n(n+2))",
+    "hint": "n represents the number of unpaired electrons.",
+    "solution": "The formula is mu = sqrt(n(n+2)) BM.",
+    "page_ref": 102
+  },
+  {
+    "qno": 23,
+    "question_text": "What is the calculated spin-only magnetic moment for a divalent ion with atomic number 25?",
+    "options": ["1.73 BM", "3.87 BM", "4.90 BM", "5.92 BM"],
+    "answer": "5.92 BM",
+    "hint": "Z=25 is Manganese. A divalent ion is Mn2+.",
+    "solution": "Mn2+ has 5 unpaired electrons (3d5). sqrt(5(5+2)) = sqrt(35) = 5.92 BM.",
+    "page_ref": 102
+  },
+  {
+    "qno": 24,
+    "question_text": "Which of the following ions is expected to be colourless in aqueous solution?",
+    "options": ["Ti3+", "V3+", "Sc3+", "Mn2+"],
+    "answer": "Sc3+",
+    "hint": "Color depends on the presence of unpaired electrons in d-orbitals for d-d transitions.",
+    "solution": "Sc3+ has a d0 configuration, so no d-d transitions are possible.",
+    "page_ref": 103
+  },
+  {
+    "qno": 25,
+    "question_text": "The violet colour of Ti3+ ions in aqueous solution is due to:",
+    "options": ["Charge transfer", "d-d transition", "f-f transition", "Presence of ligands"],
+    "answer": "d-d transition",
+    "hint": "The electron is excited from a lower energy d orbital to a higher one.",
+    "solution": "An electron in a lower energy d orbital of Ti3+ (d1) is excited by absorbing light in the visible region.",
+    "page_ref": 103
+  },
+  {
+    "qno": 26,
+    "question_text": "Which transition metal oxide is used as a catalyst in the Contact Process for H2SO4 manufacture?",
+    "options": ["Fe2O3", "V2O5", "MnO2", "CrO3"],
+    "answer": "V2O5",
+    "hint": "It is a pentoxide of a Group 5 element.",
+    "solution": "Vanadium(V) oxide is used in the Contact Process.",
+    "page_ref": 104
+  },
+  {
+    "qno": 27,
+    "question_text": "Transition metals are effective catalysts because they can:",
+    "options": ["Change their oxidation states", "Form interstitial compounds", "Be very hard", "Have low melting points"],
+    "answer": "Change their oxidation states",
+    "hint": "This ability allows them to form intermediates and lower activation energy.",
+    "solution": "Their catalytic activity is ascribed to their ability to adopt multiple oxidation states and to form complexes.",
+    "page_ref": 104
+  },
+  {
+    "qno": 28,
+    "question_text": "Which of the following is a characteristic of interstitial compounds?",
+    "options": ["They are chemically very reactive", "They have low melting points", "They are very hard", "They lose metallic conductivity"],
+    "answer": "They are very hard",
+    "hint": "Some borides even approach diamond in hardness.",
+    "solution": "Interstitial compounds are very hard, have high melting points, retain conductivity, and are chemically inert.",
+    "page_ref": 104
+  },
+  {
+    "qno": 29,
+    "question_text": "Alloys are formed by atoms with metallic radii that differ by not more than:",
+    "options": ["5 percent", "15 percent", "25 percent", "50 percent"],
+    "answer": "15 percent",
+    "hint": "They must have similar sizes to distribute randomly in the lattice.",
+    "solution": "Alloys are formed by atoms with metallic radii that are within about 15 percent of each other.",
+    "page_ref": 104
+  },
+  {
+    "qno": 30,
+    "question_text": "When MnO4(2-) is placed in an acidic solution, it undergoes:",
+    "options": ["Reduction only", "Oxidation only", "Disproportionation", "Precipitation"],
+    "answer": "Disproportionation",
+    "hint": "One part is oxidized to Mn(VII) and another reduced to Mn(IV).",
+    "solution": "3MnO4(2-) + 4H+ -> 2MnO4- + MnO2 + 2H2O.",
+    "page_ref": 105
+  },
+  {
+    "qno": 31,
+    "question_text": "In the preparation of K2Cr2O7, chromite ore is fused with:",
+    "options": ["NaOH only", "Na2CO3 and air", "H2SO4", "KClO3"],
+    "answer": "Na2CO3 and air",
+    "hint": "This is the first step in converting FeCr2O4 to sodium chromate.",
+    "solution": "4FeCr2O4 + 8Na2CO3 + 7O2 -> 8Na2CrO4 + 2Fe2O3 + 8CO2.",
+    "page_ref": 105
+  },
+  {
+    "qno": 32,
+    "question_text": "The bond angle of Cr-O-Cr in the dichromate ion is:",
+    "options": ["109.5°", "120°", "126°", "180°"],
+    "answer": "126°",
+    "hint": "The dichromate ion consists of two tetrahedra sharing one corner.",
+    "solution": "The dichromate ion structure has a Cr-O-Cr bond angle of 126°.",
+    "page_ref": 106
+  },
+  {
+    "qno": 33,
+    "question_text": "Chromates and dichromates are interconvertible in aqueous solution depending on:",
+    "options": ["Temperature", "Pressure", "pH", "Concentration of metal"],
+    "answer": "pH",
+    "hint": "Dichromate is favored in acidic conditions, chromate in basic.",
+    "solution": "2 CrO4(2-) + 2H+ -> Cr2O7(2-) + H2O (Acidic). Cr2O7(2-) + 2OH- -> 2CrO4(2-) + H2O (Basic).",
+    "page_ref": 106
+  },
+  {
+    "qno": 34,
+    "question_text": "What is the color of the manganate ion (MnO4^2-)?",
+    "options": ["Purple", "Green", "Yellow", "Colourless"],
+    "answer": "Green",
+    "hint": "It is paramagnetic and forms during the fusion of MnO2 with KOH.",
+    "solution": "The manganate ion is dark green.",
+    "page_ref": 106
+  },
+  {
+    "qno": 35,
+    "question_text": "In the laboratory, Mn(II) ion salts are oxidised to permanganate using:",
+    "options": ["Ozone", "Peroxodisulphate", "Hydrogen peroxide", "Chlorine"],
+    "answer": "Peroxodisulphate",
+    "hint": "The reagent is S2O8^2-.",
+    "solution": "2Mn2+ + 5S2O8(2-) + 8H2O -> 2MnO4- + 10SO4(2-) + 16H+.",
+    "page_ref": 107
+  },
+  {
+    "qno": 36,
+    "question_text": "KMnO4 decomposes at 513 K to give:",
+    "options": ["Mn and O2", "K2MnO4, MnO2 and O2", "Mn2O7", "KMnO2"],
+    "answer": "K2MnO4, MnO2 and O2",
+    "hint": "Thermal decomposition leads to a mixture of Mn(VI) and Mn(IV) species.",
+    "solution": "2KMnO4 -> K2MnO4 + MnO2 + O2.",
+    "page_ref": 107
+  },
+  {
+    "qno": 37,
+    "question_text": "The permanganate ion is diamagnetic because of the:",
+    "options": ["Presence of one unpaired electron", "Absence of unpaired electrons", "High temperature", "Tetrahedral shape"],
+    "answer": "Absence of unpaired electrons",
+    "hint": "Mn in permanganate is in the +7 oxidation state.",
+    "solution": "Mn(VII) has a d0 configuration, hence no unpaired electrons, making it diamagnetic.",
+    "page_ref": 107
+  },
+  {
+    "qno": 38,
+    "question_text": "In neutral or faintly alkaline solutions, KMnO4 oxidises thiosulphate (S2O3^2-) to:",
+    "options": ["SO2", "S", "SO4^2-", "S4O6^2-"],
+    "answer": "SO4^2-",
+    "hint": "This reaction is almost quantitative in alkaline medium.",
+    "solution": "8MnO4- + 3S2O3(2-) + H2O -> 8MnO2 + 6SO4(2-) + 2OH-.",
+    "page_ref": 108
+  },
+  {
+    "qno": 39,
+    "question_text": "The lanthanoid series consists of fourteen elements following:",
+    "options": ["Actinium", "Lanthanum", "Cerium", "Lutetium"],
+    "answer": "Lanthanum",
+    "hint": "These elements are also known as rare earth elements.",
+    "solution": "The lanthanoid series follows lanthanum (Z=57).",
+    "page_ref": 108
+  },
+  {
+    "qno": 40,
+    "question_text": "Which of the following lanthanoid ions is a strong reducing agent?",
+    "options": ["Ce4+", "Eu2+", "Tb4+", "Lu3+"],
+    "answer": "Eu2+",
+    "hint": "It has an f7 configuration and wants to revert to the common +3 state.",
+    "solution": "Eu2+ is a strong reducing agent as it changes to the more stable +3 state.",
+    "page_ref": 109
+  },
+  {
+    "qno": 41,
+    "question_text": "Ce(IV) is a good analytical reagent because it is a:",
+    "options": ["Strong oxidant", "Strong reductant", "Strong base", "Catalyst"],
+    "answer": "Strong oxidant",
+    "hint": "It has a noble gas configuration but reverts to the +3 state.",
+    "solution": "The formation of Ce(IV) is favoured by its noble gas configuration, but it is a strong oxidant reverting to +3.",
+    "page_ref": 109
+  },
+  {
+    "qno": 42,
+    "question_text": "The most common and stable oxidation state of all lanthanoids is:",
+    "options": ["+2", "+3", "+4", "+5"],
+    "answer": "+3",
+    "hint": "This dominates their chemistry.",
+    "solution": "The most stable oxidation state for all lanthanoids is +3.",
+    "page_ref": 109
+  },
+  {
+    "qno": 43,
+    "question_text": "Mischmetall is an alloy typically consisting of:",
+    "options": ["Iron and Aluminum", "Lanthanoid metal (~95%) and Iron (~5%)", "Copper and Zinc", "Chromium and Nickel"],
+    "answer": "Lanthanoid metal (~95%) and Iron (~5%)",
+    "hint": "It is used in making bullets and lighter flints.",
+    "solution": "Mischmetall consists of a lanthanoid metal (~95%) and iron (~5%) and traces of S, C, Ca and Al.",
+    "page_ref": 111
+  },
+  {
+    "qno": 44,
+    "question_text": "Why is actinoid contraction greater from element to element than lanthanoid contraction?",
+    "options": ["4f electrons are larger", "5f electrons offer poorer shielding", "6d electrons are buried", "Actinoids are radioactive"],
+    "answer": "5f electrons offer poorer shielding",
+    "hint": "The nuclear charge is less effectively balanced by electrons in this subshell.",
+    "solution": "The contraction is greater in actinoids resulting from poor shielding by 5f electrons.",
+    "page_ref": 112
+  },
+  {
+    "qno": 45,
+    "question_text": "Which element is used in dry battery cells?",
+    "options": ["TiO", "MnO2", "CrO2", "V2O5"],
+    "answer": "MnO2",
+    "hint": "It's a common oxide of Manganese.",
+    "solution": "MnO2 is used in dry battery cells.",
+    "page_ref": 113
+  },
+  {
+    "qno": 46,
+    "question_text": "The electronic configuration of Gadolinium (Z=64) is:",
+    "options": ["4f8 6s2", "4f7 5d1 6s2", "4f9 6s1", "4f7 5d2 6s1"],
+    "answer": "4f7 5d1 6s2",
+    "hint": "It maintains a half-filled f-shell for stability.",
+    "solution": "Gd (Z=64) has the configuration [Xe] 4f7 5d1 6s2.",
+    "page_ref": 110
+  },
+  {
+    "qno": 47,
+    "question_text": "Which actinoid has the highest oxidation state of +7?",
+    "options": ["Thorium", "Uranium", "Neptunium", "Americium"],
+    "answer": "Neptunium",
+    "hint": "Both Np and Pu exhibit this maximum state.",
+    "solution": "Np and Pu exhibit the maximum oxidation state of +7.",
+    "page_ref": 112
+  },
+  {
+    "qno": 48,
+    "question_text": "Which element among the following is a 'noble' metal?",
+    "options": ["Ti", "V", "Pt", "Cr"],
+    "answer": "Pt",
+    "hint": "These are unaffected by single acids.",
+    "solution": "A few transition metals are 'noble'—that is, they are unaffected by single acids.",
+    "page_ref": 101
+  },
+  {
+    "qno": 49,
+    "question_text": "The transition metal ion responsible for the red color in Ruby is:",
+    "options": ["Fe3+", "Cr3+", "Co2+", "Mn2+"],
+    "answer": "Cr3+",
+    "hint": "It replaces Al3+ in the octahedral sites of corundum.",
+    "solution": "Red ruby is formed when Cr3+ ions replace Al3+ in Al2O3.",
+    "page_ref": 15
+  },
+  {
+    "qno": 50,
+    "question_text": "The chemistry of actinoids is more complicated than lanthanoids due to:",
+    "options": ["Small size", "Radioactivity and wide range of oxidation states", "Lack of d-orbitals", "High electronegativity"],
+    "answer": "Radioactivity and wide range of oxidation states",
+    "hint": "Consider the stability of the isotopes and the 5f-6d-7s energy levels.",
+    "solution": "Complication arises due to multiple oxidation states and radioactive nature.",
+    "page_ref": 108
+  },
+  {
+    "qno": 51,
+    "question_text": "The property of 'quenching' of orbital angular momentum is relevant to which series?",
+    "options": ["First series transition metals", "Lanthanoids", "Actinoids", "Alkali metals"],
+    "answer": "First series transition metals",
+    "hint": "This allows the use of the 'spin-only' formula for magnetic moments.",
+    "solution": "For the first series, the contribution of the orbital angular momentum is effectively quenched.",
+    "page_ref": 102
+  },
+  {
+    "qno": 52,
+    "question_text": "Which of the following is NOT an amphoteric oxide?",
+    "options": ["V2O5", "Cr2O3", "CrO", "ZnO"],
+    "answer": "CrO",
+    "hint": "Lower oxidation state oxides of transition metals are usually basic.",
+    "solution": "CrO is basic, while Cr2O3 is amphoteric.",
+    "page_ref": 105
+  },
+  {
+    "qno": 53,
+    "question_text": "In the Haber process, the catalyst used is:",
+    "options": ["Nickel", "Vanadium", "Iron", "Platinum"],
+    "answer": "Iron",
+    "hint": "It is used in a finely divided state.",
+    "solution": "Finely divided iron is used in Haber's Process.",
+    "page_ref": 104
+  },
+  {
+    "qno": 54,
+    "question_text": "The Ziegler catalysts for polyethylene production consist of TiCl4 and:",
+    "options": ["Al(CH3)3", "V2O5", "PdCl2", "Ni"],
+    "answer": "Al(CH3)3",
+    "hint": "It is an organometallic compound of Aluminum.",
+    "solution": "TiCl4 with Al(CH3)3 forms the basis of Ziegler catalysts.",
+    "page_ref": 114
+  },
+  {
+    "qno": 55,
+    "question_text": "Stainless steel typically contains Iron, Carbon, Nickel and:",
+    "options": ["Copper", "Chromium", "Zinc", "Silver"],
+    "answer": "Chromium",
+    "hint": "This element provides corrosion resistance.",
+    "solution": "Stainless steel is a ferrous alloy containing Cr, Ni, and C.",
+    "page_ref": 114
+  },
+  {
+    "qno": 56,
+    "question_text": "The electronic configuration of Cu(II) is:",
+    "options": ["3d10", "3d9", "3d8", "3d10 4s1"],
+    "answer": "3d9",
+    "hint": "Copper is [Ar] 3d10 4s1.",
+    "solution": "Cu2+ is formed by losing one 4s and one 3d electron, leaving 3d9.",
+    "page_ref": 94
+  },
+  {
+    "qno": 57,
+    "question_text": "Which transition metal ion is blue in aqueous solution?",
+    "options": ["Fe3+", "Mn2+", "Cu2+", "Cr3+"],
+    "answer": "Cu2+",
+    "hint": "This ion has a d9 configuration.",
+    "solution": "Cu2+ (aquated) is blue.",
+    "page_ref": 103
+  },
+  {
+    "qno": 58,
+    "question_text": "What is the magnetic moment of Sc3+?",
+    "options": ["0 BM", "1.73 BM", "2.84 BM", "3.87 BM"],
+    "answer": "0 BM",
+    "hint": "It has no unpaired electrons.",
+    "solution": "Sc3+ is d0, so n=0, mu=0.",
+    "page_ref": 102
+  },
+  {
+    "qno": 59,
+    "question_text": "In the titration of KMnO4 with oxalic acid, the medium must be:",
+    "options": ["Basic", "Acidic (H2SO4)", "Neutral", "Buffered at pH 7"],
+    "answer": "Acidic (H2SO4)",
+    "hint": "Hydrochloric acid is avoided because it is oxidised to chlorine.",
+    "solution": "Acidified permanganate solution is required to oxidise oxalates to CO2.",
+    "page_ref": 107
+  },
+  {
+    "qno": 60,
+    "question_text": "Why is the E° for Mn more negative than expected from the trend?",
+    "options": ["Stability of d0", "Stability of d5", "Stability of d10", "High density"],
+    "answer": "Stability of d5",
+    "hint": "It relates to the half-filled d subshell of the ion.",
+    "solution": "The stability of half-filled d subshell in Mn2+ makes the E° more negative.",
+    "page_ref": 98
+  },
+  {
+    "qno": 61,
+    "question_text": "Which of the following is NOT a characteristic of d-block elements?",
+    "options": ["Variable oxidation states", "Paramagnetic behaviour", "Formation of coloured ions", "Always diamagnetic"],
+    "answer": "Always diamagnetic",
+    "hint": "Most transition metal ions have unpaired electrons.",
+    "solution": "Transition metals are mostly paramagnetic due to unpaired d-electrons.",
+    "page_ref": 91
+  },
+  {
+    "qno": 62,
+    "question_text": "The number of terminal oxygen atoms in a dichromate ion is:",
+    "options": ["4", "6", "7", "2"],
+    "answer": "6",
+    "hint": "One oxygen atom is shared as a bridge.",
+    "solution": "Dichromate (Cr2O7^2-) has 6 terminal oxygens and 1 bridging oxygen.",
+    "page_ref": 106
+  },
+  {
+    "qno": 63,
+    "question_text": "Which of the following is used in the Wacker process?",
+    "options": ["Fe", "PdCl2", "V2O5", "TiCl4"],
+    "answer": "PdCl2",
+    "hint": "It involves the oxidation of ethyne to ethanal.",
+    "solution": "The oxidation of ethyne to ethanal is catalysed by PdCl2.",
+    "page_ref": 114
+  },
+  {
+    "qno": 64,
+    "question_text": "The intense color of KMnO4 is explained by:",
+    "options": ["d-d transition", "Charge transfer transition", "Crystal field theory", "Metallic bonding"],
+    "answer": "Charge transfer transition",
+    "hint": "Mn is in +7 state (d0), so d-d transition is impossible.",
+    "solution": "The color is due to charge transfer from oxygen to manganese.",
+    "page_ref": 107
+  },
+  {
+    "qno": 65,
+    "question_text": "The ionic radius of La3+ is 106 pm. The expected radius for Lu3+ would be:",
+    "options": ["120 pm", "106 pm", "86 pm", "160 pm"],
+    "answer": "86 pm",
+    "hint": "Radii decrease across the lanthanoid series due to poor shielding of f-electrons.",
+    "solution": "Lu3+ is the last member; its radius (86 pm) is significantly smaller than La3+ (106 pm).",
+    "page_ref": 110
+  },
+  {
+    "qno": 66,
+    "question_text": "In the chromyl chloride test, the reddish-orange vapors are of:",
+    "options": ["CrCl3", "CrO2Cl2", "Na2CrO4", "CrO3"],
+    "answer": "CrO2Cl2",
+    "hint": "It's formed by heating NaCl and K2Cr2O7 with concentrated H2SO4.",
+    "solution": "Chromyl chloride vapors have the formula CrO2Cl2.",
+    "page_ref": 105
+  },
+  {
+    "qno": 67,
+    "question_text": "Which of the following is a mixed oxide?",
+    "options": ["Fe2O3", "MnO2", "Fe3O4", "CrO3"],
+    "answer": "Fe3O4",
+    "hint": "These are essentially combinations of two different oxides of the same metal.",
+    "solution": "Fe3O4, Mn3O4 and Co3O4 are mixed oxides.",
+    "page_ref": 100
+  },
+  {
+    "qno": 68,
+    "question_text": "The electronic configuration of Europium (Z=63) is [Xe]:",
+    "options": ["4f7 6s2", "4f6 5d1 6s2", "4f7 5d1 6s1", "4f8 6s1"],
+    "answer": "4f7 6s2",
+    "hint": "It reaches a half-filled f-subshell naturally.",
+    "solution": "Eu is [Xe] 4f7 6s2.",
+    "page_ref": 110
+  },
+  {
+    "qno": 69,
+    "question_text": "Which property of transition metals stays almost constant in a horizontal row?",
+    "options": ["Ionisation enthalpy", "Atomic radius", "Melting point", "None of these"],
+    "answer": "Atomic radius",
+    "hint": "Variation is quite small compared to s and p block elements.",
+    "solution": "In a given series, the variation in atomic radii is quite small.",
+    "page_ref": 93
+  },
+  {
+    "qno": 70,
+    "question_text": "High enthalpy of atomisation leads to metals being:",
+    "options": ["Noble", "Reactive", "Soft", "Liquid"],
+    "answer": "Noble",
+    "hint": "Consider the difficulty of breaking the metallic lattice.",
+    "solution": "Metals with very high enthalpy of atomisation tend to be noble in their reactions.",
+    "page_ref": 93
+  },
+  {
+    "qno": 71,
+    "question_text": "What is the oxidation state of Cr in the oxometal anion where it equals the group number?",
+    "options": ["+3", "+4", "+5", "+6"],
+    "answer": "+6",
+    "hint": "Group 6 element.",
+    "solution": "Chromium in chromate (CrO4^2-) is in +6 state, which is its group number.",
+    "page_ref": 115
+  },
+  {
+    "qno": 72,
+    "question_text": "The standard electrode potential E° (Zn2+/Zn) is -0.76V. This value is related to the stability of:",
+    "options": ["d0 configuration", "d5 configuration", "d10 configuration", "s1 configuration"],
+    "answer": "d10 configuration",
+    "hint": "Zinc is the last member of the 3d series.",
+    "solution": "The stability of the completely filled d10 configuration in Zn2+ is related to its E° value.",
+    "page_ref": 99
+  },
+  {
+    "qno": 73,
+    "question_text": "The formula of the oxocation of Vanadium(V) is:",
+    "options": ["VO2+", "VO2(+)", "V2O5", "VO3-"],
+    "answer": "VO2(+)",
+    "hint": "It stabilizes the +5 state.",
+    "solution": "Oxocations like VO2(+) stabilize Vanadium in its +5 state.",
+    "page_ref": 100
+  },
+  {
+    "qno": 74,
+    "question_text": "Which element has the highest second ionisation enthalpy in the 3d series?",
+    "options": ["Mn", "Fe", "Cr", "V"],
+    "answer": "Cr",
+    "hint": "Removing the second electron involves breaking a stable d5 configuration.",
+    "solution": "Cr+ is d5. Removing an electron from this half-filled shell requires high energy.",
+    "page_ref": 96
+  },
+  {
+    "qno": 75,
+    "question_text": "Which of the following lanthanoid oxides is used as a phosphor in TV screens?",
+    "options": ["CeO2", "La2O3", "Eu2O3", "Individual Ln oxides"],
+    "answer": "Individual Ln oxides",
+    "hint": "Used for fluorescence.",
+    "solution": "Some individual Ln oxides are used as phosphors in television screens.",
+    "page_ref": 111
+  },
+  {
+    "qno": 76,
+    "question_text": "The 5f orbitals in actinoids are:",
+    "options": ["More buried than 4f", "Less buried than 4f", "Equally buried as 4f", "Not involved in bonding"],
+    "answer": "Less buried than 4f",
+    "hint": "This allows actinoid electrons to participate in bonding to a greater extent.",
+    "solution": "5f orbitals are not as buried as 4f orbitals and hence 5f electrons participate in bonding more.",
+    "page_ref": 112
+  },
+  {
+    "qno": 77,
+    "question_text": "Which is the last element in the actinoid series?",
+    "options": ["Actinium", "Lawrencium", "Nobelium", "Mendelevium"],
+    "answer": "Lawrencium",
+    "hint": "Z = 103.",
+    "solution": "Lawrencium (Z=103) is the last element of the actinoid series.",
+    "page_ref": 111
+  },
+  {
+    "qno": 78,
+    "question_text": "Which alloy is used for contemporary UK 'copper' coins?",
+    "options": ["Bronze", "Brass", "Copper-coated steel", "Cu/Ni alloy"],
+    "answer": "Copper-coated steel",
+    "hint": "It is a recent transition from solid alloys.",
+    "solution": "Contemporary UK 'copper' coins are copper-coated steel.",
+    "page_ref": 114
+  },
+  {
+    "qno": 79,
+    "question_text": "Nickel catalysts are used in which industrial process?",
+    "options": ["Contact Process", "Haber's Process", "Hydrogenation of fats", "Wacker process"],
+    "answer": "Hydrogenation of fats",
+    "hint": "Converting oils to solid fats.",
+    "solution": "Nickel catalysts enable the hydrogenation of fats.",
+    "page_ref": 114
+  },
+  {
+    "qno": 80,
+    "question_text": "What causes the green color in Emerald?",
+    "options": ["Fe2+", "Cr3+", "Ni2+", "V3+"],
+    "answer": "Cr3+",
+    "hint": "It occupies the octahedral sites of beryl.",
+    "solution": "A green emerald emerges when Cr3+ ions replace Al3+ in beryl.",
+    "page_ref": 15
+  },
+  {
+    "qno": 81,
+    "question_text": "The change in oxidation state of Mn in the reaction of KMnO4 with KI in acidic medium is:",
+    "options": ["+7 to +6", "+7 to +4", "+7 to +2", "+7 to 0"],
+    "answer": "+7 to +2",
+    "hint": "Permanganate is reduced to a Manganese(II) salt in acid.",
+    "solution": "MnO4- + 8H+ + 5e- -> Mn2+ + 4H2O.",
+    "page_ref": 107
+  },
+  {
+    "qno": 82,
+    "question_text": "The most basic oxide among the following is:",
+    "options": ["V2O3", "V2O4", "V2O5", "CrO3"],
+    "answer": "V2O3",
+    "hint": "Basicity decreases as the oxidation state increases.",
+    "solution": "There is a gradual change from basic V2O3 to less basic V2O4 and amphoteric V2O5.",
+    "page_ref": 105
+  },
+  {
+    "qno": 83,
+    "question_text": "The formula of Mohr's salt is:",
+    "options": ["FeSO4.7H2O", "FeSO4(NH4)2SO4.6H2O", "K2SO4.Al2(SO4)3.24H2O", "CuSO4.5H2O"],
+    "answer": "FeSO4(NH4)2SO4.6H2O",
+    "hint": "It is a double salt containing ferrous and ammonium ions.",
+    "solution": "Mohr's salt is Ferrous Ammonium Sulphate hexahydrate.",
+    "page_ref": 27
+  },
+  {
+    "qno": 84,
+    "question_text": "Lanthanum and all lanthanoids react with water to give:",
+    "options": ["Oxides and O2", "Hydroxides and H2", "Hydrides", "Nitrates"],
+    "answer": "Hydroxides and H2",
+    "hint": "They behave like active metals.",
+    "solution": "Ln + H2O -> Ln(OH)3 + H2.",
+    "page_ref": 111
+  },
+  {
+    "qno": 85,
+    "question_text": "The first series transition metal that shows only +3 oxidation state (other than elemental form) is:",
+    "options": ["Titanium", "Vanadium", "Scandium", "Chromium"],
+    "answer": "Scandium",
+    "hint": "It does not exhibit variable oxidation states.",
+    "solution": "Scandium only exhibits the +3 oxidation state.",
+    "page_ref": 97
+  },
+  {
+    "qno": 86,
+    "question_text": "Manganate ion (MnO4^2-) is paramagnetic due to:",
+    "options": ["Zero unpaired electrons", "One unpaired electron", "Two unpaired electrons", "Five unpaired electrons"],
+    "answer": "One unpaired electron",
+    "hint": "Mn is in the +6 state.",
+    "solution": "Mn(VI) has a 3d1 configuration, providing one unpaired electron.",
+    "page_ref": 107
+  },
+  {
+    "qno": 87,
+    "question_text": "The transition metal ion with d5 configuration and purple color is:",
+    "options": ["Mn2+", "Fe3+", "Mn3+", "None of these"],
+    "answer": "None of these",
+    "hint": "Check the color table; d5 Mn2+ is pink.",
+    "solution": "Mn2+ is pink, Fe3+ is yellow. Purple color ions are usually Ti3+ (d1).",
+    "page_ref": 103
+  },
+  {
+    "qno": 88,
+    "question_text": "Which of the following is used as an anticancer drug?",
+    "options": ["Wilkinson catalyst", "Cisplatin", "Grubbs catalyst", "V2O5"],
+    "answer": "Cisplatin",
+    "hint": "It is a coordination compound of Platinum.",
+    "solution": "Cisplatin is used as an anti-cancer drug.",
+    "page_ref": 27
+  },
+  {
+    "qno": 89,
+    "question_text": "The magnetic moment of Ni2+ (Z=28) is approximately:",
+    "options": ["1.73 BM", "2.84 BM", "3.87 BM", "4.90 BM"],
+    "answer": "2.84 BM",
+    "hint": "Ni2+ has 2 unpaired electrons.",
+    "solution": "Ni is 3d8 4s2. Ni2+ is 3d8. Unpaired electrons n=2. sqrt(2(2+2)) = sqrt(8) = 2.84 BM.",
+    "page_ref": 102
+  },
+  {
+    "qno": 90,
+    "question_text": "Interstitial compounds like TiC and Mn4N are generally:",
+    "options": ["Ionic", "Covalent", "Non-stoichiometric", "Liquid at room temp"],
+    "answer": "Non-stoichiometric",
+    "hint": "Their formulas do not correspond to normal oxidation states.",
+    "solution": "Interstitial compounds are usually non-stoichiometric.",
+    "page_ref": 104
+  },
+  {
+    "qno": 91,
+    "question_text": "UK silver coins are an alloy of:",
+    "options": ["Ag and Cu", "Cu and Ni", "Cu and Zn", "Al and Ni"],
+    "answer": "Cu and Ni",
+    "hint": "These are the 'silver' colored coins that don't actually contain silver.",
+    "solution": "The 'silver' UK coins are a Cu/Ni alloy.",
+    "page_ref": 114
+  },
+  {
+    "qno": 92,
+    "question_text": "The oxidation state of Mn in Mn2O7 is:",
+    "options": ["+2", "+4", "+6", "+7"],
+    "answer": "+7",
+    "hint": "It's the highest oxidation state manganese can achieve.",
+    "solution": "In Mn2O7, Mn is in the +7 state.",
+    "page_ref": 105
+  },
+  {
+    "qno": 93,
+    "question_text": "In the lanthanoid series, the ionic radii decrease more significantly between:",
+    "options": ["La and Ce", "None, it is a regular decrease", "Gd and Tb", "Yb and Lu"],
+    "answer": "None, it is a regular decrease",
+    "hint": "This effect is called the Lanthanoid contraction.",
+    "solution": "There is a fairly regular decrease in the sizes with increasing atomic number.",
+    "page_ref": 109
+  },
+  {
+    "qno": 94,
+    "question_text": "Which of the following is a reducing agent in the lanthanoid series?",
+    "options": ["Ce4+", "Sm2+", "Tb4+", "Both A and C"],
+    "answer": "Sm2+",
+    "hint": "Ions in +2 state want to reach +3.",
+    "solution": "Samarium(II) acts as a reducing agent.",
+    "page_ref": 109
+  },
+  {
+    "qno": 95,
+    "question_text": "The electronic configuration of Samarium (Z=62) is [Xe]:",
+    "options": ["4f6 6s2", "4f5 5d1 6s2", "4f4 5d2 6s2", "4f7 6s1"],
+    "answer": "4f6 6s2",
+    "hint": "Standard filling without d-orbital involvement for this specific element.",
+    "solution": "Sm is [Xe] 4f6 6s2.",
+    "page_ref": 110
+  },
+  {
+    "qno": 96,
+    "question_text": "Exchange energy is proportional to the:",
+    "options": ["Number of paired electrons", "Total number of possible pairs of parallel spins", "Melting point", "Density"],
+    "answer": "Total number of possible pairs of parallel spins",
+    "hint": "This provides stability to half-filled and full-filled configurations.",
+    "solution": "Exchange energy is approximately proportional to the total number of possible pairs of parallel spins in degenerate orbitals.",
+    "page_ref": 96
+  },
+  {
+    "qno": 97,
+    "question_text": "Copper cannot liberate hydrogen from acids because its reduction potential is:",
+    "options": ["Negative", "Zero", "Positive", "Decreasing"],
+    "answer": "Positive",
+    "hint": "Standard reduction potential is +0.34V.",
+    "solution": "Having a positive E° value accounts for its inability to liberate H2 from acids.",
+    "page_ref": 98
+  },
+  {
+    "qno": 98,
+    "question_text": "In the sixth period, the orbitals filled are:",
+    "options": ["6s, 5d, 6p", "6s, 4f, 5d, 6p", "6s, 5f, 6d, 6p", "6s, 6p"],
+    "answer": "6s, 4f, 5d, 6p",
+    "hint": "This period includes the lanthanoid series.",
+    "solution": "Following the Aufbau principle, the sequence is 6s, then 4f, then 5d, then 6p.",
+    "page_ref": 3
+  },
+  {
+    "qno": 99,
+    "question_text": "What is the common oxidation state of Actinium?",
+    "options": ["+2", "+3", "+4", "+5"],
+    "answer": "+3",
+    "hint": "It is the first element of the actinoid series.",
+    "solution": "Actinium (Z=89) shows the +3 oxidation state.",
+    "page_ref": 112
+  },
+  {
+    "qno": 100,
+    "question_text": "The photographic industry relies on the special light-sensitive properties of:",
+    "options": ["AgCl", "AgBr", "AgI", "KMnO4"],
+    "answer": "AgBr",
+    "hint": "This silver halide is most commonly used in films.",
+    "solution": "The photographic industry relies on the light-sensitive properties of AgBr.",
+    "page_ref": 114
+  }
+]
